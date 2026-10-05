@@ -425,35 +425,35 @@ Genel gözlem: yeniden üretilebilirliği yüksek olan yaklaşımlar (OSAP, JKP,
 
 *Doğrulama notu:* Bu bölüm yazılırken web arama bütçesi oturumun ortasında tükenmiş ve yayıncı alan adlarının (SSRN, arXiv, Wiley, OUP, Elsevier, AMS, SEC, Hugging Face) büyük bölümü ağ politikasıyla engellenmiştir. Aşağıda "[DOĞRULANAMADI]" etiketi, künyenin bu oturumda birincil kaynaktan doğrulanamadığını gösterir; bu kaynakların çoğu alanın yerleşik çalışmalarıdır, ancak yıl/cilt/sayfa bilgileri yazarın bilgisine dayanır ve yayın öncesi kontrol edilmelidir. Etiketsiz künyeler bu oturumda arama sonuçları veya GitHub depoları üzerinden doğrulanmıştır.
 
-1. Almgren, R. ve Chriss, N. (2001). Optimal execution of portfolio transactions. *Journal of Risk*, 3(2), 5–39. [DOĞRULANAMADI]
-2. Almgren, R., Thum, C., Hauptmann, E. ve Li, H. (2005). Direct estimation of equity market impact. *Risk*, 18(7), 58–62. [DOĞRULANAMADI]
+1. Almgren, R. ve Chriss, N. (2001). Optimal execution of portfolio transactions. *Journal of Risk*, 3(2), 5–39. DOI 10.21314/JOR.2001.041. [D-arama]
+2. Almgren, R., Thum, C., Hauptmann, E. ve Li, H. (2005). Direct estimation of equity market impact. *Risk*, 18(7), 58–62. [D-arama]
 3. Arnott, R., Harvey, C. R. ve Markowitz, H. (2019). A Backtesting Protocol in the Era of Machine Learning. *Journal of Financial Data Science*, 1(1), 64–74. SSRN 3275654. https://papers.ssrn.com/abstract=3275654
 4. Avramov, D., Cheng, S. ve Metzker, L. (2023). Machine Learning vs. Economic Restrictions: Evidence from Stock Return Predictability. *Management Science*, 69(5), 2587–2619. [DOĞRULANAMADI]
-5. Bailey, D. H., Borwein, J. M., López de Prado, M. ve Zhu, Q. J. (2014). Pseudo-Mathematics and Financial Charlatanism: The Effects of Backtest Overfitting on Out-of-Sample Performance. *Notices of the American Mathematical Society*, 61(5), 458–471. [DOĞRULANAMADI — künye bilgisi yazarın bilgisine dayanır; makale varlığı arama sonuçlarıyla dolaylı doğrulandı]
+5. Bailey, D. H., Borwein, J. M., López de Prado, M. ve Zhu, Q. J. (2014). Pseudo-Mathematics and Financial Charlatanism: The Effects of Backtest Overfitting on Out-of-Sample Performance. *Notices of the American Mathematical Society*, 61(5), 458–471. [D-arama]
 6. Bailey, D. H., Borwein, J. M., López de Prado, M. ve Zhu, Q. J. (2017). The Probability of Backtest Overfitting. *Journal of Computational Finance*, 20(4), 39–69. DOI 10.21314/JCF.2016.322. https://www.risk.net/journal-of-computational-finance/2471206/the-probability-of-backtest-overfitting
 7. Bailey, D. H. ve López de Prado, M. (2014). The Deflated Sharpe Ratio: Correcting for Selection Bias, Backtest Overfitting and Non-Normality. *Journal of Portfolio Management*, 40(5), 94–107. SSRN 2460551. [DOĞRULANAMADI]
-8. Bergmeir, C. ve Benítez, J. M. (2012). On the use of cross-validation for time series predictor evaluation. *Information Sciences*, 191, 192–213. [DOĞRULANAMADI]
-9. Bergmeir, C., Hyndman, R. J. ve Koo, B. (2018). A note on the validity of cross-validation for evaluating autoregressive time series prediction. *Computational Statistics & Data Analysis*, 120, 70–83. DOI 10.1016/j.csda.2017.11.003. [DOĞRULANAMADI]
-10. Bollen, J., Mao, H. ve Zeng, X. (2011). Twitter mood predicts the stock market. *Journal of Computational Science*, 2(1), 1–8. [DOĞRULANAMADI]
-11. Brown, S. J., Goetzmann, W., Ibbotson, R. G. ve Ross, S. A. (1992). Survivorship Bias in Performance Studies. *Review of Financial Studies*, 5(4), 553–580. [DOĞRULANAMADI]
-12. Chen, A. Y. ve Velikov, M. (2023). Zeroing In on the Expected Returns of Anomalies. *Journal of Financial and Quantitative Analysis*, 58(3), 968–1004. [DOĞRULANAMADI]
+8. Bergmeir, C. ve Benítez, J. M. (2012). On the use of cross-validation for time series predictor evaluation. *Information Sciences*, 191, 192–213. [D-arama]
+9. Bergmeir, C., Hyndman, R. J. ve Koo, B. (2018). A note on the validity of cross-validation for evaluating autoregressive time series prediction. *Computational Statistics & Data Analysis*, 120, 70–83. DOI 10.1016/j.csda.2017.11.003. [D-arama]
+10. Bollen, J., Mao, H. ve Zeng, X. (2011). Twitter mood predicts the stock market. *Journal of Computational Science*, 2(1), 1–8. [D-arama]
+11. Brown, S. J., Goetzmann, W., Ibbotson, R. G. ve Ross, S. A. (1992). Survivorship Bias in Performance Studies. *Review of Financial Studies*, 5(4), 553–580. [D-arama]
+12. Chen, A. Y. ve Velikov, M. (2023). Zeroing In on the Expected Returns of Anomalies. *Journal of Financial and Quantitative Analysis*, 58(3), 968–1004. [D-arama]
 13. Chen, A. Y. ve Zimmermann, T. (2020). Publication Bias and the Cross-Section of Stock Returns. *Review of Asset Pricing Studies*, 10(2), 249–289. https://ideas.repec.org/a/oup/rasset/v10y2020i2p249-289..html
 14. Chen, A. Y. ve Zimmermann, T. (2022). Open Source Cross-Sectional Asset Pricing. *Critical Finance Review*, 11(2), 207–264. Kod: https://github.com/OpenSourceAP/CrossSection ; veri: https://www.openassetpricing.com
 15. DatedGPT — Yan, Y., Tang, R., Gao, Z., Jiang, W. ve Lu, Y. (2026). DatedGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining. arXiv:2603.11838. https://arxiv.org/abs/2603.11838 ; demo: www.datedgpt.com
-16. DeMiguel, V., Garlappi, L. ve Uppal, R. (2009). Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy? *Review of Financial Studies*, 22(5), 1915–1953. [DOĞRULANAMADI]
-17. Deng, C., Zhao, Y., Tang, X., Gerstein, M. ve Cohan, A. (2024). Investigating Data Contamination in Modern Benchmarks for Large Language Models. *NAACL 2024*. [DOĞRULANAMADI]
+16. DeMiguel, V., Garlappi, L. ve Uppal, R. (2009). Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy? *Review of Financial Studies*, 22(5), 1915–1953. [D-arama]
+17. Deng, C., Zhao, Y., Tang, X., Gerstein, M. ve Cohan, A. (2024). Investigating Data Contamination in Modern Benchmarks for Large Language Models. *NAACL 2024*, 8706–8719. [D-arama]
 18. Derwent Capital Markets. Wikipedia maddesi ve HedgeCo haberleri (Mayıs 2012, "Twitter hedge fund shuts down after a month"). https://en.wikipedia.org/wiki/Derwent_Capital_Markets (ikincil kaynak)
 19. Detzel, A., Novy-Marx, R. ve Velikov, M. (2023). Model Comparison with Transaction Costs. *Journal of Finance*, 78(3), 1743–1775. https://ideas.repec.org/a/bla/jfinan/v78y2023i3p1743-1775.html
-20. Elton, E. J., Gruber, M. J. ve Blake, C. R. (1996). Survivorship Bias and Mutual Fund Performance. *Review of Financial Studies*, 9(4), 1097–1120. [DOĞRULANAMADI]
+20. Elton, E. J., Gruber, M. J. ve Blake, C. R. (1996). Survivorship Bias and Mutual Fund Performance. *Review of Financial Studies*, 9(4), 1097–1120. [D-arama]
 21. FinCAD — (2026). Summoning the Oracle to Slay It: Mitigating Look-Ahead Bias in Financial Backtesting with Large Language Models. arXiv:2605.24564; EMNLP 2026 Main. https://arxiv.org/abs/2605.24564 ; kod: https://github.com/waylonli/FinCAD (yazar listesi bu oturumda doğrulanamadı)
 22. FinRL — Liu, X.-Y. vd. (2020). FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance. NeurIPS 2020 Deep RL Workshop; arXiv:2011.09607. Kod: https://github.com/AI4Finance-Foundation/FinRL
-23. Frazzini, A., Israel, R. ve Moskowitz, T. J. (2018). Trading Costs. SSRN 3229719. [DOĞRULANAMADI]
+23. Frazzini, A., Israel, R. ve Moskowitz, T. J. (2018). Trading Costs. SSRN 3229719. [D-arama]
 24. Gao, Z., Jiang, W. ve Yan, Y. (2025). Detecting Lookahead Bias in LLM Forecasts. arXiv:2512.23847. https://arxiv.org/abs/2512.23847 (içerik yalnızca başlık/özet düzeyinde görüldü)
 25. Glasserman, P. ve Lin, C. (2023). Assessing Look-Ahead Bias in Stock Return Predictions Generated By GPT Sentiment Analysis. arXiv:2309.17322. https://arxiv.org/abs/2309.17322
-26. Golchin, S. ve Surdeanu, M. (2023). Time Travel in LLMs: Tracing Data Contamination in Large Language Models. arXiv:2308.08493; ICLR 2024. [DOĞRULANAMADI]
+26. Golchin, S. ve Surdeanu, M. (2023). Time Travel in LLMs: Tracing Data Contamination in Large Language Models. arXiv:2308.08493; ICLR 2024. [D-arama]
 27. Gu, S., Kelly, B. ve Xiu, D. (2020). Empirical Asset Pricing via Machine Learning. *Review of Financial Studies*, 33(5), 2223–2273. [DOĞRULANAMADI]
-28. Harvey, C. R. (2017). Presidential Address: The Scientific Outlook in Financial Economics. *Journal of Finance*, 72(4), 1399–1440. [DOĞRULANAMADI]
-29. Harvey, C. R. ve Liu, Y. (2015). Backtesting. *Journal of Portfolio Management*, 42(1), 13–28. [DOĞRULANAMADI]
+28. Harvey, C. R. (2017). Presidential Address: The Scientific Outlook in Financial Economics. *Journal of Finance*, 72(4), 1399–1440. [D-arama]
+29. Harvey, C. R. ve Liu, Y. (2015). Backtesting. *Journal of Portfolio Management*, 42(1), 13–28. [D-arama]
 30. Harvey, C. R. ve Liu, Y. (2020). False (and Missed) Discoveries in Financial Economics. *Journal of Finance*, 75(5), 2503–2553. DOI 10.1111/jofi.12951. https://ideas.repec.org/a/bla/jfinan/v75y2020i5p2503-2553.html
 31. Harvey, C. R., Liu, Y. ve Zhu, H. (2016). … and the Cross-Section of Expected Returns. *Review of Financial Studies*, 29(1), 5–68. [DOĞRULANAMADI]
 32. He, S., Lv, L., Manela, A. ve Wu, J. (2025). Chronologically Consistent Large Language Models. arXiv:2502.21206. https://arxiv.org/abs/2502.21206
@@ -463,35 +463,35 @@ Genel gözlem: yeniden üretilebilirliği yüksek olan yaklaşımlar (OSAP, JKP,
 36. Jensen, T. I., Kelly, B. ve Pedersen, L. H. (2023). Is There a Replication Crisis in Finance? *Journal of Finance*, 78(5), 2465–2518. Kod/veri: https://github.com/bkelly-lab/ReplicationCrisis ; https://github.com/bkelly-lab/jkp-data ; https://jkpfactors.com
 37. Jensen, T. I., Kelly, B., Malamud, S. ve Pedersen, L. H. (2026). Machine Learning and the Implementable Efficient Frontier. *Review of Financial Studies* (basımda); SSRN 4187217; Swiss Finance Institute Research Paper 22-63. https://papers.ssrn.com/abstract=4187217
 38. Kapoor, S. ve Narayanan, A. (2023). Leakage and the reproducibility crisis in machine-learning-based science. *Patterns*, 4(9), 100804. arXiv:2207.07048. https://reproducible.cs.princeton.edu/
-39. Kaufman, S., Rosset, S., Perlich, C. ve Stitelman, O. (2012). Leakage in data mining: Formulation, detection, and avoidance. *ACM Transactions on Knowledge Discovery from Data*, 6(4), Art. 15. [DOĞRULANAMADI]
-40. Khandani, A. E. ve Lo, A. W. (2011). What happened to the quants in August 2007? Evidence from factors and transactions data. *Journal of Financial Markets*, 14(1), 1–46. [DOĞRULANAMADI]
-41. Kim, A., Muhn, M. ve Nikolaev, V. (2024). Financial Statement Analysis with Large Language Models. SSRN 4835311 / Chicago Booth çalışma kâğıdı. [DOĞRULANAMADI]
+39. Kaufman, S., Rosset, S., Perlich, C. ve Stitelman, O. (2012). Leakage in data mining: Formulation, detection, and avoidance. *ACM Transactions on Knowledge Discovery from Data*, 6(4), Art. 15. https://doi.org/10.1145/2382577.2382579 [D-arama]
+40. Khandani, A. E. ve Lo, A. W. (2011). What happened to the quants in August 2007? Evidence from factors and transactions data. *Journal of Financial Markets*, 14(1), 1–46. [D-arama]
+41. Kim, A., Muhn, M. ve Nikolaev, V. (2024). Financial Statement Analysis with Large Language Models. SSRN 4835311 / Chicago Booth çalışma kâğıdı. arXiv:2407.17866. [D-arama]
 42. Levy, B. (2024). Caution Ahead: Numerical Reasoning and Look-ahead Bias in AI Models. Chicago Booth, Fama-Miller Center çalışma kâğıdı (Aralık 2024). https://www.chicagobooth.edu/research/fama-miller/finance-research/working-papers/2025/caution-ahead
 43. Lim, B., Arık, S. Ö., Loeff, N. ve Pfister, T. (2021). Temporal Fusion Transformers for interpretable multi-horizon time series forecasting. *International Journal of Forecasting*, 37(4), 1748–1764; arXiv:1912.09363. Kod: https://github.com/google-research/google-research/tree/master/tft (dergi künyesi [DOĞRULANAMADI]; kod doğrulandı)
-44. Lo, A. W. (2002). The Statistics of Sharpe Ratios. *Financial Analysts Journal*, 58(4), 36–52. [DOĞRULANAMADI]
+44. Lo, A. W. (2002). The Statistics of Sharpe Ratios. *Financial Analysts Journal*, 58(4), 36–52. [D-arama]
 45. Lo, A. W. ve MacKinlay, A. C. (1990). Data-Snooping Biases in Tests of Financial Asset Pricing Models. *Review of Financial Studies*, 3(3), 431–467. [DOĞRULANAMADI]
 46. Look-Ahead-Bench (2026). Look-Ahead-Bench: a Standardized Benchmark of Look-ahead Bias in Point-in-Time LLMs for Finance. arXiv:2601.13770. https://arxiv.org/abs/2601.13770 ; kod: https://github.com/benstaf/lookaheadbench (yazar listesi bu oturumda doğrulanamadı)
 47. López de Prado, M. (2018). *Advances in Financial Machine Learning*. Wiley. (Bölüm 7: Cross-Validation in Finance; Bölüm 12: Backtesting through Cross-Validation; Bölüm 14: Backtest Statistics.)
-48. López de Prado, M. (2019). Tactical Investment Algorithms. SSRN 3459866. [DOĞRULANAMADI]
+48. López de Prado, M. (2019). Tactical Investment Algorithms. SSRN 3459866. [D-arama]
 49. Lopez-Lira, A. ve Tang, Y. (2023). Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models. arXiv:2304.07619; SSRN 4412788. [DOĞRULANAMADI — bu oturumda yeniden erişilemedi]
 50. McLean, R. D. ve Pontiff, J. (2016). Does Academic Research Destroy Stock Return Predictability? *Journal of Finance*, 71(1), 5–32. [DOĞRULANAMADI]
 51. Moskowitz, T. J., Ooi, Y. H. ve Pedersen, L. H. (2012). Time series momentum. *Journal of Financial Economics*, 104(2), 228–250. [DOĞRULANAMADI]
 52. Novy-Marx, R. ve Velikov, M. (2016). A Taxonomy of Anomalies and Their Trading Costs. *Review of Financial Studies*, 29(1), 104–147. https://ideas.repec.org/a/oup/rfinst/v29y2016i1p104-147..html
-53. Pesaran, M. H. ve Timmermann, A. (2007). Selection of estimation window in the presence of breaks. *Journal of Econometrics*, 137(1), 134–161. [DOĞRULANAMADI]
-54. Sainz, O., Campos, J. A., García-Ferrero, I., Etxaniz, J., de Lacalle, O. L. ve Agirre, E. (2023). NLP Evaluation in trouble: On the Need to Measure LLM Data Contamination for each Benchmark. *Findings of EMNLP 2023*. [DOĞRULANAMADI]
+53. Pesaran, M. H. ve Timmermann, A. (2007). Selection of estimation window in the presence of breaks. *Journal of Econometrics*, 137(1), 134–161. [D-arama]
+54. Sainz, O., Campos, J. A., García-Ferrero, I., Etxaniz, J., de Lacalle, O. L. ve Agirre, E. (2023). NLP Evaluation in trouble: On the Need to Measure LLM Data Contamination for each Benchmark. *Findings of EMNLP 2023*, 10776–10787. arXiv:2310.18018. [D-arama]
 55. Sarkar, S. K. ve Vafa, K. (2024). Lookahead Bias in Pretrained Language Models. SSRN 4754678; ICML 2025. https://icml.cc/virtual/2025/48685
 56. Sentient Investment Management — Bloomberg (7 Eylül 2018). "AI Hedge Fund Is Said to Liquidate After Less Than Two Years." https://www.bloomberg.com/news/articles/2018-09-07/ai-hedge-fund-sentient-is-said-to-shut-after-less-than-two-years (haber kaynağı)
 57. Sezer, O. B., Gudelek, M. U. ve Ozbayoglu, A. M. (2020). Financial time series forecasting with deep learning: A systematic literature review: 2005–2019. *Applied Soft Computing*, 90, 106181. [DOĞRULANAMADI]
 58. Shumway, T. (1997). The Delisting Bias in CRSP Data. *Journal of Finance*, 52(1), 327–340. [DOĞRULANAMADI]
 59. Suhonen, A., Lennkh, M. ve Perez, F. (2017). Quantifying Backtest Overfitting in Alternative Beta Strategies. *Journal of Portfolio Management*, 43(2), 90–104 (Kış 2017). (Dergi ve yıl doğrulandı; cilt/sayfa [DOĞRULANAMADI])
-60. Sullivan, R., Timmermann, A. ve White, H. (1999). Data-Snooping, Technical Trading Rule Performance, and the Bootstrap. *Journal of Finance*, 54(5), 1647–1691. [DOĞRULANAMADI]
-61. Tóth, B., Lempérière, Y., Deremble, C., de Lataillade, J., Kockelkoren, J. ve Bouchaud, J.-P. (2011). Anomalous Price Impact and the Critical Nature of Liquidity in Financial Markets. *Physical Review X*, 1, 021006. [DOĞRULANAMADI]
+60. Sullivan, R., Timmermann, A. ve White, H. (1999). Data-Snooping, Technical Trading Rule Performance, and the Bootstrap. *Journal of Finance*, 54(5), 1647–1691. [D-arama]
+61. Tóth, B., Lempérière, Y., Deremble, C., de Lataillade, J., Kockelkoren, J. ve Bouchaud, J.-P. (2011). Anomalous Price Impact and the Critical Nature of Liquidity in Financial Markets. *Physical Review X*, 1, 021006. https://doi.org/10.1103/PhysRevX.1.021006 [D-arama]
 62. TradingAgents — Xiao, Y. vd. (2025). TradingAgents: Multi-Agents LLM Financial Trading Framework. arXiv:2412.20138. Kod: https://github.com/TauricResearch/TradingAgents (README v0.5.x, Eylül 2026, doğrulandı)
 63. TSFMAudit (2026). Data Contamination Auditing in Forecasting Time Series Foundation Models. arXiv:2605.26161. https://arxiv.org/abs/2605.26161 (yalnızca başlık düzeyinde görüldü)
 64. Welch, I. ve Goyal, A. (2008). A Comprehensive Look at the Empirical Performance of Equity Premium Prediction. *Review of Financial Studies*, 21(4), 1455–1508. [DOĞRULANAMADI]
 65. White, H. (2000). A Reality Check for Data Snooping. *Econometrica*, 68(5), 1097–1126. [DOĞRULANAMADI]
 66. Yu, Y. vd. (2023). FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design. arXiv:2311.13743. Kod: https://github.com/pipiku915/FinMem-LLM-StockTrading
 67. Zhang, Z., Zohren, S. ve Roberts, S. (2020). Deep Reinforcement Learning for Trading. *Journal of Financial Data Science*, 2(2), 25–40. [DOĞRULANAMADI]
-68. Amazon Chronos — Ansari, A. F. vd. (2024). Chronos: Learning the Language of Time Series. arXiv:2403.07815; *TMLR*. Kod/ağırlıklar: https://github.com/amazon-science/chronos-forecasting ; veri kümeleri: https://huggingface.co/datasets/autogluon/chronos_datasets (depo doğrulandı; makale künyesi [DOĞRULANAMADI])
+68. Amazon Chronos — Ansari, A. F. vd. (2024). Chronos: Learning the Language of Time Series. arXiv:2403.07815; *Transactions on Machine Learning Research (TMLR)*, 2024. Kod/ağırlıklar: https://github.com/amazon-science/chronos-forecasting ; veri kümeleri: https://huggingface.co/datasets/autogluon/chronos_datasets (depo doğrulandı) [D-arama]
 69. AIEQ performans verileri — ikincil kaynaklar (portfolioslab.com, dividend.com, Yahoo Finance performans sayfası), 2025. Resmi Amplify ETFs sayfası bu oturumda erişilemedi. [kısmen DOĞRULANAMADI]
 70. Knight Capital (2012), Zillow Offers (2021), Voleon, Numerai model çürümesi, Kaggle Jane Street shake-up — bu oturumda birincil kaynak erişilemedi. [DOĞRULANAMADI]

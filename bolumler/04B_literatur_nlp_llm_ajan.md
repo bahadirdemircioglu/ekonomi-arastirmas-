@@ -309,25 +309,25 @@ Baker, S. R., Bloom, N., & Davis, S. J. (2016). Measuring Economic Policy Uncert
 
 Bollen, J., Mao, H., & Zeng, X.-J. (2011). Twitter mood predicts the stock market. Journal of Computational Science, 2(1), 1–8. arXiv:1010.3003. https://arxiv.org/abs/1010.3003
 
-Bybee, L., Kelly, B., Manela, A., & Xiu, D. (2024). Business News and Business Cycles. Journal of Finance. [DOĞRULANAMADI]
+Bybee, L., Kelly, B., Manela, A., & Xiu, D. (2024). Business News and Business Cycles. Journal of Finance. [D-arama]
 
 Caldara, D., & Iacoviello, M. (2022). Measuring Geopolitical Risk. American Economic Review, 112(4), 1194–1225. DOI 10.1257/aer.20191823
 
-Chen, Y., Kelly, B., & Xiu, D. (2022; rev. 2024). Expected Returns and Large Language Models. SSRN çalışma kâğıdı (Chicago Booth / Yale). SSRN kimliği bu oturumda teyit edilemedi. [DOĞRULANAMADI]
+Chen, Y., Kelly, B., & Xiu, D. (2023). Expected Returns and Large Language Models. SSRN çalışma kâğıdı (Chicago Booth / Yale). [D-arama; düzeltildi: yıl 2022→2023]
 
-Chen, Y., Wei, Z., & Huang, X. (2018). Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction. CIKM 2018. [DOĞRULANAMADI]
+Chen, Y., Wei, Z., & Huang, X. (2018). Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction. CIKM 2018, 1655–1658. [D-arama]
 
 Chen, Z., Chen, W., Smiley, C., Shah, S., Borova, I., Langdon, D., Moussa, R., Beane, M., Huang, T.-H., Routledge, B., & Wang, W. Y. (2021). FinQA: A Dataset of Numerical Reasoning over Financial Data. Proceedings of EMNLP 2021. arXiv:2109.00122; https://aclanthology.org/2021.emnlp-main.300
 
 Chen, Z., Li, S., Smiley, C., Ma, Z., Shah, S., & Wang, W. Y. (2022). ConvFinQA: Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering. EMNLP 2022. arXiv:2210.03849
 
-Cohen, L., Malloy, C., & Nguyen, Q. (2020). Lazy Prices. Journal of Finance, 75(3). [DOĞRULANAMADI]
+Cohen, L., Malloy, C., & Nguyen, Q. (2020). Lazy Prices. Journal of Finance, 75(3), 1371–1415. [D-arama]
 
 Ding, X., Zhang, Y., Liu, T., & Duan, J. (2015). Deep Learning for Event-Driven Stock Prediction. Proceedings of IJCAI 2015, 2327–2333. https://www.ijcai.org/Abstract/15/329
 
-Fatouros, G., Metaxas, K., Soldatos, J., & Kyriazis, D. (2024). Can Large Language Models Beat Wall Street? Unveiling the Potential of AI in Stock Selection (MarketSenseAI). arXiv / Journal of Big Data. [DOĞRULANAMADI]
+Fatouros, G., Metaxas, K., Soldatos, J., & Kyriazis, D. (2024). Can Large Language Models Beat Wall Street? Unveiling the Potential of AI in Stock Selection (MarketSenseAI). arXiv:2401.03737. [D-arama; düzeltildi: yayın yeri arXiv:2401.03737 olarak netleştirildi, Journal of Big Data teyit edilemedi]
 
-Fedyk, A. (2024). Front-Page News: The Effect of News Positioning on Financial Markets. Journal of Finance. [DOĞRULANAMADI]
+Fedyk, A. (2024). Front-Page News: The Effect of News Positioning on Financial Markets. Journal of Finance, 79(1), 5–33. https://doi.org/10.1111/jofi.13287 [D-arama]
 
 Feng, F., He, X., Wang, X., Luo, C., Liu, Y., & Chua, T.-S. (2019). Temporal Relational Ranking for Stock Prediction. ACM Transactions on Information Systems, 37(2), Article 27. DOI 10.1145/3309547; arXiv:1809.09441. Kod: https://github.com/fulifeng/Temporal_Relational_Stock_Ranking
 
@@ -335,25 +335,25 @@ Glasserman, P., & Lin, C. (2023). Assessing Look-Ahead Bias in Stock Return Pred
 
 Gruver, N., Finzi, M., Qiu, S., & Wilson, A. G. (2023). Large Language Models Are Zero-Shot Time Series Forecasters. Advances in Neural Information Processing Systems 36 (NeurIPS 2023). arXiv:2310.07820. Kod: https://github.com/ngruver/llmtime
 
-Hansen, A. L., & Kazinnik, S. (2023). Can ChatGPT Decipher Fedspeak? SSRN çalışma kâğıdı. [DOĞRULANAMADI]
+Hansen, A. L., & Kazinnik, S. (2023). Can ChatGPT Decipher Fedspeak? SSRN çalışma kâğıdı, SSRN 4399406. [D-arama]
 
 HephaestLab (2026). TraderHarness: A Contamination-Resistant Environment for Autonomous Trading Agents (yazılım). https://github.com/HephaestLab/TraderHarness
 
-Heston, S. L., & Sinha, N. R. (2017). News vs. Sentiment: Predicting Stock Returns from News Stories. Financial Analysts Journal, 73(3). [DOĞRULANAMADI]
+Heston, S. L., & Sinha, N. R. (2017). News vs. Sentiment: Predicting Stock Returns from News Stories. Financial Analysts Journal, 73(3). [D-arama]
 
 Hu, Z., Liu, W., Bian, J., Liu, X., & Liu, T.-Y. (2018). Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction. Proceedings of WSDM 2018, 261–269. DOI 10.1145/3159652.3159690
 
 Islam, P., Kannappan, A., Kiela, D., Qian, R., Scherrer, N., & Vidgen, B. (2023). FinanceBench: A New Benchmark for Financial Question Answering. arXiv:2311.11944. Kod/veri: https://github.com/patronus-ai/financebench
 
-Jha, M., Qian, J., Weber, M., & Yang, B. (2024). ChatGPT and Corporate Policies. NBER Working Paper. [DOĞRULANAMADI]
+Jha, M., Qian, J., Weber, M., & Yang, B. (2024). ChatGPT and Corporate Policies. NBER Working Paper 32161. [D-arama]
 
-Jiang, W. (2021). Applications of deep learning in stock market prediction: recent progress. Expert Systems with Applications, 184, 115537. [DOĞRULANAMADI]
+Jiang, W. (2021). Applications of deep learning in stock market prediction: recent progress. Expert Systems with Applications, 184, 115537. arXiv:2003.01859. [D-arama]
 
 Ke, Z. T., Kelly, B. T., & Xiu, D. (2019). Predicting Returns with Text Data. NBER Working Paper 26186. https://www.nber.org/papers/w26186
 
 Kim, A. G., Muhn, M., & Nikolaev, V. V. (2024). Financial Statement Analysis with Large Language Models. arXiv:2407.17866; Chicago Booth / BFI Working Paper 2024-65. Not: arXiv kaydına göre bir ortak yazar replikasyon sırasında veri/analiz tutarsızlıkları tespit etmiş ve çalışma kâğıdı inceleme süresince geçici olarak geri çekilmiştir.
 
-Kumbure, M. M., Lohrmann, C., Luukka, P., & Porras, J. (2022). Machine learning techniques and data for stock market forecasting: A literature review. Expert Systems with Applications, 197, 116659. [DOĞRULANAMADI]
+Kumbure, M. M., Lohrmann, C., Luukka, P., & Porras, J. (2022). Machine learning techniques and data for stock market forecasting: A literature review. Expert Systems with Applications, 197, 116659. [D-arama]
 
 Lachanski, M., & Pav, S. (2017). Shy of the Character Limit: "Twitter Mood Predicts the Stock Market" Revisited. Econ Journal Watch, 14(3), 302–345. https://econjwatch.org/articles/shy-of-the-character-limit-twitter-mood-predicts-the-stock-market-revisited
 
@@ -379,7 +379,7 @@ Matsunaga, D., Suzumura, T., & Takahashi, T. (2019). Exploring Graph Neural Netw
 
 Merrill, M. A., Tan, M., Gupta, V., Hartvigsen, T., & Althoff, T. (2024). Language Models Still Struggle to Zero-shot Reason about Time Series. Findings of EMNLP 2024 (raporlanan). Kod: https://github.com/behavioral-data/TSandLanguage [künye DOĞRULANAMADI]
 
-Nie, Y., Kong, Y., Dong, X., Mulvey, J. M., Poor, H. V., Wen, Q., & Zohren, S. (2024). A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges. arXiv. [DOĞRULANAMADI]
+Nie, Y., Kong, Y., Dong, X., Mulvey, J. M., Poor, H. V., Wen, Q., & Zohren, S. (2024). A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges. arXiv. arXiv:2406.11903. [D-arama]
 
 Qian, L., Zhou, W., Wang, Y., Peng, X., Huang, J., & Xie, Q. (2025). Fino1: On the Transferability of Reasoning Enhanced LLMs to Finance. arXiv:2502.08127. https://github.com/The-FinAI/Fino1
 
@@ -419,16 +419,16 @@ Yang, Y., Tang, Y., & Tam, K. Y. (2023). InvestLM: A Large Language Model for In
 
 Yu, Y., Li, H., Chen, Z., Jiang, Y., Li, Y., Zhang, D., Liu, R., Suchow, J. W., & Khashanah, K. (2023). FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design. arXiv:2311.13743 (IEEE Transactions on Big Data 2025 yayını raporlanmıştır). Kod: https://github.com/pipiku915/FinMem-LLM-StockTrading
 
-Yu, Y. vd. (2024). FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making. NeurIPS 2024 (raporlanan). [DOĞRULANAMADI]
+Yu, Y. vd. (2024). FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making. *NeurIPS 2024*; arXiv:2407.06567. [D-arama]
 
 Zhang, W. vd. (2024). FinAgent: A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist. arXiv:2402.18485.
 
-(2025). Detecting Lookahead Bias in LLM Forecasts. arXiv:2512.23847. (Yalnızca başlık ve kimlik teyit edildi; yazarlar ve içerik [DOĞRULANAMADI].)
+Gao, Z., Jiang, W. ve Yan, Y. (2025). Detecting Lookahead Bias in LLM Forecasts. arXiv:2512.23847. [D-arama; düzeltildi: yazarlar eklendi]
 
-(2026). Look-Ahead-Bench: a Standardized Benchmark of Look-ahead Bias in Point-in-Time LLMs for Finance. arXiv:2601.13770. (Yalnızca başlık ve kimlik teyit edildi; yazarlar ve içerik [DOĞRULANAMADI].)
+Benhenda, M. (2026). Look-Ahead-Bench: a Standardized Benchmark of Look-ahead Bias in Point-in-Time LLMs for Finance. arXiv:2601.13770. [D-arama; düzeltildi: yazar eklendi]
 
-(2025). StockBench: LLM ajanlarının gerçek piyasada ticaret kârlılığı benchmark'ı. arXiv (raporlanan). [DOĞRULANAMADI]
+(2025). StockBench: Can LLM Agents Trade Stocks Profitably in Real-World Markets? arXiv:2510.02209. [D-arama; düzeltildi: tam başlık ve arXiv kimliği eklendi; yazar listesi arama sonucunda görülmedi]
 
 LinqAlpha (2025). FinAgentBench: A Benchmark Dataset for Agentic Retrieval in Financial Question Answering. arXiv (raporlanan). [DOĞRULANAMADI]
 
-(2025). AlphaAgents: Large Language Model based Multi-Agents for Equity Portfolio Constructions. arXiv (raporlanan). [DOĞRULANAMADI]
+Zhao, T., Lyu, J., Jones, S., Garber, H., Pasquali, S. ve Mehta, D. (2025). AlphaAgents: Large Language Model based Multi-Agents for Equity Portfolio Constructions. arXiv:2508.11152. [D-arama; düzeltildi: yazarlar ve arXiv kimliği eklendi]

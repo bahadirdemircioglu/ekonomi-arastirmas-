@@ -336,7 +336,7 @@ Not: Bu oturumda doğrudan yayıncı sitelerine erişim mümkün olmadığı iç
 23. Duan, T., Avati, A., Ding, D. Y., Thai, K. K., Basu, S., Ng, A. Y., Schuler, A. (2020). NGBoost: Natural Gradient Boosting for Probabilistic Prediction. Proceedings of ICML 2020, PMLR 119, 2690–2700. https://proceedings.mlr.press/v119/duan20a.html
 24. Engle, R. F., Manganelli, S. (2004). CAViaR: Conditional Autoregressive Value at Risk by Regression Quantiles. Journal of Business & Economic Statistics, 22(4), 367–381.
 25. European Parliament and Council (2024). Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act). Official Journal of the European Union, 12 July 2024. https://eur-lex.europa.eu/eli/reg/2024/1689/oj
-26. Fama, E. F., French, K. R. (1993). Common risk factors in the returns on stocks and bonds. Journal of Financial Economics, 33(1), 3–56. [DOĞRULANAMADI]
+26. Fama, E. F., French, K. R. (1993). Common risk factors in the returns on stocks and bonds. Journal of Financial Economics, 33(1), 3–56. [D-arama]
 27. Fischer, T., Krauss, C. (2018). Deep learning with long short-term memory networks for financial market predictions. European Journal of Operational Research, 270(2), 654–669.
 28. Fisher, A., Rudin, C., Dominici, F. (2018/2019). All Models are Wrong, but Many are Useful: Learning a Variable's Importance by Studying an Entire Class of Prediction Models Simultaneously. arXiv:1801.01489; Journal of Machine Learning Research, 20(177). https://arxiv.org/abs/1801.01489
 29. Fissler, T., Ziegel, J. F. (2016). Higher order elicitability and Osband's principle. Annals of Statistics, 44(4), 1680–1707. https://doi.org/10.1214/16-AOS1439
@@ -354,7 +354,7 @@ Not: Bu oturumda doğrudan yayıncı sitelerine erişim mümkün olmadığı iç
 41. Hansen, L. P., Hodrick, R. J. (1980). Forward Exchange Rates as Optimal Predictors of Future Spot Rates: An Econometric Analysis. Journal of Political Economy, 88(5), 829–853.
 42. Hansen, P. R., Lunde, A. (2005). A forecast comparison of volatility models: does anything beat a GARCH(1,1)? Journal of Applied Econometrics, 20(7), 873–889.
 43. Henriksson, R. D., Merton, R. C. (1981). On Market Timing and Investment Performance. II. Statistical Procedures for Evaluating Forecasting Skills. Journal of Business, 54(4), 513–533.
-44. Hoeting, J. A., Madigan, D., Raftery, A. E., Volinsky, C. T. (1999). Bayesian Model Averaging: A Tutorial. Statistical Science, 14(4), 382–417. [DOĞRULANAMADI]
+44. Hoeting, J. A., Madigan, D., Raftery, A. E., Volinsky, C. T. (1999). Bayesian Model Averaging: A Tutorial. Statistical Science, 14(4), 382–417. [D-arama]
 45. Hooker, G., Mentch, L., Zhou, S. (2021). Unrestricted permutation forces extrapolation: variable importance requires at least one more model, or there is no free variable importance. Statistics and Computing, 31, 82.
 46. Hüllermeier, E., Waegeman, W. (2021). Aleatoric and epistemic uncertainty in machine learning: an introduction to concepts and methods. Machine Learning, 110, 457–506. https://doi.org/10.1007/s10994-021-05946-3
 47. Jacovi, A., Goldberg, Y. (2020). Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness? Proceedings of ACL 2020. https://aclanthology.org/2020.acl-main.386
@@ -379,7 +379,7 @@ Not: Bu oturumda doğrudan yayıncı sitelerine erişim mümkün olmadığı iç
 66. Newey, W. K., West, K. D. (1987). A Simple, Positive Semi-Definite, Heteroskedasticity and Autocorrelation Consistent Covariance Matrix. Econometrica, 55(3), 703–708. https://doi.org/10.2307/1913610
 67. Nolde, N., Ziegel, J. F. (2017). Elicitability and backtesting: Perspectives for banking regulation. Annals of Applied Statistics, 11(4), 1833–1874.
 68. Ovadia, Y., Fertig, E., Ren, J., Nado, Z., Sculley, D., Nowozin, S., Dillon, J. V., Lakshminarayanan, B., Snoek, J. (2019). Can You Trust Your Model's Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift. Advances in Neural Information Processing Systems 32 (NeurIPS 2019).
-69. Pascual, L., Romo, J., Ruiz, E. (2006). Bootstrap prediction for returns and volatilities in GARCH models. Computational Statistics & Data Analysis, 50(9), 2293–2312. [DOĞRULANAMADI]
+69. Pascual, L., Romo, J., Ruiz, E. (2006). Bootstrap prediction for returns and volatilities in GARCH models. Computational Statistics & Data Analysis, 50(9), 2293–2312. https://doi.org/10.1016/j.csda.2004.12.008 [D-arama]
 70. Patton, A. J. (2011). Volatility forecast comparison using imperfect volatility proxies. Journal of Econometrics, 160(1), 246–256.
 71. Patton, A. J., Ziegel, J. F., Chen, R. (2019). Dynamic semiparametric models for expected shortfall (and Value-at-Risk). Journal of Econometrics, 211(2), 388–413.
 72. Pesaran, M. H., Timmermann, A. (1992). A Simple Nonparametric Test of Predictive Performance. Journal of Business & Economic Statistics, 10(4), 561–565.

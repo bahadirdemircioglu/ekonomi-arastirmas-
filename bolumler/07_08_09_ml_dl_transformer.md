@@ -355,7 +355,7 @@ Garza, A. ve Mergenthaler-Canseco, M. (2023). TimeGPT-1. arXiv:2310.03589. https
 
 Giglio, S., Kelly, B. ve Xiu, D. (2022). Factor Models, Machine Learning, and Asset Pricing. Annual Review of Financial Economics, 14, 337–368.
 
-Gort, B. J. D. vd. (2022). Deep Reinforcement Learning for Cryptocurrency Trading: Practical Approach to Address Backtest Overfitting. arXiv:2209.05559. https://arxiv.org/abs/2209.05559 [DOĞRULANAMADI — yalnızca arXiv kimliği arama sonuçlarında görüldü; yazar listesi ve yayın yeri doğrulanamadı]
+Gort, B. J. D., Liu, X.-Y., Sun, X., Gao, J., Chen, S. ve Wang, C. D. (2022). Deep Reinforcement Learning for Cryptocurrency Trading: Practical Approach to Address Backtest Overfitting. arXiv:2209.05559. https://arxiv.org/abs/2209.05559 [D-arama; düzeltildi: yazar listesi eklendi]
 
 Goswami, M. vd. (2024). MOMENT: A Family of Open Time-Series Foundation Models. ICML 2024; arXiv:2402.03885. https://arxiv.org/abs/2402.03885 ; depo: https://github.com/moment-timeseries-foundation-model/moment
 
@@ -461,7 +461,7 @@ Zhou, H., Zhang, S., Peng, J., Zhang, S., Li, J., Xiong, H. ve Zhang, W. (2021).
 
 Zhou, T., Ma, Z., Wen, Q., Wang, X., Sun, L. ve Jin, R. (2022). FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting. ICML 2022; arXiv:2201.12740. https://arxiv.org/abs/2201.12740 ; depo: https://github.com/MAZiqing/FEDformer
 
-[Anonim] (2025). Evaluating the Chronos Foundation Model for Daily Stock Index Forecasting. ISD 2025 (International Conference on Information Systems Development) bildirisi. https://isd2025.fon.bg.ac.rs/wp-content/uploads/ISD_2025_camera_ready_265.pdf [DOĞRULANAMADI — yazar adları ve tam başlık doğrulanamadı; bulgular arama özetine dayanır]
+Łaniewski, S. ve Ślepaczuk, R. (2025). Evaluating the Chronos Foundation Model for Daily Stock Index Forecasting. ISD 2025 (33rd International Conference on Information Systems Development) bildirisi. https://isd2025.fon.bg.ac.rs/wp-content/uploads/ISD_2025_camera_ready_265.pdf [D-arama; düzeltildi: yazarlar eklendi]
 
 [Anonim] (2026). Artificial Intelligence in Equity and Crypto Markets: Progress, Profitability Evidence, and the Limits of Automated Investing. arXiv:2609.04917. https://arxiv.org/abs/2609.04917 (özet okunabildi; yazar listesi doğrulanamadı)
 

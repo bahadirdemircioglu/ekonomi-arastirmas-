@@ -20,8 +20,9 @@ Bu depo, kurumsal düzeyde bir **yapay zekâ destekli finansal piyasa istihbarat
 |---|---|
 | Bölüm sayısı | 32 |
 | Toplam uzunluk (kaynakça dahil) | ~120.000 kelime |
-| Birleştirilmiş kaynakça | 766 tekil künye |
-| Bu oturumda künyesi bağımsız doğrulanamayan kayıt | 250 ([DOĞRULANAMADI] etiketli; çoğu kurucu çalışmalar, ağ erişim kısıtı nedeniyle) |
+| Birleştirilmiş kaynakça | 765 tekil künye |
+| İkinci doğrulama turunda web aramasıyla teyit edilen künye | 178 ([D-arama] etiketli; 18'i yazar/yıl/sayfa düzeltmesiyle) |
+| Hâlâ bağımsız doğrulanamayan kayıt | 72 ([DOĞRULANAMADI] etiketli; ağırlıkla kitaplar, ürün/dokümantasyon sayfaları ve birkaç ön baskı) |
 | Sistematik literatür tablosunda incelenen çalışma | 70+ (Bölüm 4A: 46 satır; 4B: 28+ çalışma) |
 
 ## Metodolojik notlar

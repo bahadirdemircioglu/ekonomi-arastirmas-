@@ -524,7 +524,7 @@ Aşağıdaki listede her kaynağın doğrulama durumu belirtilmiştir. "Doğrula
 47. Mortada, M. fredapi — ALFRED vintage fonksiyonları. GitHub. https://github.com/mortada/fredapi — Doğrulandı (GitHub).
 48. Federal Reserve Bank of St. Louis. ALFRED: Archival Federal Reserve Economic Data. https://alfred.stlouisfed.org/ — [DOĞRULANAMADI] (doğrudan erişilemedi; işlev fredapi üzerinden teyit edildi).
 49. Federal Reserve Bank of Philadelphia. Real-Time Data Set for Macroeconomists. https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/real-time-data-set-for-macroeconomists — [DOĞRULANAMADI].
-50. Croushore, D., Stark, T. (2001). A real-time data set for macroeconomists. Journal of Econometrics, 105(1), 111–130. — [DOĞRULANAMADI].
+50. Croushore, D., Stark, T. (2001). A real-time data set for macroeconomists. Journal of Econometrics, 105(1), 111–130. — [D-arama]
 51. Delventhal, N. cot_reports — CFTC COT rapor türleri ve yayım takvimi. GitHub. https://github.com/NDelventhal/cot_reports — Doğrulandı (GitHub).
 52. U.S. CFTC. Commitments of Traders. https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm — [DOĞRULANAMADI] (içerik cot_reports üzerinden teyit edildi).
 53. Common Crawl. news-crawl (CC-NEWS). GitHub. https://github.com/commoncrawl/news-crawl — Doğrulandı (GitHub).
@@ -545,9 +545,9 @@ Aşağıdaki listede her kaynağın doğrulama durumu belirtilmiştir. "Doğrula
 68. Intrinio. python-sdk. GitHub. https://github.com/Intrinio/python-sdk — Doğrulandı (GitHub).
 69. Nasdaq Data Link. data-link-python. GitHub. https://github.com/nasdaq/data-link-python — Doğrulandı (GitHub). Sharadar SF1 ürün sayfası https://data.nasdaq.com/databases/SF1 — [DOĞRULANAMADI].
 70. Norgate Data. norgatedata (Python). PyPI. https://pypi.org/project/norgatedata/ — Doğrulandı (PyPI). Fiyat sayfası — [DOĞRULANAMADI].
-71. Shumway, T. (1997). The Delisting Bias in CRSP Data. Journal of Finance, 52(1), 327–340. — [DOĞRULANAMADI].
+71. Shumway, T. (1997). The Delisting Bias in CRSP Data. Journal of Finance, 52(1), 327–340. [D-arama]
 72. GDELT Project. gdeltdoc (Python; DOC API). PyPI. https://pypi.org/project/gdeltdoc/ — Doğrulandı (PyPI).
-73. Wang, W., Kennedy, R., Lazer, D., Ramakrishnan, N. (2016). Growing pains for global monitoring of societal events. Science, 353(6307), 1502–1503. — [DOĞRULANAMADI].
+73. Wang, W., Kennedy, R., Lazer, D., Ramakrishnan, N. (2016). Growing pains for global monitoring of societal events. Science, 353(6307), 1502–1503. [D-arama]
 74. EventRegistry. event-registry-python (ücretsiz katman: ticari değil, son 30 gün). GitHub. https://github.com/EventRegistry/event-registry-python — Doğrulandı (GitHub).
 75. Dong, Z., Fan, X., Peng, Z. (2024). FNSPID: A Comprehensive Financial News Dataset in Time Series. arXiv:2402.06698; KDD 2024 Applied Data Science Track. Kod/veri: https://github.com/Zdong104/FNSPID_Financial_News_Dataset — Doğrulandı (GitHub; arXiv sayfası erişilemedi).
 76. Mukherjee, R. vd. (2022). ECTSum: A New Benchmark Dataset for Bullet Point Summarization of Long Earnings Call Transcripts. EMNLP 2022. https://aclanthology.org/2022.emnlp-main.748/ ; https://github.com/rajdeep345/ECTSum — Doğrulandı (GitHub; ACL Anthology sayfası erişilemedi; tam yazar listesi [DOĞRULANAMADI]).

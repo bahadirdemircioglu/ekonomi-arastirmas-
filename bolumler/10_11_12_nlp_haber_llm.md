@@ -420,85 +420,85 @@ Kısa güvenli kullanım ilkeleri (ayrıntı Bölüm 23): LLM, geriye dönük te
 
 *İşaret açıklaması:* Etiketsiz kaynaklar bu oturumda web aramasıyla doğrulanmıştır (yazar, yıl, yayın/kimlik). **[DOĞRULANAMADI]** etiketli kaynaklar yazarın literatür bilgisine dayanır; ağ erişimi engellendiği için DOI/cilt/sayfa bilgisi bu oturumda teyit edilememiştir ve yayından önce kontrol edilmelidir.
 
-1. Andersen, T. G., Bollerslev, T., Diebold, F. X. ve Vega, C. (2003). Micro Effects of Macro Announcements: Real-Time Price Discovery in Foreign Exchange. *American Economic Review*, 93(1), 38–62. [DOĞRULANAMADI]
-2. Andersen, T. G., Bollerslev, T., Diebold, F. X. ve Vega, C. (2007). Real-time price discovery in global stock, bond and foreign exchange markets. *Journal of International Economics*, 73(2), 251–277. [DOĞRULANAMADI]
+1. Andersen, T. G., Bollerslev, T., Diebold, F. X. ve Vega, C. (2003). Micro Effects of Macro Announcements: Real-Time Price Discovery in Foreign Exchange. *American Economic Review*, 93(1), 38–62. [D-arama]
+2. Andersen, T. G., Bollerslev, T., Diebold, F. X. ve Vega, C. (2007). Real-time price discovery in global stock, bond and foreign exchange markets. *Journal of International Economics*, 73(2), 251–277. [D-arama]
 3. Araci, D. (2019). FinBERT: Financial Sentiment Analysis with Pre-trained Language Models. arXiv:1908.10063. [DOĞRULANAMADI]
-4. Baker, S. R., Bloom, N. ve Davis, S. J. (2016). Measuring Economic Policy Uncertainty. *Quarterly Journal of Economics*, 131(4), 1593–1636. [DOĞRULANAMADI]
+4. Baker, S. R., Bloom, N. ve Davis, S. J. (2016). Measuring Economic Policy Uncertainty. *Quarterly Journal of Economics*, 131(4), 1593–1636. [D-arama]
 5. Bauer, M. D. ve Swanson, E. T. (2023). A Reassessment of Monetary Policy Surprises and High-Frequency Identification. *NBER Macroeconomics Annual*, 37. NBER Working Paper 29939. https://www.nber.org/papers/w29939
-6. Bernanke, B. S. ve Kuttner, K. N. (2005). What Explains the Stock Market's Reaction to Federal Reserve Policy? *Journal of Finance*, 60(3), 1221–1257. [DOĞRULANAMADI]
-7. Bhatia, G., Nagoudi, E. M. B., Cavusoglu, H. ve Abdul-Mageed, M. (2024). FinTral: A Family of GPT-4 Level Multimodal Financial Large Language Models. arXiv:2402.10986; Findings of ACL 2024. [DOĞRULANAMADI]
-8. Blei, D. M., Ng, A. Y. ve Jordan, M. I. (2003). Latent Dirichlet Allocation. *Journal of Machine Learning Research*, 3, 993–1022. [DOĞRULANAMADI]
-9. Bollen, J., Mao, H. ve Zeng, X. (2011). Twitter mood predicts the stock market. *Journal of Computational Science*, 2(1), 1–8. [DOĞRULANAMADI]
-10. Bradley, D., Hanousek, J., Jame, R. ve Xiao, Z. (2024). Place Your Bets? The Value of Investment Research on Reddit's Wallstreetbets. *Review of Financial Studies*. [DOĞRULANAMADI]
+6. Bernanke, B. S. ve Kuttner, K. N. (2005). What Explains the Stock Market's Reaction to Federal Reserve Policy? *Journal of Finance*, 60(3), 1221–1257. [D-arama]
+7. Bhatia, G., Nagoudi, E. M. B., Cavusoglu, H. ve Abdul-Mageed, M. (2024). FinTral: A Family of GPT-4 Level Multimodal Financial Large Language Models. arXiv:2402.10986; *Findings of the Association for Computational Linguistics: ACL 2024*, 13064–13087. [D-arama]
+8. Blei, D. M., Ng, A. Y. ve Jordan, M. I. (2003). Latent Dirichlet Allocation. *Journal of Machine Learning Research*, 3, 993–1022. [D-arama]
+9. Bollen, J., Mao, H. ve Zeng, X. (2011). Twitter mood predicts the stock market. *Journal of Computational Science*, 2(1), 1–8. [D-arama]
+10. Bradley, D., Hanousek, J., Jame, R. ve Xiao, Z. (2024). Place Your Bets? The Value of Investment Research on Reddit's Wallstreetbets. *Review of Financial Studies*. [D-arama]
 11. Broder, A. Z. (1997). On the resemblance and containment of documents. *Proceedings of Compression and Complexity of Sequences (SEQUENCES'97)*, IEEE. [DOĞRULANAMADI]
 12. Bybee, L., Kelly, B., Manela, A. ve Xiu, D. (2024). Business News and Business Cycles. *Journal of Finance*, 79(5), 3105–3147.
-13. Bybee, L., Kelly, B. ve Su, Y. (2023). Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text. *Review of Financial Studies*, 36(12), 4759–4787. [DOĞRULANAMADI]
-14. Caldara, D. ve Iacoviello, M. (2022). Measuring Geopolitical Risk. *American Economic Review*, 112(4), 1194–1225. [DOĞRULANAMADI]
-15. Charikar, M. S. (2002). Similarity estimation techniques from rounding algorithms. *Proceedings of the 34th ACM Symposium on Theory of Computing (STOC)*, 380–388. [DOĞRULANAMADI]
+13. Bybee, L., Kelly, B. ve Su, Y. (2023). Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text. *Review of Financial Studies*, 36(12), 4759–4787. [D-arama]
+14. Caldara, D. ve Iacoviello, M. (2022). Measuring Geopolitical Risk. *American Economic Review*, 112(4), 1194–1225. DOI 10.1257/aer.20191823. [D-arama]
+15. Charikar, M. S. (2002). Similarity estimation techniques from rounding algorithms. *Proceedings of the 34th ACM Symposium on Theory of Computing (STOC)*, 380–388. [D-arama]
 16. Chen, W., Wang, Q., Long, Z., Zhang, X., Lu, Z., Li, B., Wang, S., Xu, J., Bai, X., Huang, X. ve Wei, Z. (2023). DISC-FinLLM: A Chinese Financial Large Language Model based on Multiple Experts Fine-tuning. arXiv:2310.15205.
-17. Chen, Y., Kelly, B. ve Xiu, D. (2022). Expected Returns and Large Language Models. SSRN Working Paper. [DOĞRULANAMADI]
+17. Chen, Y., Kelly, B. ve Xiu, D. (2023). Expected Returns and Large Language Models. SSRN Working Paper. [D-arama; düzeltildi: yıl 2022→2023]
 18. Cheng, D., Yang, F., Wang, X., Zhang, Y. ve Zhang, L. (2020). Knowledge Graph-based Event Embedding Framework for Financial Quantitative Investments. *Proceedings of the 43rd International ACM SIGIR Conference (SIGIR 2020)*. (Görev tanımında 2022 olarak anılmış; doğrulanan yıl 2020.)
-19. Cohen, L. ve Frazzini, A. (2008). Economic Links and Predictable Returns. *Journal of Finance*, 63(4), 1977–2011. [DOĞRULANAMADI]
-20. Cohen, L., Malloy, C. ve Nguyen, Q. (2020). Lazy Prices. *Journal of Finance*, 75(3), 1371–1415. [DOĞRULANAMADI]
-21. Cookson, J. A. ve Niessner, M. (2020). Why Don't We Agree? Evidence from a Social Network of Investors. *Journal of Finance*, 75(1), 173–228. [DOĞRULANAMADI]
-22. Cortis, K., Freitas, A., Daudert, T., Huerlimann, M., Zarrouk, M., Handschuh, S. ve Davis, B. (2017). SemEval-2017 Task 5: Fine-Grained Sentiment Analysis on Financial Microblogs and News. *Proceedings of SemEval-2017*, 519–535. [DOĞRULANAMADI]
+19. Cohen, L. ve Frazzini, A. (2008). Economic Links and Predictable Returns. *Journal of Finance*, 63(4), 1977–2011. [D-arama]
+20. Cohen, L., Malloy, C. ve Nguyen, Q. (2020). Lazy Prices. *Journal of Finance*, 75(3), 1371–1415. [D-arama]
+21. Cookson, J. A. ve Niessner, M. (2020). Why Don't We Agree? Evidence from a Social Network of Investors. *Journal of Finance*, 75(1), 173–228. https://doi.org/10.1111/jofi.12852 [D-arama]
+22. Cortis, K., Freitas, A., Daudert, T., Huerlimann, M., Zarrouk, M., Handschuh, S. ve Davis, B. (2017). SemEval-2017 Task 5: Fine-Grained Sentiment Analysis on Financial Microblogs and News. *Proceedings of SemEval-2017*, 519–535. https://doi.org/10.18653/v1/S17-2089 [D-arama]
 23. Cresci, S., Lillo, F., Regoli, D., Tardelli, S. ve Tesconi, M. (2019). Cashtag Piggybacking: Uncovering Spam and Bot Activity in Stock Microblogs on Twitter. *ACM Transactions on the Web*, 13(2). [DOĞRULANAMADI]
-24. Ding, X., Zhang, Y., Liu, T. ve Duan, J. (2014). Using Structured Events to Predict Stock Price Movement: An Empirical Investigation. *Proceedings of EMNLP 2014*, 1415–1425. [DOĞRULANAMADI]
-25. Ding, X., Zhang, Y., Liu, T. ve Duan, J. (2015). Deep Learning for Event-Driven Stock Prediction. *Proceedings of IJCAI 2015*, 2327–2333. [DOĞRULANAMADI]
+24. Ding, X., Zhang, Y., Liu, T. ve Duan, J. (2014). Using Structured Events to Predict Stock Price Movement: An Empirical Investigation. *Proceedings of EMNLP 2014*, 1415–1425. [D-arama]
+25. Ding, X., Zhang, Y., Liu, T. ve Duan, J. (2015). Deep Learning for Event-Driven Stock Prediction. *Proceedings of IJCAI 2015*, 2327–2333. [D-arama]
 26. Fedyk, A. (2024). Front-Page News: The Effect of News Positioning on Financial Markets. *Journal of Finance*, 79(3). [DOĞRULANAMADI]
 27. Fedyk, A. ve Hodson, J. (2023). When can the market identify old news? *Journal of Financial Economics*, 149(1), 92–113.
-28. Garcia, D. (2013). Sentiment during Recessions. *Journal of Finance*, 68(3), 1267–1300. [DOĞRULANAMADI]
+28. Garcia, D. (2013). Sentiment during Recessions. *Journal of Finance*, 68(3), 1267–1300. [D-arama]
 29. Glasserman, P. ve Lin, C. (2023). Assessing Look-Ahead Bias in Stock Return Predictions Generated By GPT Sentiment Analysis. arXiv:2309.17322.
-30. Glasserman, P. ve Mamaysky, H. (2019). Does Unusual News Forecast Market Stress? *Journal of Financial and Quantitative Analysis*, 54(5), 1937–1974. [DOĞRULANAMADI]
-31. Gorodnichenko, Y., Pham, T. ve Talavera, O. (2023). The Voice of Monetary Policy. *American Economic Review*, 113(2), 548–584. [DOĞRULANAMADI]
-32. Gürkaynak, R. S., Sack, B. ve Swanson, E. T. (2005). Do Actions Speak Louder Than Words? The Response of Asset Prices to Monetary Policy Actions and Statements. *International Journal of Central Banking*, 1(1), 55–93. [DOĞRULANAMADI]
+30. Glasserman, P. ve Mamaysky, H. (2019). Does Unusual News Forecast Market Stress? *Journal of Financial and Quantitative Analysis*, 54(5), 1937–1974. https://doi.org/10.1017/S0022109019000127 [D-arama]
+31. Gorodnichenko, Y., Pham, T. ve Talavera, O. (2023). The Voice of Monetary Policy. *American Economic Review*, 113(2), 548–584. [D-arama]
+32. Gürkaynak, R. S., Sack, B. ve Swanson, E. T. (2005). Do Actions Speak Louder Than Words? The Response of Asset Prices to Monetary Policy Actions and Statements. *International Journal of Central Banking*, 1(1), 55–93. [D-arama]
 33. Hansen, A. L. ve Kazinnik, S. (2023). Can ChatGPT Decipher Fedspeak? Federal Reserve Bank of Richmond çalışma kâğıdı / SSRN (24 Mart 2023). https://www.frbsf.org/research-and-insights/publications/system-research-richmond-fed/can-chatgpt-decipher-fedspeak/
-34. Hansen, S. ve McMahon, M. (2016). Shocking language: Understanding the macroeconomic effects of central bank communication. *Journal of International Economics*, 99(S1), S114–S133. [DOĞRULANAMADI]
-34b. He, S., Lv, L., Manela, A. ve Wu, J. (2025). Chronologically Consistent Large Language Models (ChronoBERT / ChronoGPT). arXiv:2502.21206. (arXiv kimliği web aramasında görüldü; başlık ve yazar listesi raporun 23. bölümüyle çapraz kontrol edildi; birincil kaynak okunamadı.) [DOĞRULANAMADI]
+34. Hansen, S. ve McMahon, M. (2016). Shocking language: Understanding the macroeconomic effects of central bank communication. *Journal of International Economics*, 99(S1), S114–S133. [D-arama]
+34b. He, S., Lv, L., Manela, A. ve Wu, J. (2025). Chronologically Consistent Large Language Models (ChronoBERT / ChronoGPT). arXiv:2502.21206. [D-arama]
 35. Harvey, C. R., Liu, Y. ve Zhu, H. (2016). … and the Cross-Section of Expected Returns. *Review of Financial Studies*, 29(1), 5–68. [DOĞRULANAMADI]
-36. Heston, S. L. ve Sinha, N. R. (2017). News vs. Sentiment: Predicting Stock Returns from News Stories. *Financial Analysts Journal*, 73(3), 67–83. [DOĞRULANAMADI]
-37. Hoberg, G. ve Phillips, G. (2016). Text-Based Network Industries and Endogenous Product Differentiation. *Journal of Political Economy*, 124(5), 1423–1465. [DOĞRULANAMADI]
+36. Heston, S. L. ve Sinha, N. R. (2017). News vs. Sentiment: Predicting Stock Returns from News Stories. *Financial Analysts Journal*, 73(3), 67–83. [D-arama]
+37. Hoberg, G. ve Phillips, G. (2016). Text-Based Network Industries and Endogenous Product Differentiation. *Journal of Political Economy*, 124(5), 1423–1465. https://doi.org/10.1086/688176 [D-arama]
 38. Huang, A. H., Wang, H. ve Yang, Y. (2023). FinBERT: A Large Language Model for Extracting Information from Financial Text. *Contemporary Accounting Research*, 40(2), 806–841. https://acct.hkust.edu.hk/about-department/news-highlights/congratulations-prof-allen-huang-paper-contemporary-accounting (sayfa aralığı [DOĞRULANAMADI])
-39. Huang, A. H., Zang, A. Y. ve Zheng, R. (2014). Evidence on the Information Content of Text in Analyst Reports. *The Accounting Review*, 89(6), 2151–2180. [DOĞRULANAMADI]
-40. Ke, Z. T., Kelly, B. T. ve Xiu, D. (2019). Predicting Returns with Text Data. NBER Working Paper 26186. [DOĞRULANAMADI]
-41. Kim, A. G., Muhn, M. ve Nikolaev, V. V. (2023). Bloated Disclosures: Can ChatGPT Help Investors Process Information? arXiv:2306.10224. [DOĞRULANAMADI]
+39. Huang, A. H., Zang, A. Y. ve Zheng, R. (2014). Evidence on the Information Content of Text in Analyst Reports. *The Accounting Review*, 89(6), 2151–2180. [D-arama]
+40. Ke, Z. T., Kelly, B. T. ve Xiu, D. (2019). Predicting Returns with Text Data. NBER Working Paper 26186. [D-arama]
+41. Kim, A. G., Muhn, M. ve Nikolaev, V. V. (2023). Bloated Disclosures: Can ChatGPT Help Investors Process Information? arXiv:2306.10224. [D-arama]
 42. Kim, A. G., Muhn, M. ve Nikolaev, V. V. (2024). Financial Statement Analysis with Large Language Models. arXiv:2407.17866; Chicago Booth / BFI Working Paper 2024-65. (Web arama özetinde geçici geri çekilme notu görülmüştür; güncel durum birincil kaynaktan doğrulanamadı.)
-43. Kuttner, K. N. (2001). Monetary policy surprises and interest rates: Evidence from the Fed funds futures market. *Journal of Monetary Economics*, 47(3), 523–544. [DOĞRULANAMADI]
+43. Kuttner, K. N. (2001). Monetary policy surprises and interest rates: Evidence from the Fed funds futures market. *Journal of Monetary Economics*, 47(3), 523–544. [D-arama]
 43b. Levy, B. (2024). Caution Ahead: Numerical Reasoning and Look-ahead Bias in AI Models (çalışma kâğıdı; Kim, Muhn ve Nikolaev 2024 eleştirisi). [DOĞRULANAMADI]
-44. Lachanski, M. ve Pav, S. (2017). Shy of the Character Limit: "Twitter Mood Predicts the Stock Market" Revisited. *Econ Journal Watch*, 14(3), 302–345. [DOĞRULANAMADI]
-45. Larcker, D. F. ve Zakolyukina, A. A. (2012). Detecting Deceptive Discussions in Conference Calls. *Journal of Accounting Research*, 50(2), 495–540. [DOĞRULANAMADI]
+44. Lachanski, M. ve Pav, S. (2017). Shy of the Character Limit: "Twitter Mood Predicts the Stock Market" Revisited. *Econ Journal Watch*, 14(3), 302–345. [D-arama]
+45. Larcker, D. F. ve Zakolyukina, A. A. (2012). Detecting Deceptive Discussions in Conference Calls. *Journal of Accounting Research*, 50(2), 495–540. https://doi.org/10.1111/j.1475-679X.2012.00450.x [D-arama]
 46. Liu, Z. vd. (2025). Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning. arXiv:2503.16252. (Yazar listesi tam doğrulanamadı.)
 47. Look-Ahead-Bench (2026). Look-Ahead-Bench: a Standardized Benchmark of Look-ahead Bias in Point-in-Time LLMs for Finance. arXiv:2601.13770. (Yazarlar bu oturumda doğrulanamadı.)
 48. Lopez-Lira, A. ve Tang, Y. (2023). Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models. arXiv:2304.07619.
-49. Loughran, T. ve McDonald, B. (2011). When Is a Liability Not a Liability? Textual Analysis, Dictionaries, and 10-Ks. *Journal of Finance*, 66(1), 35–65. [DOĞRULANAMADI]
-50. Loughran, T. ve McDonald, B. (2016). Textual Analysis in Accounting and Finance: A Survey. *Journal of Accounting Research*, 54(4), 1187–1230. [DOĞRULANAMADI]
-51. Loukas, L., Fergadiotis, M., Chalkidis, I., Spyropoulou, E., Malakasiotis, P., Androutsopoulos, I. ve Paliouras, G. (2022). FiNER: Financial Numeric Entity Recognition for XBRL Tagging. *Proceedings of ACL 2022*. [DOĞRULANAMADI]
-52. Malo, P., Sinha, A., Korhonen, P., Wallenius, J. ve Takala, P. (2014). Good debt or bad debt: Detecting semantic orientations in economic texts. *Journal of the Association for Information Science and Technology*, 65(4), 782–796. [DOĞRULANAMADI]
-53. Manku, G. S., Jain, A. ve Das Sarma, A. (2007). Detecting near-duplicates for web crawling. *Proceedings of WWW 2007*, 141–150. [DOĞRULANAMADI]
-54. Mayew, W. J. ve Venkatachalam, M. (2012). The Power of Voice: Managerial Affective States and Future Firm Performance. *Journal of Finance*, 67(1), 1–43. [DOĞRULANAMADI]
-55. Nakamura, E. ve Steinsson, J. (2018). High-Frequency Identification of Monetary Non-Neutrality: The Information Effect. *Quarterly Journal of Economics*, 133(3), 1283–1330. [DOĞRULANAMADI]
-56. Pedersen, L. H. (2022). Game on: Social networks and markets. *Journal of Financial Economics*, 146(3), 1097–1119. [DOĞRULANAMADI]
-57. Pustejovsky, J., Castaño, J., Ingria, R., Saurí, R., Gaizauskas, R., Setzer, A. ve Katz, G. (2003). TimeML: Robust Specification of Event and Temporal Expressions in Text. *New Directions in Question Answering*, AAAI Spring Symposium. [DOĞRULANAMADI]
+49. Loughran, T. ve McDonald, B. (2011). When Is a Liability Not a Liability? Textual Analysis, Dictionaries, and 10-Ks. *Journal of Finance*, 66(1), 35–65. [D-arama]
+50. Loughran, T. ve McDonald, B. (2016). Textual Analysis in Accounting and Finance: A Survey. *Journal of Accounting Research*, 54(4), 1187–1230. https://doi.org/10.1111/1475-679X.12123 [D-arama]
+51. Loukas, L., Fergadiotis, M., Chalkidis, I., Spyropoulou, E., Malakasiotis, P., Androutsopoulos, I. ve Paliouras, G. (2022). FiNER: Financial Numeric Entity Recognition for XBRL Tagging. *Proceedings of ACL 2022*. https://aclanthology.org/2022.acl-long.303 [D-arama]
+52. Malo, P., Sinha, A., Korhonen, P., Wallenius, J. ve Takala, P. (2014). Good debt or bad debt: Detecting semantic orientations in economic texts. *Journal of the Association for Information Science and Technology*, 65(4), 782–796. [D-arama]
+53. Manku, G. S., Jain, A. ve Das Sarma, A. (2007). Detecting near-duplicates for web crawling. *Proceedings of WWW 2007*, 141–150. [D-arama]
+54. Mayew, W. J. ve Venkatachalam, M. (2012). The Power of Voice: Managerial Affective States and Future Firm Performance. *Journal of Finance*, 67(1), 1–43. https://doi.org/10.1111/j.1540-6261.2011.01705.x [D-arama]
+55. Nakamura, E. ve Steinsson, J. (2018). High-Frequency Identification of Monetary Non-Neutrality: The Information Effect. *Quarterly Journal of Economics*, 133(3), 1283–1330. [D-arama]
+56. Pedersen, L. H. (2022). Game on: Social networks and markets. *Journal of Financial Economics*, 146(3), 1097–1119. https://doi.org/10.1016/j.jfineco.2022.05.002 [D-arama]
+57. Pustejovsky, J., Castaño, J., Ingria, R., Saurí, R., Gaizauskas, R., Setzer, A. ve Katz, G. (2003). TimeML: Robust Specification of Event and Temporal Expressions in Text. *New Directions in Question Answering*, AAAI Spring Symposium (SS-03-07). [D-arama]
 58. RavenPack (t.y.). RavenPack News Analytics — User Guide / Analytics documentation (REL, ESS, ENS tanımları). WRDS üzerinden dağıtılan dokümantasyon: https://wrds-www.wharton.upenn.edu/documents/1395/RavenPack.pdf
-59. Reimers, N. ve Gurevych, I. (2019). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. *Proceedings of EMNLP-IJCNLP 2019*, 3982–3992. [DOĞRULANAMADI]
+59. Reimers, N. ve Gurevych, I. (2019). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. *Proceedings of EMNLP-IJCNLP 2019*, 3982–3992. https://doi.org/10.18653/v1/D19-1410 [D-arama]
 60. Sarkar, S. K. ve Vafa, K. (2024). Lookahead Bias in Pretrained Language Models. SSRN 4754678; ICML 2025. (Varlığı ve başlığı bu oturumda web aramasıyla doğrulandı; SSRN numarası ve ICML bilgisi raporun 23. bölümünü yazan ekiple çapraz kontrol edildi.)
 61. Shah, A., Paturi, S. ve Chava, S. (2023). Trillion Dollar Words: A New Financial Dataset, Task & Market Analysis. *Proceedings of ACL 2023*. Veri/kod: Hugging Face ve GitHub (CC BY-NC 4.0).
-62. Shah, A., Vithani, R., Gullapalli, A. ve Chava, S. (2023). FiNER: Financial Named Entity Recognition Dataset and Weak-Supervision Model (FiNER-ORD). arXiv:2302.11157. [DOĞRULANAMADI]
+62. Shah, A., Vithani, R., Gullapalli, A. ve Chava, S. (2023). FiNER: Financial Named Entity Recognition Dataset and Weak-Supervision Model (FiNER-ORD). arXiv:2302.11157. [D-arama]
 63. Tang, Y. ve Yang, Y. (2025). FinMTEB: Finance Massive Text Embedding Benchmark. arXiv:2502.10990; *Proceedings of EMNLP 2025* (main, no. 179).
-64. Tang, Y., Yang, Y., Huang, A. H., Tam, A. ve Tang, J. Z. (2023). FinEntity: Entity-level Sentiment Classification for Financial Texts. arXiv:2310.12406; *Proceedings of EMNLP 2023*. (arXiv kimliği doğrulandı; yazar listesi [DOĞRULANAMADI].)
+64. Tang, Y., Yang, Y., Huang, A. H., Tam, A. ve Tang, J. Z. (2023). FinEntity: Entity-level Sentiment Classification for Financial Texts. arXiv:2310.12406; *Proceedings of EMNLP 2023* (2023.emnlp-main.956). [D-arama]
 65. Tetlock, P. C. (2007). Giving Content to Investor Sentiment: The Role of Media in the Stock Market. *Journal of Finance*, 62(3), 1139–1168. [DOĞRULANAMADI]
-66. Tetlock, P. C. (2011). All the News That's Fit to Reprint: Do Investors React to Stale Information? *Review of Financial Studies*, 24(5), 1481–1512. [DOĞRULANAMADI]
-67. Tetlock, P. C., Saar-Tsechansky, M. ve Macskassy, S. (2008). More Than Words: Quantifying Language to Measure Firms' Fundamentals. *Journal of Finance*, 63(3), 1437–1467. [DOĞRULANAMADI]
+66. Tetlock, P. C. (2011). All the News That's Fit to Reprint: Do Investors React to Stale Information? *Review of Financial Studies*, 24(5), 1481–1512. [D-arama]
+67. Tetlock, P. C., Saar-Tsechansky, M. ve Macskassy, S. (2008). More Than Words: Quantifying Language to Measure Firms' Fundamentals. *Journal of Finance*, 63(3), 1437–1467. [D-arama]
 68. Wang, S., Yuan, H., Zhou, L., Ni, L. M., Shum, H.-Y. ve Guo, J. (2023). Alpha-GPT: Human-AI Interactive Alpha Mining for Quantitative Investment. arXiv:2308.00016; *EMNLP 2025 System Demonstrations*.
 69. Wang, S., Yuan, H., Ni, L. M. ve Guo, J. (2024). QuantAgent: Seeking Holy Grail in Trading by Self-Improving Large Language Model. arXiv:2402.03755.
 70. Wu, S., Irsoy, O., Lu, S., Dabravolski, V., Dredze, M., Gehrmann, S., Kambadur, P., Rosenberg, D. ve Mann, G. (2023). BloombergGPT: A Large Language Model for Finance. arXiv:2303.17564. https://arxiv.org/abs/2303.17564
-71. Xie, Q., Han, W., Zhang, X., Lai, Y., Peng, M., Lopez-Lira, A. ve Huang, J. (2023). PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance. arXiv:2306.05443; *NeurIPS 2023 Datasets and Benchmarks*. [DOĞRULANAMADI]
+71. Xie, Q., Han, W., Zhang, X., Lai, Y., Peng, M., Lopez-Lira, A. ve Huang, J. (2023). PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance. arXiv:2306.05443; *NeurIPS 2023 Datasets and Benchmarks* (NeurIPS sürümünün başlığı: "PIXIU: A Comprehensive Benchmark, Instruction Dataset and Large Language Model for Finance"). [D-arama]
 72. Xie, Q. vd. (2024). FinBen: A Holistic Financial Benchmark for Large Language Models. arXiv:2402.12659; *NeurIPS 2024 Datasets and Benchmarks*. https://nips.cc/virtual/2024/poster/97525
-73. Yang, H., Liu, X.-Y. ve Wang, C. D. (2023). FinGPT: Open-Source Financial Large Language Models. arXiv:2306.06031. [DOĞRULANAMADI]
-74. Yang, Y., Tang, Y. ve Tam, K. Y. (2023). InvestLM: A Large Language Model for Investment using Financial Domain Instruction Tuning. arXiv:2309.13064. (Varlığı doğrulandı; arXiv kimliği [DOĞRULANAMADI].)
-75. Yang, Y., Uy, M. C. S. ve Huang, A. (2020). FinBERT: A Pretrained Language Model for Financial Communications. arXiv:2006.08097. [DOĞRULANAMADI]
-76. Zhang, X. ve Yang, Q. (2023). XuanYuan 2.0: A Large Chinese Financial Chat Model with Hundreds of Billions Parameters. arXiv:2305.12002. [DOĞRULANAMADI]
-77. Zheng, L., Chiang, W.-L., Sheng, Y. vd. (2023). Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena. *NeurIPS 2023*. arXiv:2306.05685. [DOĞRULANAMADI]
+73. Yang, H., Liu, X.-Y. ve Wang, C. D. (2023). FinGPT: Open-Source Financial Large Language Models. arXiv:2306.06031. [D-arama]
+74. Yang, Y., Tang, Y. ve Tam, K. Y. (2023). InvestLM: A Large Language Model for Investment using Financial Domain Instruction Tuning. arXiv:2309.13064. [D-arama]
+75. Yang, Y., Uy, M. C. S. ve Huang, A. (2020). FinBERT: A Pretrained Language Model for Financial Communications. arXiv:2006.08097. [D-arama]
+76. Zhang, X., Yang, Q. ve Xu, D. (2023). XuanYuan 2.0: A Large Chinese Financial Chat Model with Hundreds of Billions Parameters. *CIKM 2023*; arXiv:2305.12002. [D-arama; düzeltildi: yazar listesine Xu, D. eklendi; yayın yeri CIKM 2023 eklendi]
+77. Zheng, L., Chiang, W.-L., Sheng, Y. vd. (2023). Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena. *NeurIPS 2023 Datasets and Benchmarks*. arXiv:2306.05685. [D-arama]
 78. Zhou, Z., Ma, L. ve Liu, H. (2021). Trade the Event: Corporate Events Detection for News-Based Event-Driven Trading. *Findings of ACL-IJCNLP 2021*, 2114–2124. arXiv:2105.12825.
 79. 2025–2026 bakış yanlılığı çalışmaları (yalnızca varlığı ve başlığı doğrulandı; içerik okunmadı): *A Fast and Effective Solution to the Problem of Look-ahead Bias in LLMs* (arXiv:2512.06607); *DATEDGPT: Preventing Lookahead Bias in Large Language Models* (arXiv:2603.11838); *Evaluating LLMs in Finance Requires Explicit Bias Consideration* (arXiv:2602.14233); *AlphaAgent: LLM-Driven Alpha Mining with Regularized Exploration to Counteract Alpha Decay* (arXiv:2502.16789); *Chain-of-Alpha: Unleashing the Power of Large Language Models for Alpha Mining in Quantitative Trading* (arXiv:2508.06312).
 80. Açık kaynak araçlar (PyPI üzerinden doğrulandı, Ekim 2026): `datasketch` (MinHash LSH), `simhash`, `sentence-transformers`, `BERTopic`, `spaCy`, `GLiNER`, `trafilatura`, `newspaper3k`, `feedparser`, `gdeltdoc`, `dateparser`, `transformers`, `vllm`, `outlines`, `instructor`, `pydantic`.

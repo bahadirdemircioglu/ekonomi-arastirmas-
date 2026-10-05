@@ -4148,44 +4148,40 @@ Bu bölüm, literatürün henüz cevaplamadığı veya çelişkili cevaplar verd
 
 ## 32. Kaynakça (Birleştirilmiş)
 
-Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tekilleştirilmiş hâlidir (766 kayıt). "[DOĞRULANAMADI]" etiketli kayıtlar (250 adet), araştırma sırasında DOI/URL/yıl bilgisi bağımsız olarak doğrulanamayan kaynaklardır; bu kaynaklara dayanan iddialar ihtiyatla okunmalıdır. Etiket, çalışmanın şüpheli olduğunu değil, künyesinin (cilt/sayfa/DOI) bu oturumda bağımsız olarak teyit edilemediğini ifade eder; Hamilton (1989) veya Meese-Rogoff (1983) gibi kurucu çalışmalar da ağ erişim kısıtı nedeniyle bu etiketi taşıyabilir. Bazı kayıtlardaki "[D]" etiketi birincil kaynak veya birden fazla bağımsız kayıtla doğrulanmayı, "[D-ik]" yalnızca ikincil künye kayıtlarıyla (GitHub bibliyografyaları, README atıfları, PyPI) doğrulanmayı ifade eder. Metin içi atıflar (Yazar, Yıl) biçimindedir; liste yazar soyadına göre alfabetiktir.
+Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tekilleştirilmiş hâlidir (765 kayıt). "[DOĞRULANAMADI]" etiketli kayıtlar (72 adet), araştırma sırasında DOI/URL/yıl bilgisi bağımsız olarak doğrulanamayan kaynaklardır; bu kaynaklara dayanan iddialar ihtiyatla okunmalıdır. Etiket, çalışmanın şüpheli olduğunu değil, künyesinin (cilt/sayfa/DOI) bu oturumda bağımsız olarak teyit edilemediğini ifade eder; Hamilton (1989) veya Meese-Rogoff (1983) gibi kurucu çalışmalar da ağ erişim kısıtı nedeniyle bu etiketi taşıyabilir. Bazı kayıtlardaki "[D]" etiketi birincil kaynak veya birden fazla bağımsız kayıtla doğrulanmayı, "[D-ik]" yalnızca ikincil künye kayıtlarıyla (GitHub bibliyografyaları, README atıfları, PyPI) doğrulanmayı, "[D-arama]" ise ikinci bir doğrulama turunda web aramasıyla yazar/yıl/yayın yerinin teyit edildiğini (ve varsa eklenen DOI/sayfa bilgisinin arama sonucundan alındığını) ifade eder. Metin içi atıflar (Yazar, Yıl) biçimindedir; liste yazar soyadına göre alfabetiktir.
 
-- (2025). AlphaAgents: Large Language Model based Multi-Agents for Equity Portfolio Constructions. arXiv (raporlanan). [DOĞRULANAMADI]
-- (2025). Detecting Lookahead Bias in LLM Forecasts. arXiv:2512.23847. (Yalnızca başlık ve kimlik teyit edildi; yazarlar ve içerik [DOĞRULANAMADI].)
-- (2025). StockBench: LLM ajanlarının gerçek piyasada ticaret kârlılığı benchmark'ı. arXiv (raporlanan). [DOĞRULANAMADI]
+- (2025). StockBench: Can LLM Agents Trade Stocks Profitably in Real-World Markets? arXiv:2510.02209. [D-arama; düzeltildi: tam başlık ve arXiv kimliği eklendi; yazar listesi arama sonucunda görülmedi]
 - 2025–2026 bakış yanlılığı çalışmaları (yalnızca varlığı ve başlığı doğrulandı; içerik okunmadı): *A Fast and Effective Solution to the Problem of Look-ahead Bias in LLMs* (arXiv:2512.06607); *DATEDGPT: Preventing Lookahead Bias in Large Language Models* (arXiv:2603.11838); *Evaluating LLMs in Finance Requires Explicit Bias Consideration* (arXiv:2602.14233); *AlphaAgent: LLM-Driven Alpha Mining with Regularized Exploration to Counteract Alpha Decay* (arXiv:2502.16789); *Chain-of-Alpha: Unleashing the Power of Large Language Models for Alpha Mining in Quantitative Trading* (arXiv:2508.06312).
-- (2026). Look-Ahead-Bench: a Standardized Benchmark of Look-ahead Bias in Point-in-Time LLMs for Finance. arXiv:2601.13770. (Yalnızca başlık ve kimlik teyit edildi; yazarlar ve içerik [DOĞRULANAMADI].)
 - Aas, K., Jullum, M., Løland, A. (2021). Explaining individual predictions when features are dependent: More accurate approximations to Shapley values. Artificial Intelligence, 298, 103502. https://doi.org/10.1016/j.artint.2021.103502
 - Açık kaynak araçlar (PyPI üzerinden doğrulandı, Ekim 2026): `datasketch` (MinHash LSH), `simhash`, `sentence-transformers`, `BERTopic`, `spaCy`, `GLiNER`, `trafilatura`, `newspaper3k`, `feedparser`, `gdeltdoc`, `dateparser`, `transformers`, `vllm`, `outlines`, `instructor`, `pydantic`.
-- Adams, R. P. ve MacKay, D. J. C. (2007). Bayesian Online Changepoint Detection. *arXiv:0710.3742*. [DOĞRULANAMADI]
-- Adrian, T., Crump, R. K. ve Moench, E. (2013). Pricing the Term Structure with Linear Regressions. *Journal of Financial Economics*, 110(1), 110–138. [DOĞRULANAMADI]
+- Adams, R. P. ve MacKay, D. J. C. (2007). Bayesian Online Changepoint Detection. *arXiv:0710.3742*. [D-arama]
+- Adrian, T., Crump, R. K. ve Moench, E. (2013). Pricing the Term Structure with Linear Regressions. *Journal of Financial Economics*, 110(1), 110–138. [D-arama]
 - AI4Finance Foundation. FinRL-Meta (veri kaynakları tablosu; PIT/survivorship tartışması yok). GitHub. https://github.com/AI4Finance-Foundation/FinRL-Meta — Doğrulandı (GitHub).
 - AI4Finance-Foundation (2026). FinRobot GitHub deposu ve README ("Numbers are code-calculated. Narratives are LLM-assisted."). https://github.com/AI4Finance-Foundation/FinRobot (erişim 2026-10-05)
 - AI4Finance-Foundation. FinNLP. https://github.com/AI4Finance-Foundation/FinNLP (erişim 2026-10-05; ~1,5 bin yıldız; MIT; PyPI finnlp 0.0.1, 2024-03-20)
 - AIEQ performans verileri — ikincil kaynaklar (portfolioslab.com, dividend.com, Yahoo Finance performans sayfası), 2025. Resmi Amplify ETFs sayfası bu oturumda erişilemedi. [kısmen DOĞRULANAMADI]
 - Aksu, T. vd. (2024). GIFT-Eval: A Benchmark for General Time Series Forecasting Model Evaluation. NeurIPS 2024 Workshop on Time Series in the Age of Large Models; arXiv:2410.10393. https://arxiv.org/abs/2410.10393 ; depo: https://github.com/SalesforceAIResearch/gift-eval
 - Aksu, T., Woo, G., Liu, J., vd. (2024). GIFT-Eval: A Benchmark for General Time Series Forecasting Model Evaluation. arXiv:2410.10393. [D-ik]
-- Almgren, R., Thum, C., Hauptmann, E. ve Li, H. (2005). Direct estimation of equity market impact. *Risk*, 18(7), 58–62. [DOĞRULANAMADI]
-- Almgren, R. ve Chriss, N. (2001). Optimal execution of portfolio transactions. *Journal of Risk*, 3(2), 5–39. [DOĞRULANAMADI]
+- Almgren, R., Thum, C., Hauptmann, E. ve Li, H. (2005). Direct estimation of equity market impact. *Risk*, 18(7), 58–62. [D-arama]
+- Almgren, R. ve Chriss, N. (2001). Optimal execution of portfolio transactions. *Journal of Risk*, 3(2), 5–39. DOI 10.21314/JOR.2001.041. [D-arama]
 - Alpaca. alpaca-py. GitHub. https://github.com/alpacahq/alpaca-py — Doğrulandı (GitHub).
 - Alpha Vantage. alpha_vantage (topluluk istemcisi). GitHub. https://github.com/RomelTorres/alpha_vantage — Doğrulandı (GitHub). Premium fiyat sayfası https://www.alphavantage.co/premium/ — [DOĞRULANAMADI].
 - AlphaSense (2024/2025). AlphaSense Surpasses USD 400M in ARR… ; AlphaSense vs. Tegus. https://www.alpha-sense.com/press/alphasense-surpasses-usd400m-in-arr-accelerating-growth-with-private-content-expansion-and-generative-ai-innovation ; https://www.alpha-sense.com/alphasense-vs-tegus — Doğrulandı (arama özeti). Satın alma bedeli (930 milyon USD) Dealroom/Sacra üzerinden raporlanmıştır; resmî rakam [DOĞRULANAMADI].
 - Alquist, R., Kilian, L. ve Vigfusson, R. J. (2013). Forecasting the Price of Oil. İçinde: G. Elliott ve A. Timmermann (Ed.), *Handbook of Economic Forecasting*, Cilt 2A, 427–507. Elsevier. [DOĞRULANAMADI]
 - Alvarez-Melis, D., Jaakkola, T. S. (2018). On the Robustness of Interpretability Methods. ICML Workshop on Human Interpretability in ML (WHI). arXiv:1806.08049. https://arxiv.org/abs/1806.08049
-- Amazon Chronos — Ansari, A. F. vd. (2024). Chronos: Learning the Language of Time Series. arXiv:2403.07815; *TMLR*. Kod/ağırlıklar: https://github.com/amazon-science/chronos-forecasting ; veri kümeleri: https://huggingface.co/datasets/autogluon/chronos_datasets (depo doğrulandı; makale künyesi [DOĞRULANAMADI])
+- Amazon Chronos — Ansari, A. F. vd. (2024). Chronos: Learning the Language of Time Series. arXiv:2403.07815; *Transactions on Machine Learning Research (TMLR)*, 2024. Kod/ağırlıklar: https://github.com/amazon-science/chronos-forecasting ; veri kümeleri: https://huggingface.co/datasets/autogluon/chronos_datasets (depo doğrulandı) [D-arama]
 - Amundi Investment Institute (2025). Gold Beyond Records. Amundi Research Center. https://research-center.amundi.com/article/gold-beyond-records (sektör araştırma notu, hakemli değil)
 - Andersen, T. G., Bollerslev, T. (1998). Answering the Skeptics: Yes, Standard Volatility Models Do Provide Accurate Forecasts. International Economic Review, 39(4), 885–905.
-- Andersen, T. G., Bollerslev, T., Diebold, F. X. ve Vega, C. (2003). Micro Effects of Macro Announcements: Real-Time Price Discovery in Foreign Exchange. *American Economic Review*, 93(1), 38–62. [DOĞRULANAMADI]
-- Andersen, T. G., Bollerslev, T., Diebold, F. X. ve Vega, C. (2007). Real-time price discovery in global stock, bond and foreign exchange markets. *Journal of International Economics*, 73(2), 251–277. [DOĞRULANAMADI]
+- Andersen, T. G., Bollerslev, T., Diebold, F. X. ve Vega, C. (2003). Micro Effects of Macro Announcements: Real-Time Price Discovery in Foreign Exchange. *American Economic Review*, 93(1), 38–62. [D-arama]
+- Andersen, T. G., Bollerslev, T., Diebold, F. X. ve Vega, C. (2007). Real-time price discovery in global stock, bond and foreign exchange markets. *Journal of International Economics*, 73(2), 251–277. [D-arama]
 - Andersen, T. G. ve Bondarenko, O. (2014). VPIN and the Flash Crash. *Journal of Financial Markets*, 17, 1–46. https://doi.org/10.1016/j.finmar.2013.05.005
 - Ang, A. ve Bekaert, G. (2002). International Asset Allocation With Regime Shifts. *Review of Financial Studies*, 15(4), 1137–1187. https://doi.org/10.1093/rfs/15.4.1137
 - Ang, A. ve Timmermann, A. (2012). Regime Changes and Financial Markets. *Annual Review of Financial Economics*, 4, 313–337. https://doi.org/10.1146/annurev-financial-110311-101808
-- Ang, G. ve Lim, E.-P. (2022). Guided Attention Multimodal Multitask Financial Forecasting with Inter-Company Relationships and Global and Local News. *Proceedings of ACL 2022*, 6313–6326. [DOĞRULANAMADI]
+- Ang, G. ve Lim, E.-P. (2022). Guided Attention Multimodal Multitask Financial Forecasting with Inter-Company Relationships and Global and Local News. *Proceedings of ACL 2022*, 6313–6326. DOI 10.18653/v1/2022.acl-long.437. [D-arama]
 - Angelopoulos, A. N., Bates, S. (2023). Conformal Prediction: A Gentle Introduction. Foundations and Trends in Machine Learning, 16(4), 494–591. (arXiv:2107.07511, 2021.) https://arxiv.org/abs/2107.07511
 - Angelopoulos, A. N., Candès, E. J., Tibshirani, R. J. (2023). Conformal PID Control for Time Series Prediction. Advances in Neural Information Processing Systems 36 (NeurIPS 2023). arXiv:2307.16895. https://arxiv.org/abs/2307.16895
-- [Anonim] (2025). Evaluating the Chronos Foundation Model for Daily Stock Index Forecasting. ISD 2025 (International Conference on Information Systems Development) bildirisi. https://isd2025.fon.bg.ac.rs/wp-content/uploads/ISD_2025_camera_ready_265.pdf [DOĞRULANAMADI — yazar adları ve tam başlık doğrulanamadı; bulgular arama özetine dayanır]
+- Łaniewski, S. ve Ślepaczuk, R. (2025). Evaluating the Chronos Foundation Model for Daily Stock Index Forecasting. ISD 2025 (33rd International Conference on Information Systems Development) bildirisi. https://isd2025.fon.bg.ac.rs/wp-content/uploads/ISD_2025_camera_ready_265.pdf [D-arama; düzeltildi: yazarlar eklendi]
 - [Anonim] (2026). Artificial Intelligence in Equity and Crypto Markets: Progress, Profitability Evidence, and the Limits of Automated Investing. arXiv:2609.04917. https://arxiv.org/abs/2609.04917 (özet okunabildi; yazar listesi doğrulanamadı)
-- (Anonim/çeşitli yazarlar) (2025). Modeling Market States with Clustering and State Machines. *arXiv:2510.00953*. (yalnızca varlığı doğrulandı; içerik ve yazarlar bu oturumda okunamadı) [DOĞRULANAMADI]
 - Ansari, A. F., Stella, L., Turkmen, C., vd. (2024). Chronos: Learning the Language of Time Series. Transactions on Machine Learning Research. arXiv:2403.07815. https://github.com/amazon-science/chronos-forecasting [D]
 - Ansari, A. F. vd. (2024). Chronos: Learning the Language of Time Series. arXiv:2403.07815; Chronos-2 teknik raporu arXiv:2510.15821. (README atıflarından doğrulandı) https://github.com/amazon-science/chronos-forecasting (erişim 2026-10-05; ~6,0 bin yıldız; Apache-2.0)
 - Ansari, A. F. vd. (2024). Chronos: Learning the Language of Time Series. Transactions on Machine Learning Research; arXiv:2403.07815. https://arxiv.org/abs/2403.07815 ; depo: https://github.com/amazon-science/chronos-forecasting
@@ -4206,41 +4202,42 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Azevedo, V., Hoegner, C., Velikov, M. (çalışma kağıdı). The Expected Returns on Machine-Learning Strategies. SSRN 4702406. [D-ik; içerik ikincil özetten]
 - Bai, J. ve Ng, S. (2002). Determining the Number of Factors in Approximate Factor Models. *Econometrica*, 70(1), 191–221. https://doi.org/10.1111/1468-0262.00273
 - Bai, S., Kolter, J. Z. ve Koltun, V. (2018). An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling. arXiv:1803.01271. https://arxiv.org/abs/1803.01271 ; depo: https://github.com/locuslab/TCN
-- Bailey, D. H., Borwein, J., López de Prado, M. ve Zhu, Q. J. (2017). The Probability of Backtest Overfitting. Journal of Computational Finance, 20(4), 39–69. [DOĞRULANAMADI]
-- Bailey, D. H., Borwein, J. M., López de Prado, M. ve Zhu, Q. J. (2014). Pseudo-Mathematics and Financial Charlatanism: The Effects of Backtest Overfitting on Out-of-Sample Performance. *Notices of the American Mathematical Society*, 61(5), 458–471. [DOĞRULANAMADI — künye bilgisi yazarın bilgisine dayanır; makale varlığı arama sonuçlarıyla dolaylı doğrulandı]
+- Bailey, D. H., Borwein, J., López de Prado, M. ve Zhu, Q. J. (2017). The Probability of Backtest Overfitting. Journal of Computational Finance, 20(4), 39–69. DOI 10.21314/JCF.2016.322. [D-arama]
+- Bailey, D. H., Borwein, J. M., López de Prado, M. ve Zhu, Q. J. (2014). Pseudo-Mathematics and Financial Charlatanism: The Effects of Backtest Overfitting on Out-of-Sample Performance. *Notices of the American Mathematical Society*, 61(5), 458–471. [D-arama]
 - Bailey, D. H., Borwein, J. M., López de Prado, M. ve Zhu, Q. J. (2017). The Probability of Backtest Overfitting. *Journal of Computational Finance*, 20(4), 39–69. DOI 10.21314/JCF.2016.322. https://www.risk.net/journal-of-computational-finance/2471206/the-probability-of-backtest-overfitting
 - Bailey, D. H., Borwein, J. M., López de Prado, M., Zhu, Q. J. (2017). The Probability of Backtest Overfitting. Journal of Computational Finance, 20(4), 39–69. https://doi.org/10.21314/JCF.2016.322 [D]
 - Bailey, D. H., López de Prado, M. (2014). The Deflated Sharpe Ratio: Correcting for Selection Bias, Backtest Overfitting and Non-Normality. Journal of Portfolio Management, 40(5), 94–107. https://doi.org/10.3905/jpm.2014.40.5.094 [D-ik]
 - Bailey, D. H. ve López de Prado, M. (2014). The Deflated Sharpe Ratio: Correcting for Selection Bias, Backtest Overfitting, and Non-Normality. *Journal of Portfolio Management*, 40(5), 94–107. https://doi.org/10.3905/jpm.2014.40.5.094
 - Baker, S. R., Bloom, N., & Davis, S. J. (2016). Measuring Economic Policy Uncertainty. The Quarterly Journal of Economics, 131(4), 1593–1636. DOI 10.1093/qje/qjw024 (NBER Working Paper 21633).
-- Baker, S. R., Bloom, N. ve Davis, S. J. (2016). Measuring Economic Policy Uncertainty. *Quarterly Journal of Economics*, 131(4), 1593–1636. [DOĞRULANAMADI]
-- Bali, T. G., Goyal, A., Huang, D., Jiang, F., Wen, Q. (2020). Predicting Corporate Bond Returns: Merton Meets Machine Learning. SSRN çalışma kağıdı. [DOĞRULANAMADI — çalışma kağıdı olarak atıflarda yer alıyor; dergi yayını ve SSRN numarası teyit edilemedi]
-- Baltussen, G., Swinkels, L. ve van Vliet, P. (2021). Global Factor Premiums. *Journal of Financial Economics*, 142(3), 1128–1154. [DOĞRULANAMADI]
+- Baker, S. R., Bloom, N. ve Davis, S. J. (2016). Measuring Economic Policy Uncertainty. *Quarterly Journal of Economics*, 131(4), 1593–1636. [D-arama]
+- Bali, T. G., Goyal, A., Huang, D., Jiang, F., Wen, Q. (2020). Predicting Corporate Bond Returns: Merton Meets Machine Learning. Swiss Finance Institute Research Paper No. 20-110; SSRN çalışma kağıdı. [D-arama; düzeltildi: SFI çalışma kâğıdı numarası eklendi]
+- Baltussen, G., Swinkels, L. ve van Vliet, P. (2021). Global Factor Premiums. *Journal of Financial Economics*, 142(3), 1128–1154. [D-arama]
 - Banz, R. W. (1981). The relationship between return and market value of common stocks. *Journal of Financial Economics*, 9(1), 3–18. https://doi.org/10.1016/0304-405X(81)90018-0
 - Barber, R. F., Candès, E. J., Ramdas, A., Tibshirani, R. J. (2023). Conformal prediction beyond exchangeability. Annals of Statistics, 51(2), 816–845. https://doi.org/10.1214/23-AOS2276
 - Barberis, N., Shleifer, A. ve Vishny, R. (1998). A model of investor sentiment. *Journal of Financial Economics*, 49(3), 307–343. https://doi.org/10.1016/S0304-405X(98)00027-0
-- Barsky, R. B. ve Summers, L. H. (1988). Gibson's Paradox and the Gold Standard. *Journal of Political Economy*, 96(3), 528–550. [DOĞRULANAMADI]
+- Barsky, R. B. ve Summers, L. H. (1988). Gibson's Paradox and the Gold Standard. *Journal of Political Economy*, 96(3), 528–550. [D-arama]
 - Bauer, M. D. ve Swanson, E. T. (2023). A Reassessment of Monetary Policy Surprises and High-Frequency Identification. *NBER Macroeconomics Annual*, 37. NBER Working Paper 29939. https://www.nber.org/papers/w29939
-- Baumeister, C. ve Hamilton, J. D. (2019). Structural Interpretation of Vector Autoregressions with Incomplete Identification: Revisiting the Role of Oil Supply and Demand Shocks. *American Economic Review*, 109(5), 1873–1910. [DOĞRULANAMADI]
-- Baur, D. G. ve Lucey, B. M. (2010). Is Gold a Hedge or a Safe Haven? An Analysis of Stocks, Bonds and Gold. *Financial Review*, 45(2), 217–229. [DOĞRULANAMADI]
-- Baur, D. G. ve McDermott, T. K. (2010). Is Gold a Safe Haven? International Evidence. *Journal of Banking & Finance*, 34(8), 1886–1898. [DOĞRULANAMADI]
+- Baumeister, C. ve Hamilton, J. D. (2019). Structural Interpretation of Vector Autoregressions with Incomplete Identification: Revisiting the Role of Oil Supply and Demand Shocks. *American Economic Review*, 109(5), 1873–1910. [D-arama]
+- Baur, D. G. ve Lucey, B. M. (2010). Is Gold a Hedge or a Safe Haven? An Analysis of Stocks, Bonds and Gold. *Financial Review*, 45(2), 217–229. [D-arama]
+- Baur, D. G. ve McDermott, T. K. (2010). Is Gold a Safe Haven? International Evidence. *Journal of Banking & Finance*, 34(8), 1886–1898. [D-arama]
 - Baz, J., Granger, N., Harvey, C. R., Le Roux, N. ve Rattray, S. (2015). Dissecting Investment Strategies in the Cross Section and Time Series. SSRN Working Paper 2695101. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2695101
 - Becedillas, G. PyAlgoTrade. https://github.com/gbeced/pyalgotrade (erişim 2026-10-05; ~4,7 bin yıldız; arşivlendi 2023-11-13; "deprecated")
 - Bejarano, J., Desai, V., Keshava, K., Kumar, A., Wang, Z., Xu, V. H., Xu, Y. (2026). An Open Benchmark for Evaluating Time Series Forecasting Methods across Financial Markets. Office of Financial Research Working Paper 26-05. Kod ve veri hattı: https://github.com/jmbejara/ftsfr [D — taslak LaTeX kaynağı depodan okundu]
+- Benhenda, M. (2026). Look-Ahead-Bench: a Standardized Benchmark of Look-ahead Bias in Point-in-Time LLMs for Finance. arXiv:2601.13770. [D-arama; düzeltildi: yazar eklendi]
 - Bento, J., Saleiro, P., Cruz, A. F., Figueiredo, M. A. T., Bizarro, P. (2021). TimeSHAP: Explaining Recurrent Models through Sequence Perturbations. Proceedings of the 27th ACM SIGKDD Conference (KDD '21). https://doi.org/10.1145/3447548.3467166
 - Bergmeir, C., Benítez, J. M. (2012). On the use of cross-validation for time series predictor evaluation. Information Sciences, 191, 192–213. https://doi.org/10.1016/j.ins.2011.12.028 [D-ik]
 - Bergmeir, C., Hyndman, R. J., Koo, B. (2018). A note on the validity of cross-validation for evaluating autoregressive time series prediction. Computational Statistics & Data Analysis, 120, 70–83. https://doi.org/10.1016/j.csda.2017.11.003 [D-ik]
-- Bergmeir, C., Hyndman, R. J. ve Koo, B. (2018). A note on the validity of cross-validation for evaluating autoregressive time series prediction. *Computational Statistics & Data Analysis*, 120, 70–83. DOI 10.1016/j.csda.2017.11.003. [DOĞRULANAMADI]
-- Bergmeir, C. ve Benítez, J. M. (2012). On the use of cross-validation for time series predictor evaluation. *Information Sciences*, 191, 192–213. [DOĞRULANAMADI]
+- Bergmeir, C., Hyndman, R. J. ve Koo, B. (2018). A note on the validity of cross-validation for evaluating autoregressive time series prediction. *Computational Statistics & Data Analysis*, 120, 70–83. DOI 10.1016/j.csda.2017.11.003. [D-arama]
+- Bergmeir, C. ve Benítez, J. M. (2012). On the use of cross-validation for time series predictor evaluation. *Information Sciences*, 191, 192–213. [D-arama]
 - Berkowitz, J. (2001). Testing Density Forecasts, with Applications to Risk Management. Journal of Business & Economic Statistics, 19(4), 465–474.
-- Bernanke, B. S. ve Kuttner, K. N. (2005). What Explains the Stock Market's Reaction to Federal Reserve Policy? *Journal of Finance*, 60(3), 1221–1257. [DOĞRULANAMADI]
-- Bernard, V. L. ve Thomas, J. K. (1989). Post-Earnings-Announcement Drift: Delayed Price Response or Risk Premium? *Journal of Accounting Research*, 27 (Supplement), 1–36. [DOĞRULANAMADI]
-- Bernard, V. L. ve Thomas, J. K. (1990). Evidence that Stock Prices Do Not Fully Reflect the Implications of Current Earnings for Future Earnings. *Journal of Accounting and Economics*, 13(4), 305–340. [DOĞRULANAMADI]
-- Bhatia, G., Nagoudi, E. M. B., Cavusoglu, H. ve Abdul-Mageed, M. (2024). FinTral: A Family of GPT-4 Level Multimodal Financial Large Language Models. arXiv:2402.10986; Findings of ACL 2024. [DOĞRULANAMADI]
+- Bernanke, B. S. ve Kuttner, K. N. (2005). What Explains the Stock Market's Reaction to Federal Reserve Policy? *Journal of Finance*, 60(3), 1221–1257. [D-arama]
+- Bernard, V. L. ve Thomas, J. K. (1989). Post-Earnings-Announcement Drift: Delayed Price Response or Risk Premium? *Journal of Accounting Research*, 27 (Supplement), 1–36. [D-arama]
+- Bernard, V. L. ve Thomas, J. K. (1990). Evidence that Stock Prices Do Not Fully Reflect the Implications of Current Earnings for Future Earnings. *Journal of Accounting and Economics*, 13(4), 305–340. [D-arama]
+- Bhatia, G., Nagoudi, E. M. B., Cavusoglu, H. ve Abdul-Mageed, M. (2024). FinTral: A Family of GPT-4 Level Multimodal Financial Large Language Models. arXiv:2402.10986; *Findings of the Association for Computational Linguistics: ACL 2024*, 13064–13087. [D-arama]
 - Bianchi, D., Büchner, M., Tamoni, A. (2021). Bond Risk Premiums with Machine Learning. Review of Financial Studies, 34(2), 1046–1089. https://doi.org/10.1093/rfs/hhaa062 ; Corrigendum: RFS 34(2), 1090–1103, https://doi.org/10.1093/rfs/hhaa098 [D-ik]
 - Bianchi, D., Büchner, M. ve Tamoni, A. (2021). Bond Risk Premiums with Machine Learning. *Review of Financial Studies*, 34(2), 1046–1089. DOI: 10.1093/rfs/hhaa062. Düzeltme (Corrigendum): *Review of Financial Studies*, 34(2), 1090–1103 (2021).
 - BIS (2024). Annual Economic Report 2024, Chapter III: Artificial intelligence and the economy: implications for central banks. https://www.bis.org/publ/arpdf/ar2024e3.htm — Doğrulandı (arama özeti; bis.org doğrudan erişilemedi).
-- Blei, D. M., Ng, A. Y. ve Jordan, M. I. (2003). Latent Dirichlet Allocation. *Journal of Machine Learning Research*, 3, 993–1022. [DOĞRULANAMADI]
+- Blei, D. M., Ng, A. Y. ve Jordan, M. I. (2003). Latent Dirichlet Allocation. *Journal of Machine Learning Research*, 3, 993–1022. [D-arama]
 - Bloomberg L.P. (2025). Bloomberg Accelerates Financial Analysis with Gen AI-Powered Document Insights. Basın bülteni, 7 Nisan 2025. https://www.bloomberg.com/company/press/ — Doğrulandı (arama özeti; financialit.net ve aimresearch.co yeniden yayımları).
 - Bloomberg News (2024). Cliff Asness Says the Machines Are Making More Decisions at AQR. 25 Haziran 2024. https://www.bloomberg.com/news/articles/2024-06-25/cliff-asness-says-computers-are-consolidating-power-at-aqr — Doğrulandı (arama özeti).
 - Bloomberg Professional Services. B-PIPE / Enterprise Data Catalog. https://www.bloomberg.com/professional/products/data/enterprise-catalog/ — Doğrulandı (arama özeti).
@@ -4249,60 +4246,58 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Board of Governors of the Federal Reserve System (2011). SR 11-7: Supervisory Guidance on Model Risk Management. https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm
 - Bok, B., Caratelli, D., Giannone, D., Sbordone, A. M. ve Tambalotti, A. (2018). Macroeconomic Nowcasting and Forecasting with Big Data. *Annual Review of Economics*, 10, 615–643. [DOĞRULANAMADI]
 - Bollen, J., Mao, H., & Zeng, X.-J. (2011). Twitter mood predicts the stock market. Journal of Computational Science, 2(1), 1–8. arXiv:1010.3003. https://arxiv.org/abs/1010.3003
-- Bollen, J., Mao, H. ve Zeng, X. (2011). Twitter mood predicts the stock market. *Journal of Computational Science*, 2(1), 1–8. [DOĞRULANAMADI]
+- Bollen, J., Mao, H. ve Zeng, X. (2011). Twitter mood predicts the stock market. *Journal of Computational Science*, 2(1), 1–8. [D-arama]
 - Bollerslev, T. (1986). Generalized autoregressive conditional heteroskedasticity. *Journal of Econometrics*, 31(3), 307–327. https://doi.org/10.1016/0304-4076(86)90063-1
 - Borsa İstanbul. BIST DataStore. https://datastore.borsaistanbul.com/ — [DOĞRULANAMADI].
 - Boström, H. crepes. https://github.com/henrikbostrom/crepes (erişim 2026-10-05; ~583 yıldız; BSD-3)
-- Boudoukh, J., Richardson, M. ve Whitelaw, R. F. (2008). The Myth of Long-Horizon Predictability. *Review of Financial Studies*, 21(4), 1577–1605. [DOĞRULANAMADI]
+- Boudoukh, J., Richardson, M. ve Whitelaw, R. F. (2008). The Myth of Long-Horizon Predictability. *Review of Financial Studies*, 21(4), 1577–1605. [D-arama]
 - Bouma, J. FinanceToolkit ve FinanceDatabase. https://github.com/JerBouma/FinanceToolkit ; https://github.com/JerBouma/FinanceDatabase (erişim 2026-10-05; ~5,4 bin / ~9,4 bin yıldız; MIT)
 - Box, G. E. P. ve Jenkins, G. M. (1970). *Time Series Analysis: Forecasting and Control*. Holden-Day. [DOĞRULANAMADI]
-- Bradley, D., Hanousek, J., Jame, R. ve Xiao, Z. (2024). Place Your Bets? The Value of Investment Research on Reddit's Wallstreetbets. *Review of Financial Studies*. [DOĞRULANAMADI]
-- Brave, S. ve Butters, R. A. (2011). Monitoring Financial Stability: A Financial Conditions Index Approach. Federal Reserve Bank of Chicago, *Economic Perspectives*, 35(1), 22–43. [DOĞRULANAMADI]
+- Bradley, D., Hanousek, J., Jame, R. ve Xiao, Z. (2024). Place Your Bets? The Value of Investment Research on Reddit's Wallstreetbets. *Review of Financial Studies*. [D-arama]
+- Brave, S. ve Butters, R. A. (2011). Monitoring Financial Stability: A Financial Conditions Index Approach. Federal Reserve Bank of Chicago, *Economic Perspectives*, 35(1), 22–43. [D-arama]
 - Breiman, L. (2001). Random Forests. Machine Learning, 45(1), 5–32. https://doi.org/10.1023/A:1010933404324
 - Brini, A. (2026). Forecasting Realized Volatility with Time Series Foundation Models: A Comparison with Econometric Benchmarks. arXiv:2607.05291. https://arxiv.org/abs/2607.05291 (tam metin okunamadı; başlık ve yazar kamuya açık atıf kayıtlarından doğrulandı)
 - Brinson, G. P., Hood, L. R., Beebower, G. L. (1986). Determinants of Portfolio Performance. Financial Analysts Journal, 42(4), 39–44.
 - Briones, R. Probabilistic-Sharpe-Ratio. https://github.com/rubenbriones/Probabilistic-Sharpe-Ratio (erişim 2026-10-05; ~131 yıldız; lisans belirtilmemiş)
 - Brixton, A., Cao, J., Hecht, P., Kelly, B. (2024). Can Machines Build Better Stock Portfolios? The Virtue of Complexity in the Cross-Section of Stocks. AQR Alternative Thinking, 2024 Issue 4. https://www.aqr.com/Insights/Research/Alternative-Thinking/Can-Machines-Build-Better-Stock-Portfolios — Doğrulandı (arama özeti).
 - Broder, A. Z. (1997). On the resemblance and containment of documents. *Proceedings of Compression and Complexity of Sequences (SEQUENCES'97)*, IEEE. [DOĞRULANAMADI]
-- Brown, S. J., Goetzmann, W., Ibbotson, R. G. ve Ross, S. A. (1992). Survivorship Bias in Performance Studies. *Review of Financial Studies*, 5(4), 553–580. [DOĞRULANAMADI]
+- Brown, S. J., Goetzmann, W., Ibbotson, R. G. ve Ross, S. A. (1992). Survivorship Bias in Performance Studies. *Review of Financial Studies*, 5(4), 553–580. [D-arama]
 - Bryzgalova, S., Pelger, M., Zhu, J. (2025). Forest Through the Trees: Building Cross-Sections of Stock Returns. Journal of Finance, 80, 2447–2506. https://doi.org/10.1111/jofi.13477 (önceki sürüm: SSRN 3493458, 2019) [D-ik]
 - Buehler, H., Gonon, L., Teichmann, J. ve Wood, B. (2019). Deep Hedging. Quantitative Finance, 19(8), 1271–1291. https://doi.org/10.1080/14697688.2019.1571683
 - Buncic, D. (2025). Simplified: A Closer Look at the Virtue of Complexity in Return Prediction. SSRN çalışma kâğıdı. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5239006
-- Bybee, L., Kelly, B., Manela, A., & Xiu, D. (2024). Business News and Business Cycles. Journal of Finance. [DOĞRULANAMADI]
+- Bybee, L., Kelly, B., Manela, A., & Xiu, D. (2024). Business News and Business Cycles. Journal of Finance. [D-arama]
 - Bybee, L., Kelly, B., Manela, A. ve Xiu, D. (2024). Business News and Business Cycles. *Journal of Finance*, 79(5), 3105–3147.
-- Bybee, L., Kelly, B. ve Su, Y. (2023). Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text. *Review of Financial Studies*, 36(12), 4759–4787. [DOĞRULANAMADI]
-- ByteDance Seed vd. (2025). FinSearchComp: Towards a Realistic, Expert-Level Evaluation of Financial Search and Reasoning. arXiv:2509.13160. [DOĞRULANAMADI]
+- Bybee, L., Kelly, B. ve Su, Y. (2023). Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text. *Review of Financial Studies*, 36(12), 4759–4787. [D-arama]
+- ByteDance Seed ve Columbia Business School (2025). FinSearchComp: Towards a Realistic, Expert-Level Evaluation of Financial Search and Reasoning. arXiv:2509.13160. [D-arama]
 - Cajas, D. Riskfolio-Lib. https://github.com/dcajasn/Riskfolio-Lib (erişim 2026-10-05; ~4,5 bin yıldız; BSD-3; PyPI 7.4.0, 2026-10-04)
 - Cakici, N., Fieberg, C., Metko, D., Zaremba, A. (2023). Machine Learning Goes Global: Cross-Sectional Return Predictability in International Stock Markets. Journal of Economic Dynamics and Control, 155, 104725. https://doi.org/10.1016/j.jedc.2023.104725 [D-ik]
 - Cakici, N., Fieberg, C., Metko, D., Zaremba, A. (2024). Do Anomalies Really Predict Market Returns? New Data and New Evidence. Review of Finance, 28(1), 1–44. https://academic.oup.com/rof/article/28/1/1/7239874 [D-ik; DOI teyit edilemedi]
 - Caldara, D., & Iacoviello, M. (2022). Measuring Geopolitical Risk. American Economic Review, 112(4), 1194–1225. DOI 10.1257/aer.20191823
-- Caldara, D. ve Iacoviello, M. (2022). Measuring Geopolitical Risk. *American Economic Review*, 112(4), 1194–1225. [DOĞRULANAMADI]
+- Caldara, D. ve Iacoviello, M. (2022). Measuring Geopolitical Risk. *American Economic Review*, 112(4), 1194–1225. DOI 10.1257/aer.20191823. [D-arama]
 - Campbell, J. Y., Thompson, S. B. (2008). Predicting Excess Stock Returns Out of Sample: Can Anything Beat the Historical Average? Review of Financial Studies, 21(4), 1509–1531. https://doi.org/10.1093/rfs/hhm055 [D-ik]
-- Campbell, J. Y. ve Shiller, R. J. (1988). Stock Prices, Earnings, and Expected Dividends. *Journal of Finance*, 43(3), 661–676. [DOĞRULANAMADI]
-- Campbell, J. Y. ve Shiller, R. J. (1998). Valuation Ratios and the Long-Run Stock Market Outlook. *Journal of Portfolio Management*, 24(2), 11–26. [DOĞRULANAMADI]
+- Campbell, J. Y. ve Shiller, R. J. (1988). Stock Prices, Earnings, and Expected Dividends. *Journal of Finance*, 43(3), 661–676. [D-arama]
+- Campbell, J. Y. ve Shiller, R. J. (1998). Valuation Ratios and the Long-Run Stock Market Outlook. *Journal of Portfolio Management*, 24(2), 11–26. [D-arama]
 - Campbell, J. Y. ve Thompson, S. B. (2008). Predicting Excess Stock Returns Out of Sample: Can Anything Beat the Historical Average? *Review of Financial Studies*, 21(4), 1509–1531. https://doi.org/10.1093/rfs/hhm055
 - Carhart, M. M. (1997). On Persistence in Mutual Fund Performance. *Journal of Finance*, 52(1), 57–82. https://doi.org/10.1111/j.1540-6261.1997.tb03808.x
 - Cartea, Á., Jin, Q. ve Shi, Y. (2025). The Limited Virtue of Complexity in a Noisy World. SSRN çalışma kâğıdı. https://doi.org/10.2139/ssrn.5202064
 - Cederburg, S., O'Doherty, M. S., Wang, F. ve Yan, X. (2020). On the performance of volatility-managed portfolios. *Journal of Financial Economics*, 138(1), 95–117. (DOI bağımsız kayıtla doğrulanamadı; dergi/yıl/cilt doğrulandı.)
 - Cemri, M., Pan, M. Z., Yang, S., Agrawal, L. A., Chopra, B., Tiwari, R., Keutzer, K., Parameswaran, A., Klein, D., Ramchandran, K. vd. (2025). Why Do Multi-Agent LLM Systems Fail? arXiv:2503.13657. Depo: https://github.com/multi-agent-systems-failure-taxonomy/MAST (erişim 2026-10-05)
-- (Çeşitli yazarlar) (2021). Expert Aggregation for Financial Forecasting. *arXiv:2111.15365*. (varlığı doğrulandı; yazarlar bu oturumda okunamadı) [DOĞRULANAMADI]
-- (Çeşitli yazarlar) (2025). Adaptive Market Intelligence: A Mixture of Experts Framework for Volatility-Sensitive Stock Forecasting. *arXiv:2508.02686*. (varlığı doğrulandı; yazarlar bu oturumda okunamadı) [DOĞRULANAMADI]
 - CFA Institute (2025). AI in Asset Management: Tools, Applications, and Frontiers. https://www.cfainstitute.org/about/press-room/2025/ai-in-asset-management-report-2025 — Doğrulandı (arama özeti).
 - CFA Institute (2025). Public comment on IOSCO report "Artificial Intelligence in Capital Markets", 11 Nisan 2025. https://rpc.cfainstitute.org/sites/default/files/docs/comment-letters/cfa-institute_public-comment-on-iosco-report_ai-in-captial-markets-2025-04-11.pdf — Doğrulandı (arama özeti).
-- Charikar, M. S. (2002). Similarity estimation techniques from rounding algorithms. *Proceedings of the 34th ACM Symposium on Theory of Computing (STOC)*, 380–388. [DOĞRULANAMADI]
-- Chauvet, M. ve Piger, J. (2008). A Comparison of the Real-Time Performance of Business Cycle Dating Methods. *Journal of Business & Economic Statistics*, 26(1), 42–49. [DOĞRULANAMADI]
-- Chen, A. Y. ve Velikov, M. (2023). Zeroing In on the Expected Returns of Anomalies. *Journal of Financial and Quantitative Analysis*, 58(3), 968–1004. [DOĞRULANAMADI]
+- Charikar, M. S. (2002). Similarity estimation techniques from rounding algorithms. *Proceedings of the 34th ACM Symposium on Theory of Computing (STOC)*, 380–388. [D-arama]
+- Chauvet, M. ve Piger, J. (2008). A Comparison of the Real-Time Performance of Business Cycle Dating Methods. *Journal of Business & Economic Statistics*, 26(1), 42–49. [D-arama]
+- Chen, A. Y. ve Velikov, M. (2023). Zeroing In on the Expected Returns of Anomalies. *Journal of Financial and Quantitative Analysis*, 58(3), 968–1004. [D-arama]
 - Chen, A. Y. ve Zimmermann, T. (2020). Publication Bias and the Cross-Section of Stock Returns. *Review of Asset Pricing Studies*, 10(2), 249–289. https://ideas.repec.org/a/oup/rasset/v10y2020i2p249-289..html
 - Chen, A. Y. ve Zimmermann, T. (2022). Open Source Cross-Sectional Asset Pricing. *Critical Finance Review*, 11(2), 207–264. https://doi.org/10.1561/104.00000112
 - Chen, A. Y., Zimmermann, T. (2022). Open Source Cross-Sectional Asset Pricing. Critical Finance Review, 11(2), 207–264. https://doi.org/10.1561/104.00000112 ; https://github.com/OpenSourceAP/CrossSection [D-ik]
 - Chen, H., Janizek, J. D., Lundberg, S., Lee, S.-I. (2020). True to the Model or True to the Data? arXiv:2006.16234. https://arxiv.org/abs/2006.16234
 - Chen, L., Pelger, M., Zhu, J. (2024). Deep Learning in Asset Pricing. Management Science, 70(2), 714–750. https://doi.org/10.1287/mnsc.2023.4695 [D]
 - Chen, W., Wang, Q., Long, Z., Zhang, X., Lu, Z., Li, B., Wang, S., Xu, J., Bai, X., Huang, X. ve Wei, Z. (2023). DISC-FinLLM: A Chinese Financial Large Language Model based on Multiple Experts Fine-tuning. arXiv:2310.15205.
-- Chen, Y., Kelly, B., & Xiu, D. (2022; rev. 2024). Expected Returns and Large Language Models. SSRN çalışma kâğıdı (Chicago Booth / Yale). SSRN kimliği bu oturumda teyit edilemedi. [DOĞRULANAMADI]
-- Chen, Y., Kelly, B. ve Xiu, D. (2022). Expected Returns and Large Language Models. SSRN Working Paper. [DOĞRULANAMADI]
-- Chen, Y., Wei, Z., & Huang, X. (2018). Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction. CIKM 2018. [DOĞRULANAMADI]
+- Chen, Y., Kelly, B., & Xiu, D. (2023). Expected Returns and Large Language Models. SSRN çalışma kâğıdı (Chicago Booth / Yale). [D-arama; düzeltildi: yıl 2022→2023]
+- Chen, Y., Kelly, B. ve Xiu, D. (2023). Expected Returns and Large Language Models. SSRN Working Paper. [D-arama; düzeltildi: yıl 2022→2023]
+- Chen, Y., Wei, Z., & Huang, X. (2018). Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction. CIKM 2018, 1655–1658. [D-arama]
 - Chen, Y., Wei, Z. ve Huang, X. (2018). Incorporating Corporation Relationship via Graph Convolutional Neural Networks for Stock Price Prediction. Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM), 1655–1658.
-- Chen, Y.-C., Rogoff, K. S. ve Rossi, B. (2010). Can Exchange Rates Forecast Commodity Prices? *Quarterly Journal of Economics*, 125(3), 1145–1194. [DOĞRULANAMADI]
+- Chen, Y.-C., Rogoff, K. S. ve Rossi, B. (2010). Can Exchange Rates Forecast Commodity Prices? *Quarterly Journal of Economics*, 125(3), 1145–1194. [D-arama]
 - Chen, Z., Chen, W., Smiley, C., Shah, S., Borova, I., Langdon, D., Moussa, R., Beane, M., Huang, T.-H., Routledge, B., & Wang, W. Y. (2021). FinQA: A Dataset of Numerical Reasoning over Financial Data. Proceedings of EMNLP 2021. arXiv:2109.00122; https://aclanthology.org/2021.emnlp-main.300
 - Chen, Z., Li, S., Smiley, C., Ma, Z., Shah, S., & Wang, W. Y. (2022). ConvFinQA: Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering. EMNLP 2022. arXiv:2210.03849
 - Cheng, D., Yang, F., Wang, X., Zhang, Y. ve Zhang, L. (2020). Knowledge Graph-based Event Embedding Framework for Financial Quantitative Investments. *Proceedings of the 43rd International ACM SIGIR Conference (SIGIR 2020)*. (Görev tanımında 2022 olarak anılmış; doğrulanan yıl 2020.)
@@ -4314,20 +4309,20 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - CME Group (2026). Precious Metals Outlook 2026: Market Dynamics Following a Record-Breaking Year. https://www.cmegroup.com/articles/2026/precious-metals-outlook-2026-market-dynamics-following-a-record-breaking-year.html (sektör notu, hakemli değil)
 - CME Group. CME FedWatch Tool. https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html — [DOĞRULANAMADI].
 - Cochrane, J. H. (2011). Presidential Address: Discount Rates. *Journal of Finance*, 66(4), 1047–1108. https://doi.org/10.1111/j.1540-6261.2011.01671.x
-- Cochrane, J. H. ve Piazzesi, M. (2005). Bond Risk Premia. *American Economic Review*, 95(1), 138–160. [DOĞRULANAMADI]
-- Cohen, L., Malloy, C., & Nguyen, Q. (2020). Lazy Prices. Journal of Finance, 75(3). [DOĞRULANAMADI]
-- Cohen, L., Malloy, C. ve Nguyen, Q. (2020). Lazy Prices. *Journal of Finance*, 75(3), 1371–1415. [DOĞRULANAMADI]
-- Cohen, L., Malloy, C. ve Pomorski, L. (2012). Decoding Inside Information. *Journal of Finance*, 67(3), 1009–1043. [DOĞRULANAMADI]
-- Cohen, L. ve Frazzini, A. (2008). Economic Links and Predictable Returns. *Journal of Finance*, 63(4), 1977–2011. [DOĞRULANAMADI]
+- Cochrane, J. H. ve Piazzesi, M. (2005). Bond Risk Premia. *American Economic Review*, 95(1), 138–160. [D-arama]
+- Cohen, L., Malloy, C., & Nguyen, Q. (2020). Lazy Prices. Journal of Finance, 75(3), 1371–1415. [D-arama]
+- Cohen, L., Malloy, C. ve Nguyen, Q. (2020). Lazy Prices. *Journal of Finance*, 75(3), 1371–1415. [D-arama]
+- Cohen, L., Malloy, C. ve Pomorski, L. (2012). Decoding Inside Information. *Journal of Finance*, 67(3), 1009–1043. [D-arama]
+- Cohen, L. ve Frazzini, A. (2008). Economic Links and Predictable Returns. *Journal of Finance*, 63(4), 1977–2011. [D-arama]
 - Common Crawl. news-crawl (CC-NEWS). GitHub. https://github.com/commoncrawl/news-crawl — Doğrulandı (GitHub).
 - Cong, L. W., Tang, K., Wang, J., Zhang, Y. (2021). AlphaPortfolio: Direct Construction Through Deep Reinforcement Learning and Interpretable AI. SSRN 3554486. https://ssrn.com/abstract=3554486 [D-ik; çalışma kağıdı — dergi yayını DOĞRULANAMADI]
 - Cont, R. (2001). Empirical properties of asset returns: stylized facts and statistical issues. *Quantitative Finance*, 1(2), 223–236. https://doi.org/10.1080/713665670
-- Cookson, J. A. ve Niessner, M. (2020). Why Don't We Agree? Evidence from a Social Network of Investors. *Journal of Finance*, 75(1), 173–228. [DOĞRULANAMADI]
+- Cookson, J. A. ve Niessner, M. (2020). Why Don't We Agree? Evidence from a Social Network of Investors. *Journal of Finance*, 75(1), 173–228. https://doi.org/10.1111/jofi.12852 [D-arama]
 - Corsi, F. (2009). A Simple Approximate Long-Memory Model of Realized Volatility. *Journal of Financial Econometrics*, 7(2), 174–196. https://doi.org/10.1093/jjfinec/nbp001
-- Cortis, K., Freitas, A., Daudert, T., Huerlimann, M., Zarrouk, M., Handschuh, S. ve Davis, B. (2017). SemEval-2017 Task 5: Fine-Grained Sentiment Analysis on Financial Microblogs and News. *Proceedings of SemEval-2017*, 519–535. [DOĞRULANAMADI]
+- Cortis, K., Freitas, A., Daudert, T., Huerlimann, M., Zarrouk, M., Handschuh, S. ve Davis, B. (2017). SemEval-2017 Task 5: Fine-Grained Sentiment Analysis on Financial Microblogs and News. *Proceedings of SemEval-2017*, 519–535. https://doi.org/10.18653/v1/S17-2089 [D-arama]
 - Cremers, K. J. M. (2002). Stock Return Predictability: A Bayesian Model Selection Perspective. Review of Financial Studies, 15(4), 1223–1249. https://doi.org/10.1093/rfs/15.4.1223
 - Cresci, S., Lillo, F., Regoli, D., Tardelli, S. ve Tesconi, M. (2019). Cashtag Piggybacking: Uncovering Spam and Bot Activity in Stock Microblogs on Twitter. *ACM Transactions on the Web*, 13(2). [DOĞRULANAMADI]
-- Croushore, D., Stark, T. (2001). A real-time data set for macroeconomists. Journal of Econometrics, 105(1), 111–130. — [DOĞRULANAMADI].
+- Croushore, D., Stark, T. (2001). A real-time data set for macroeconomists. Journal of Econometrics, 105(1), 111–130. — [D-arama]
 - Daniel, K., Hirshleifer, D. ve Subrahmanyam, A. (1998). Investor Psychology and Security Market Under- and Overreactions. *Journal of Finance*, 53(6), 1839–1885. https://doi.org/10.1111/0022-1082.00077
 - Daniel, K. ve Moskowitz, T. J. (2016). Momentum crashes. *Journal of Financial Economics*, 122(2), 221–247. https://doi.org/10.1016/j.jfineco.2015.12.002
 - Das, A., Kong, W., Sen, R. ve Zhou, Y. (2024). A Decoder-Only Foundation Model for Time-Series Forecasting. ICML 2024; arXiv:2310.10688. https://arxiv.org/abs/2310.10688 ; depo: https://github.com/google-research/timesfm
@@ -4338,8 +4333,8 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - De Bondt, W. F. M. ve Thaler, R. (1985). Does the Stock Market Overreact? *Journal of Finance*, 40(3), 793–805. https://doi.org/10.1111/j.1540-6261.1985.tb05004.x
 - Delta Lake dokümantasyonu, Table versioning / time travel: https://docs.delta.io/latest/delta-batch.html#query-an-older-snapshot-of-a-table-time-travel
 - Delventhal, N. cot_reports — CFTC COT rapor türleri ve yayım takvimi. GitHub. https://github.com/NDelventhal/cot_reports — Doğrulandı (GitHub).
-- DeMiguel, V., Garlappi, L. ve Uppal, R. (2009). Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy? *Review of Financial Studies*, 22(5), 1915–1953. [DOĞRULANAMADI]
-- Deng, C., Zhao, Y., Tang, X., Gerstein, M. ve Cohan, A. (2024). Investigating Data Contamination in Modern Benchmarks for Large Language Models. *NAACL 2024*. [DOĞRULANAMADI]
+- DeMiguel, V., Garlappi, L. ve Uppal, R. (2009). Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy? *Review of Financial Studies*, 22(5), 1915–1953. [D-arama]
+- Deng, C., Zhao, Y., Tang, X., Gerstein, M. ve Cohan, A. (2024). Investigating Data Contamination in Modern Benchmarks for Large Language Models. *NAACL 2024*, 8706–8719. [D-arama]
 - Deng, Y., Bao, F., Kong, Y., Ren, Z. ve Dai, Q. (2017). Deep Direct Reinforcement Learning for Financial Signal Representation and Trading. IEEE Transactions on Neural Networks and Learning Systems, 28(3), 653–664. https://doi.org/10.1109/TNNLS.2016.2522401
 - Derwent Capital Markets. Wikipedia maddesi ve HedgeCo haberleri (Mayıs 2012, "Twitter hedge fund shuts down after a month"). https://en.wikipedia.org/wiki/Derwent_Capital_Markets (ikincil kaynak)
 - Detzel, A., Novy-Marx, R. ve Velikov, M. (2023). Model Comparison with Transaction Costs. *Journal of Finance*, 78(3), 1743–1775. https://ideas.repec.org/a/bla/jfinan/v78y2023i3p1743-1775.html
@@ -4349,11 +4344,11 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Diebold, F. X., Gunther, T. A., Tay, A. S. (1998). Evaluating Density Forecasts with Applications to Financial Risk Management. International Economic Review, 39(4), 863–883.
 - Diebold, F. X., Mariano, R. S. (1995). Comparing Predictive Accuracy. Journal of Business & Economic Statistics, 13(3), 253–263.
 - Diebold, F. X. ve Mariano, R. S. (1995). Comparing Predictive Accuracy. *Journal of Business & Economic Statistics*, 13(3), 253–263. https://doi.org/10.1080/07350015.1995.10524599
-- Ding, H. vd. (2024). Large Language Model Agent in Financial Trading: A Survey. arXiv:2408.06361. [DOĞRULANAMADI]
-- Ding, Q. vd. (2024/2025). TradExpert: Revolutionizing Trading with Mixture of Expert LLMs. *arXiv:2411.00782*; Advances in Financial AI Workshop, ICLR 2025. (varlığı ve başlığı doğrulandı; yazar listesi doğrulanamadı) [DOĞRULANAMADI]
+- Ding, H. vd. (2024). Large Language Model Agent in Financial Trading: A Survey. arXiv:2408.06361. [D-arama]
+- Ding, Q., Shi, H., Guo, J. ve Liu, B. (2024). TradExpert: Revolutionizing Trading with Mixture of Expert LLMs. *arXiv:2411.00782*; Advances in Financial AI Workshop, ICLR 2025. [D-arama; düzeltildi: yazar listesi eklendi]
 - Ding, X., Zhang, Y., Liu, T., & Duan, J. (2015). Deep Learning for Event-Driven Stock Prediction. Proceedings of IJCAI 2015, 2327–2333. https://www.ijcai.org/Abstract/15/329
-- Ding, X., Zhang, Y., Liu, T. ve Duan, J. (2014). Using Structured Events to Predict Stock Price Movement: An Empirical Investigation. *Proceedings of EMNLP 2014*, 1415–1425. [DOĞRULANAMADI]
-- Ding, X., Zhang, Y., Liu, T. ve Duan, J. (2015). Deep Learning for Event-Driven Stock Prediction. *Proceedings of IJCAI 2015*, 2327–2333. [DOĞRULANAMADI]
+- Ding, X., Zhang, Y., Liu, T. ve Duan, J. (2014). Using Structured Events to Predict Stock Price Movement: An Empirical Investigation. *Proceedings of EMNLP 2014*, 1415–1425. [D-arama]
+- Ding, X., Zhang, Y., Liu, T. ve Duan, J. (2015). Deep Learning for Event-Driven Stock Prediction. *Proceedings of IJCAI 2015*, 2327–2333. [D-arama]
 - Do TSFMs Understand Financial Risk? (2026). Ön kayıtlı araştırma protokolü ve kod deposu (devam eden çalışma, hakemli değil). https://github.com/theJorDea/Do-TSFM-Understand-Financial-Risk-
 - Döbelt, J. (2026). Cross-Sectional Heterogeneity in LSTM Networks for Financial Time Series. arXiv:2608.05755. https://arxiv.org/abs/2608.05755 (yalnızca özet okunabildi)
 - Dong, Z., Fan, X., Peng, Z. (2024). FNSPID: A Comprehensive Financial News Dataset in Time Series. arXiv:2402.06698; KDD 2024 Applied Data Science Track. Kod/veri: https://github.com/Zdong104/FNSPID_Financial_News_Dataset — Doğrulandı (GitHub; arXiv sayfası erişilemedi).
@@ -4364,13 +4359,13 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Durbin, J. ve Koopman, S. J. (2012). *Time Series Analysis by State Space Methods* (2. baskı). Oxford University Press.
 - Easley, D., López de Prado, M. M. ve O'Hara, M. (2012). Flow Toxicity and Liquidity in a High-frequency World. *Review of Financial Studies*, 25(5), 1457–1493. https://doi.org/10.1093/rfs/hhs053
 - ECB (2024). Financial Stability Review, May 2024 — The rise of artificial intelligence: benefits and risks for financial stability (özel bölüm). https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/index.en.html — Doğrulandı (haber kaynakları üzerinden; ecb.europa.eu doğrudan erişilemedi).
-- Elton, E. J., Gruber, M. J. ve Blake, C. R. (1996). Survivorship Bias and Mutual Fund Performance. *Review of Financial Studies*, 9(4), 1097–1120. [DOĞRULANAMADI]
-- Engel, C. ve West, K. D. (2005). Exchange Rates and Fundamentals. *Journal of Political Economy*, 113(3), 485–517. [DOĞRULANAMADI]
+- Elton, E. J., Gruber, M. J. ve Blake, C. R. (1996). Survivorship Bias and Mutual Fund Performance. *Review of Financial Studies*, 9(4), 1097–1120. [D-arama]
+- Engel, C. ve West, K. D. (2005). Exchange Rates and Fundamentals. *Journal of Political Economy*, 113(3), 485–517. https://doi.org/10.1086/429137 [D-arama]
 - Engle, R. F. (1982). Autoregressive Conditional Heteroscedasticity with Estimates of the Variance of United Kingdom Inflation. *Econometrica*, 50(4), 987–1007. https://doi.org/10.2307/1912773
 - Engle, R. F., Manganelli, S. (2004). CAViaR: Conditional Autoregressive Value at Risk by Regression Quantiles. Journal of Business & Economic Statistics, 22(4), 367–381.
 - Engle, R. F. ve Granger, C. W. J. (1987). Co-Integration and Error Correction: Representation, Estimation, and Testing. *Econometrica*, 55(2), 251–276. https://doi.org/10.2307/1913236
 - EOD Historical Data. eodhd (Python). PyPI. https://pypi.org/project/eodhd/ — Doğrulandı (PyPI). Fiyat — [DOĞRULANAMADI].
-- Erb, C. B. ve Harvey, C. R. (2006). The Strategic and Tactical Value of Commodity Futures. *Financial Analysts Journal*, 62(2), 69–97. [DOĞRULANAMADI]
+- Erb, C. B. ve Harvey, C. R. (2006). The Strategic and Tactical Value of Commodity Futures. *Financial Analysts Journal*, 62(2), 69–97. [D-arama]
 - Erb, C. B. ve Harvey, C. R. (2013). The Golden Dilemma. *Financial Analysts Journal*, 69(4), 10–42. https://people.duke.edu/~charvey/Research/Published_Papers/P113_The_golden_dilemma.pdf
 - esvhd. pypbo. https://github.com/esvhd/pypbo (erişim 2026-10-05; ~140 yıldız; AGPL-3.0; PBO/DSR/PSR/MinTRL)
 - European Parliament and Council (2024). Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act). Official Journal of the European Union, 12 July 2024. https://eur-lex.europa.eu/eli/reg/2024/1689/oj
@@ -4378,17 +4373,17 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - FactSet (2024). FactSet Launches AI-Powered Pitch Creator. https://investor.factset.com/news-releases/news-release-details/factset-launches-ai-powered-pitch-creator — Doğrulandı (arama özeti).
 - FactSet (2024). FactSet Launches FactSet Mercury to Supercharge Junior Banker Workflows. https://investor.factset.com/news-releases/news-release-details/factset-launches-factset-mercury-supercharge-junior-banker — Doğrulandı (arama özeti).
 - Fama, E. F. (1970). Efficient Capital Markets: A Review of Theory and Empirical Work. *Journal of Finance*, 25(2), 383–417. https://doi.org/10.2307/2325486
-- Fama, E. F. (1984). Forward and Spot Exchange Rates. *Journal of Monetary Economics*, 14(3), 319–338. [DOĞRULANAMADI]
+- Fama, E. F. (1984). Forward and Spot Exchange Rates. *Journal of Monetary Economics*, 14(3), 319–338. [D-arama]
 - Fama, E. F., Fisher, L., Jensen, M. C. ve Roll, R. (1969). The Adjustment of Stock Prices to New Information. *International Economic Review*, 10(1), 1–21. https://doi.org/10.2307/2525569
-- Fama, E. F., French, K. R. (1993). Common risk factors in the returns on stocks and bonds. Journal of Financial Economics, 33(1), 3–56. [DOĞRULANAMADI]
+- Fama, E. F., French, K. R. (1993). Common risk factors in the returns on stocks and bonds. Journal of Financial Economics, 33(1), 3–56. [D-arama]
 - Fama, E. F. ve French, K. R. (1993). Common risk factors in the returns on stocks and bonds. *Journal of Financial Economics*, 33(1), 3–56. https://doi.org/10.1016/0304-405X(93)90023-5
 - Fama, E. F. ve French, K. R. (2015). A five-factor asset pricing model. *Journal of Financial Economics*, 116(1), 1–22. https://doi.org/10.1016/j.jfineco.2014.10.010
-- Fatouros, G., Metaxas, K., Soldatos, J., & Kyriazis, D. (2024). Can Large Language Models Beat Wall Street? Unveiling the Potential of AI in Stock Selection (MarketSenseAI). arXiv / Journal of Big Data. [DOĞRULANAMADI]
+- Fatouros, G., Metaxas, K., Soldatos, J., & Kyriazis, D. (2024). Can Large Language Models Beat Wall Street? Unveiling the Potential of AI in Stock Selection (MarketSenseAI). arXiv:2401.03737. [D-arama; düzeltildi: yayın yeri arXiv:2401.03737 olarak netleştirildi, Journal of Big Data teyit edilemedi]
 - Feast dokümantasyonu. Point-in-time joins. https://docs.feast.dev/getting-started/concepts/point-in-time-joins
 - feast-dev. Feast. https://github.com/feast-dev/feast (erişim 2026-10-05; ~7,3 bin yıldız; Apache-2.0; "point-in-time correct feature sets" README'de doğrulandı); feathr-ai. Feathr. https://github.com/feathr-ai/feathr (~1,9 bin yıldız; son commit 2024-03-26; Apache-2.0); logicalclocks. Hopsworks. https://github.com/logicalclocks/hopsworks (~1,3 bin yıldız; AGPL-3.0)
 - Federal Reserve Bank of Philadelphia. Real-Time Data Set for Macroeconomists. https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/real-time-data-set-for-macroeconomists — [DOĞRULANAMADI].
 - Federal Reserve Bank of St. Louis. ALFRED: Archival Federal Reserve Economic Data. https://alfred.stlouisfed.org/ — [DOĞRULANAMADI] (doğrudan erişilemedi; işlev fredapi üzerinden teyit edildi).
-- Fedyk, A. (2024). Front-Page News: The Effect of News Positioning on Financial Markets. Journal of Finance. [DOĞRULANAMADI]
+- Fedyk, A. (2024). Front-Page News: The Effect of News Positioning on Financial Markets. Journal of Finance, 79(1), 5–33. https://doi.org/10.1111/jofi.13287 [D-arama]
 - Fedyk, A. ve Hodson, J. (2023). When can the market identify old news? *Journal of Financial Economics*, 149(1), 92–113.
 - Feng, F., He, X., Wang, X., Luo, C., Liu, Y., & Chua, T.-S. (2019). Temporal Relational Ranking for Stock Prediction. ACM Transactions on Information Systems, 37(2), Article 27. DOI 10.1145/3309547; arXiv:1809.09441. Kod: https://github.com/fulifeng/Temporal_Relational_Stock_Ranking
 - Feng, F., He, X., Wang, X., Luo, C., Liu, Y. ve Chua, T.-S. (2019). Temporal Relational Ranking for Stock Prediction. ACM Transactions on Information Systems, 37(2), Article 27. arXiv:1809.09441; depo: https://github.com/fulifeng/Temporal_Relational_Stock_Ranking
@@ -4405,30 +4400,30 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Fischer, T. ve Krauss, C. (2018). Deep Learning with Long Short-Term Memory Networks for Financial Market Predictions. European Journal of Operational Research, 270(2), 654–669. https://doi.org/10.1016/j.ejor.2017.11.054
 - Fisher, A., Rudin, C., Dominici, F. (2018/2019). All Models are Wrong, but Many are Useful: Learning a Variable's Importance by Studying an Entire Class of Prediction Models Simultaneously. arXiv:1801.01489; Journal of Machine Learning Research, 20(177). https://arxiv.org/abs/1801.01489
 - Fissler, T., Ziegel, J. F. (2016). Higher order elicitability and Osband's principle. Annals of Statistics, 44(4), 1680–1707. https://doi.org/10.1214/16-AOS1439
-- Fox, E. B., Sudderth, E. B., Jordan, M. I. ve Willsky, A. S. (2011). A Sticky HDP-HMM with Application to Speaker Diarization. *Annals of Applied Statistics*, 5(2A), 1020–1056. [DOĞRULANAMADI]
-- Frazzini, A., Israel, R. ve Moskowitz, T. J. (2018). Trading Costs. SSRN 3229719. [DOĞRULANAMADI]
+- Fox, E. B., Sudderth, E. B., Jordan, M. I. ve Willsky, A. S. (2011). A Sticky HDP-HMM with Application to Speaker Diarization. *Annals of Applied Statistics*, 5(2A), 1020–1056. https://doi.org/10.1214/10-AOAS395 [D-arama]
+- Frazzini, A., Israel, R. ve Moskowitz, T. J. (2018). Trading Costs. SSRN 3229719. [D-arama]
 - Frazzini, A. ve Pedersen, L. H. (2014). Betting against beta. *Journal of Financial Economics*, 111(1), 1–25. https://doi.org/10.1016/j.jfineco.2013.10.005
 - freqtrade. https://github.com/freqtrade/freqtrade (erişim 2026-10-05; ~55 bin yıldız; GPL-3.0; PyPI 2026.9)
 - Freyberger, J., Neuhierl, A., Weber, M. (2020). Dissecting Characteristics Nonparametrically. Review of Financial Studies, 33(5), 2326–2377. https://doi.org/10.1093/rfs/hhz123 [D]
 - FSB (2024). The Financial Stability Implications of Artificial Intelligence. 14 Kasım 2024. https://www.fsb.org/2024/11/the-financial-stability-implications-of-artificial-intelligence/ — Doğrulandı (arama özeti; fsb.org doğrudan erişilemedi).
 - Gal, Y., Ghahramani, Z. (2016). Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning. Proceedings of ICML 2016, PMLR 48, 1050–1059. https://proceedings.mlr.press/v48/gal16.html
-- Gao, Z., Jiang, W. ve Yan, Y. (2025). Detecting Lookahead Bias in LLM Forecasts. arXiv:2512.23847. https://arxiv.org/abs/2512.23847 (içerik yalnızca başlık/özet düzeyinde görüldü)
-- Garcia, D. (2013). Sentiment during Recessions. *Journal of Finance*, 68(3), 1267–1300. [DOĞRULANAMADI]
+- Gao, Z., Jiang, W. ve Yan, Y. (2025). Detecting Lookahead Bias in LLM Forecasts. arXiv:2512.23847. [D-arama; düzeltildi: yazarlar eklendi]
+- Garcia, D. (2013). Sentiment during Recessions. *Journal of Finance*, 68(3), 1267–1300. [D-arama]
 - Garza, A. ve Mergenthaler-Canseco, M. (2023). TimeGPT-1. arXiv:2310.03589. https://arxiv.org/abs/2310.03589 ; SDK deposu: https://github.com/Nixtla/nixtla
 - Gatev, E., Goetzmann, W. N. ve Rouwenhorst, K. G. (2006). Pairs Trading: Performance of a Relative-Value Arbitrage Rule. *Review of Financial Studies*, 19(3), 797–827. https://doi.org/10.1093/rfs/hhj020
 - GDELT Project. gdeltdoc (Python; DOC API). PyPI. https://pypi.org/project/gdeltdoc/ — Doğrulandı (PyPI).
 - GeneralMills. pytrends (gayriresmî Google Trends API; toplulaştırma düzeyi değişikliği uyarısı). GitHub. https://github.com/GeneralMills/pytrends — Doğrulandı (GitHub).
 - Ghysels, E., Santa-Clara, P. ve Valkanov, R. (2004). The MIDAS Touch: Mixed Data Sampling Regression Models. UNC / UCLA çalışma kâğıdı. [DOĞRULANAMADI]
-- Ghysels, E., Santa-Clara, P. ve Valkanov, R. (2006). Predicting Volatility: Getting the Most out of Return Data Sampled at Different Frequencies. *Journal of Econometrics*, 131(1–2), 59–95. [DOĞRULANAMADI]
-- Ghysels, E., Sinko, A. ve Valkanov, R. (2007). MIDAS Regressions: Further Results and New Directions. *Econometric Reviews*, 26(1), 53–90. [DOĞRULANAMADI]
+- Ghysels, E., Santa-Clara, P. ve Valkanov, R. (2006). Predicting Volatility: Getting the Most out of Return Data Sampled at Different Frequencies. *Journal of Econometrics*, 131(1–2), 59–95. [D-arama]
+- Ghysels, E., Sinko, A. ve Valkanov, R. (2007). MIDAS Regressions: Further Results and New Directions. *Econometric Reviews*, 26(1), 53–90. [D-arama]
 - Giacomini, R. ve White, H. (2006). Tests of Conditional Predictive Ability. *Econometrica*, 74(6), 1545–1578. https://doi.org/10.1111/j.1468-0262.2006.00718.x
-- Giannone, D., Reichlin, L. ve Small, D. (2008). Nowcasting: The Real-Time Informational Content of Macroeconomic Data. *Journal of Monetary Economics*, 55(4), 665–676. [DOĞRULANAMADI]
+- Giannone, D., Reichlin, L. ve Small, D. (2008). Nowcasting: The Real-Time Informational Content of Macroeconomic Data. *Journal of Monetary Economics*, 55(4), 665–676. [D-arama]
 - Gibbs, I., Candès, E. (2021). Adaptive Conformal Inference Under Distribution Shift. Advances in Neural Information Processing Systems 34 (NeurIPS 2021). arXiv:2106.00170. https://arxiv.org/abs/2106.00170
 - Gibbs, I. ve Candès, E. (2021). Adaptive Conformal Inference Under Distribution Shift. *NeurIPS 2021*. https://arxiv.org/abs/2106.00170
 - Giglio, S., Kelly, B. ve Xiu, D. (2022). Factor Models, Machine Learning, and Asset Pricing. Annual Review of Financial Economics, 14, 337–368.
 - Glasserman, P., & Lin, C. (2023). Assessing Look-Ahead Bias in Stock Return Predictions Generated By GPT Sentiment Analysis. arXiv:2309.17322. https://arxiv.org/abs/2309.17322
 - Glasserman, P. ve Lin, C. (2023). Assessing Look-Ahead Bias in Stock Return Predictions Generated By GPT Sentiment Analysis. arXiv:2309.17322.
-- Glasserman, P. ve Mamaysky, H. (2019). Does Unusual News Forecast Market Stress? *Journal of Financial and Quantitative Analysis*, 54(5), 1937–1974. [DOĞRULANAMADI]
+- Glasserman, P. ve Mamaysky, H. (2019). Does Unusual News Forecast Market Stress? *Journal of Financial and Quantitative Analysis*, 54(5), 1937–1974. https://doi.org/10.1017/S0022109019000127 [D-arama]
 - Glosten, L. R., Jagannathan, R. ve Runkle, D. E. (1993). On the Relation between the Expected Value and the Volatility of the Nominal Excess Return on Stocks. *Journal of Finance*, 48(5), 1779–1801. https://doi.org/10.1111/j.1540-6261.1993.tb05128.x
 - Glosten, L. R. ve Milgrom, P. R. (1985). Bid, ask and transaction prices in a specialist market with heterogeneously informed traders. *Journal of Financial Economics*, 14(1), 71–100. https://doi.org/10.1016/0304-405X(85)90044-3
 - Gneiting, T. (2011). Making and Evaluating Point Forecasts. Journal of the American Statistical Association, 106(494), 746–762. https://doi.org/10.1198/jasa.2011.r10138
@@ -4436,10 +4431,10 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Gneiting, T., Raftery, A. E. (2007). Strictly Proper Scoring Rules, Prediction, and Estimation. Journal of the American Statistical Association, 102(477), 359–378.
 - Gneiting, T. ve Raftery, A. E. (2007). Strictly Proper Scoring Rules, Prediction, and Estimation. *Journal of the American Statistical Association*, 102(477), 359–378. https://doi.org/10.1198/016214506000001437
 - Goel, A., Pasricha, P., Magris, M., Kanniainen, J. (2025). TimesFM ile gerçekleşmiş oynaklık tahmini (başlık ikincil kaynaktan). arXiv:2505.11163. [DOĞRULANAMADI — yalnızca ikincil özet; başlık teyit edilemedi]
-- Golchin, S. ve Surdeanu, M. (2023). Time Travel in LLMs: Tracing Data Contamination in Large Language Models. arXiv:2308.08493; ICLR 2024. [DOĞRULANAMADI]
+- Golchin, S. ve Surdeanu, M. (2023). Time Travel in LLMs: Tracing Data Contamination in Large Language Models. arXiv:2308.08493; ICLR 2024. [D-arama]
 - Goldman Sachs. gs-quant. https://github.com/goldmansachs/gs-quant (erişim 2026-10-05; ~13 bin yıldız; son commit 2026-10-01; Apache-2.0; Marquee kurumsal kimlik bilgisi gerekir)
-- Gorodnichenko, Y., Pham, T. ve Talavera, O. (2023). The Voice of Monetary Policy. *American Economic Review*, 113(2), 548–584. [DOĞRULANAMADI]
-- Gort, B. J. D. vd. (2022). Deep Reinforcement Learning for Cryptocurrency Trading: Practical Approach to Address Backtest Overfitting. arXiv:2209.05559. https://arxiv.org/abs/2209.05559 [DOĞRULANAMADI — yalnızca arXiv kimliği arama sonuçlarında görüldü; yazar listesi ve yayın yeri doğrulanamadı]
+- Gorodnichenko, Y., Pham, T. ve Talavera, O. (2023). The Voice of Monetary Policy. *American Economic Review*, 113(2), 548–584. [D-arama]
+- Gort, B. J. D., Liu, X.-Y., Sun, X., Gao, J., Chen, S. ve Wang, C. D. (2022). Deep Reinforcement Learning for Cryptocurrency Trading: Practical Approach to Address Backtest Overfitting. arXiv:2209.05559. https://arxiv.org/abs/2209.05559 [D-arama; düzeltildi: yazar listesi eklendi]
 - Gorton, G. B., Hayashi, F. ve Rouwenhorst, K. G. (2013). The Fundamentals of Commodity Futures Returns. *Review of Finance*, 17(1), 35–105. NBER WP 13249: https://www.nber.org/papers/w13249
 - Goswami, M., Szafer, K., Choudhry, A., Cai, Y., Li, S., Dubrawski, A. (2024). MOMENT: A Family of Open Time-series Foundation Models. Proceedings of ICML 2024, PMLR 235. arXiv:2402.03885. [D-ik]
 - Goswami, M. vd. (2024). MOMENT: A Family of Open Time-Series Foundation Models. ICML 2024; arXiv:2402.03885. https://arxiv.org/abs/2402.03885 ; depo: https://github.com/moment-timeseries-foundation-model/moment
@@ -4459,43 +4454,43 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Gu, S., Kelly, B. ve Xiu, D. (2021). Autoencoder Asset Pricing Models. Journal of Econometrics, 222(1), 429–450. https://doi.org/10.1016/j.jeconom.2020.07.009
 - Gu, S., Kelly, B., Xiu, D. (2020). Empirical Asset Pricing via Machine Learning. Review of Financial Studies, 33(5), 2223–2273. https://doi.org/10.1093/rfs/hhaa009 (NBER w25398) [D]
 - Gu, S., Kelly, B., Xiu, D. (2021). Autoencoder asset pricing models. Journal of Econometrics, 222(1), 429–450. https://doi.org/10.1016/j.jeconom.2020.07.009 [D]
-- Guidolin, M. ve Timmermann, A. (2007). Asset Allocation under Multivariate Regime Switching. *Journal of Economic Dynamics and Control*, 31(11), 3503–3544. [DOĞRULANAMADI]
+- Guidolin, M. ve Timmermann, A. (2007). Asset Allocation under Multivariate Regime Switching. *Journal of Economic Dynamics and Control*, 31(11), 3503–3544. [D-arama]
 - Gunning, D. edgartools — SEC EDGAR Python kütüphanesi (XBRL, tam metin arama, 1994+). GitHub. https://github.com/dgunning/edgartools — Doğrulandı (GitHub).
 - Gunning, D. edgartools. https://github.com/dgunning/edgartools (erişim 2026-10-05; ~2,8 bin yıldız; MIT; PyPI 5.60.0, 2026-10-02); Chaar, J. sec-edgar-downloader. https://github.com/jadchaar/sec-edgar-downloader (~717 yıldız; MIT)
 - Guo, C., Pleiss, G., Sun, Y., Weinberger, K. Q. (2017). On Calibration of Modern Neural Networks. Proceedings of ICML 2017, PMLR 70, 1321–1330.
-- Gürkaynak, R. S., Sack, B. ve Swanson, E. T. (2005). Do Actions Speak Louder Than Words? The Response of Asset Prices to Monetary Policy Actions and Statements. *International Journal of Central Banking*, 1(1), 55–93. [DOĞRULANAMADI]
+- Gürkaynak, R. S., Sack, B. ve Swanson, E. T. (2005). Do Actions Speak Louder Than Words? The Response of Asset Prices to Monetary Policy Actions and Statements. *International Journal of Central Banking*, 1(1), 55–93. [D-arama]
 - Hamill, C., Rattray, S. ve van Hemert, O. (2016). Trend Following: Equity and Bond Crisis Alpha. Man AHL / Man Institute araştırma notu. https://www.man.com/insights/trend-following-equity-and-bond-crisis-alpha (hakemli değil)
 - Hamilton, J. D. (1989). A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle. *Econometrica*, 57(2), 357–384. https://doi.org/10.2307/1912559
-- Hamilton, J. D. (2011). Calling Recessions in Real Time. *International Journal of Forecasting*, 27(4), 1006–1026. [DOĞRULANAMADI]
-- Hansen, A. L., & Kazinnik, S. (2023). Can ChatGPT Decipher Fedspeak? SSRN çalışma kâğıdı. [DOĞRULANAMADI]
+- Hamilton, J. D. (2011). Calling Recessions in Real Time. *International Journal of Forecasting*, 27(4), 1006–1026. [D-arama]
+- Hansen, A. L., & Kazinnik, S. (2023). Can ChatGPT Decipher Fedspeak? SSRN çalışma kâğıdı, SSRN 4399406. [D-arama]
 - Hansen, A. L. ve Kazinnik, S. (2023). Can ChatGPT Decipher Fedspeak? Federal Reserve Bank of Richmond çalışma kâğıdı / SSRN (24 Mart 2023). https://www.frbsf.org/research-and-insights/publications/system-research-richmond-fed/can-chatgpt-decipher-fedspeak/
 - Hansen, L. P., Hodrick, R. J. (1980). Forward Exchange Rates as Optimal Predictors of Future Spot Rates: An Econometric Analysis. Journal of Political Economy, 88(5), 829–853.
 - Hansen, P. R. (2005). A Test for Superior Predictive Ability. *Journal of Business & Economic Statistics*, 23(4), 365–380. https://doi.org/10.1198/073500105000000063
 - Hansen, P. R., Lunde, A. (2005). A forecast comparison of volatility models: does anything beat a GARCH(1,1)? Journal of Applied Econometrics, 20(7), 873–889.
 - Hansen, P. R., Lunde, A. ve Nason, J. M. (2011). The Model Confidence Set. *Econometrica*, 79(2), 453–497. https://doi.org/10.3982/ECTA5771
 - Hansen, P. R. ve Lunde, A. (2005). A forecast comparison of volatility models: does anything beat a GARCH(1,1)? *Journal of Applied Econometrics*, 20(7), 873–889. https://doi.org/10.1002/jae.800
-- Hansen, S. ve McMahon, M. (2016). Shocking language: Understanding the macroeconomic effects of central bank communication. *Journal of International Economics*, 99(S1), S114–S133. [DOĞRULANAMADI]
+- Hansen, S. ve McMahon, M. (2016). Shocking language: Understanding the macroeconomic effects of central bank communication. *Journal of International Economics*, 99(S1), S114–S133. [D-arama]
 - Harvey, A. C. (1989). *Forecasting, Structural Time Series Models and the Kalman Filter*. Cambridge University Press.
-- Harvey, C. R. (2017). Presidential Address: The Scientific Outlook in Financial Economics. *Journal of Finance*, 72(4), 1399–1440. [DOĞRULANAMADI]
+- Harvey, C. R. (2017). Presidential Address: The Scientific Outlook in Financial Economics. *Journal of Finance*, 72(4), 1399–1440. [D-arama]
 - Harvey, C. R., Liu, Y. (2015). Backtesting. Journal of Portfolio Management, 42(1), 13–28. https://doi.org/10.3905/jpm.2015.42.1.013 [D-ik]
 - Harvey, C. R., Liu, Y. ve Zhu, H. (2016). … and the Cross-Section of Expected Returns. *Review of Financial Studies*, 29(1), 5–68. https://doi.org/10.1093/rfs/hhv059
 - Harvey, C. R., Liu, Y., Zhu, H. (2016). … and the Cross-Section of Expected Returns. Review of Financial Studies, 29(1), 5–68. https://doi.org/10.1093/rfs/hhv059 [D-ik]
-- Harvey, C. R. ve Liu, Y. (2015). Backtesting. *Journal of Portfolio Management*, 42(1), 13–28. [DOĞRULANAMADI]
+- Harvey, C. R. ve Liu, Y. (2015). Backtesting. *Journal of Portfolio Management*, 42(1), 13–28. [D-arama]
 - Harvey, C. R. ve Liu, Y. (2020). False (and Missed) Discoveries in Financial Economics. *Journal of Finance*, 75(5), 2503–2553. DOI 10.1111/jofi.12951. https://ideas.repec.org/a/bla/jfinan/v75y2020i5p2503-2553.html
 - Harvey, C. R. ve Liu, Y. (2021). Lucky factors. *Journal of Financial Economics*, 141(2), 413–435. https://doi.org/10.1016/j.jfineco.2021.04.014
 - He, H. vd. (Thinking Machines Lab) (2025). Defeating Nondeterminism in LLM Inference. Blog yazısı, thinkingmachines.ai. [Blog; birincil sayfaya erişilemedi — DOĞRULANAMADI]; eşlik eden depo: https://github.com/thinking-machines-lab/batch_invariant_ops (1000 örnekte 18 benzersiz çıktı bulgusu depodan doğrulandı)
-- He, S., Lv, L., Manela, A. ve Wu, J. (2025). Chronologically Consistent Large Language Models (ChronoBERT / ChronoGPT). arXiv:2502.21206. (arXiv kimliği web aramasında görüldü; başlık ve yazar listesi raporun 23. bölümüyle çapraz kontrol edildi; birincil kaynak okunamadı.) [DOĞRULANAMADI]
+- He, S., Lv, L., Manela, A. ve Wu, J. (2025). Chronologically Consistent Large Language Models (ChronoBERT / ChronoGPT). arXiv:2502.21206. [D-arama]
 - Henriksson, R. D., Merton, R. C. (1981). On Market Timing and Investment Performance. II. Statistical Procedures for Evaluating Forecasting Skills. Journal of Business, 54(4), 513–533.
 - HephaestLab (2026). TraderHarness: A Contamination-Resistant Environment for Autonomous Trading Agents (yazılım). https://github.com/HephaestLab/TraderHarness
 - Herzen, J. vd. (2022). Darts: User-Friendly Modern Machine Learning for Time Series. Journal of Machine Learning Research, 23(124). [DOĞRULANAMADI — README JMLR yayınına atıf yapar]; https://github.com/unit8co/darts (erişim 2026-10-05; ~9,5 bin yıldız; Apache-2.0)
-- Heston, S. L., & Sinha, N. R. (2017). News vs. Sentiment: Predicting Stock Returns from News Stories. Financial Analysts Journal, 73(3). [DOĞRULANAMADI]
+- Heston, S. L., & Sinha, N. R. (2017). News vs. Sentiment: Predicting Stock Returns from News Stories. Financial Analysts Journal, 73(3). [D-arama]
 - Heston, S. L. (1993). A Closed-Form Solution for Options with Stochastic Volatility with Applications to Bond and Currency Options. *Review of Financial Studies*, 6(2), 327–343. https://doi.org/10.1093/rfs/6.2.327
-- Heston, S. L. ve Sinha, N. R. (2017). News vs. Sentiment: Predicting Stock Returns from News Stories. *Financial Analysts Journal*, 73(3), 67–83. [DOĞRULANAMADI]
+- Heston, S. L. ve Sinha, N. R. (2017). News vs. Sentiment: Predicting Stock Returns from News Stories. *Financial Analysts Journal*, 73(3), 67–83. [D-arama]
 - Hewamalage, H., Ackermann, K., Bergmeir, C. (2023). Forecast evaluation for data scientists: common pitfalls and best practices. Data Mining and Knowledge Discovery. https://doi.org/10.1007/s10618-022-00894-5 [D-ik]
-- Higgins, P. (2014). GDPNow: A Model for GDP "Nowcasting". Federal Reserve Bank of Atlanta Working Paper 2014-7. [DOĞRULANAMADI]
+- Higgins, P. (2014). GDPNow: A Model for GDP "Nowcasting". Federal Reserve Bank of Atlanta Working Paper 2014-7. [D-arama]
 - HindsightBench (2026). A Black-Box Behavioral Audit Protocol for Parametric Hindsight in Time-Indexed LLM Decision Tasks. arXiv:2607.18867. https://arxiv.org/abs/2607.18867 (yalnızca başlık düzeyinde görüldü; yazarlar doğrulanamadı)
-- Hoberg, G. ve Phillips, G. (2016). Text-Based Network Industries and Endogenous Product Differentiation. *Journal of Political Economy*, 124(5), 1423–1465. [DOĞRULANAMADI]
-- Hoeting, J. A., Madigan, D., Raftery, A. E., Volinsky, C. T. (1999). Bayesian Model Averaging: A Tutorial. Statistical Science, 14(4), 382–417. [DOĞRULANAMADI]
+- Hoberg, G. ve Phillips, G. (2016). Text-Based Network Industries and Endogenous Product Differentiation. *Journal of Political Economy*, 124(5), 1423–1465. https://doi.org/10.1086/688176 [D-arama]
+- Hoeting, J. A., Madigan, D., Raftery, A. E., Volinsky, C. T. (1999). Bayesian Model Averaging: A Tutorial. Statistical Science, 14(4), 382–417. [D-arama]
 - Hollmann, N., vd. (2025). Accurate predictions on small data with a tabular foundation model (TabPFN). Nature, 637, 319–326. [D-ik; DOI teyit edilemedi]
 - Hooker, G., Mentch, L., Zhou, S. (2021). Unrestricted permutation forces extrapolation: variable importance requires at least one more model, or there is no free variable importance. Statistics and Computing, 31, 82.
 - Hou, K., Xue, C. ve Zhang, L. (2015). Digesting Anomalies: An Investment Approach. *Review of Financial Studies*, 28(3), 650–705. https://doi.org/10.1093/rfs/hhu068
@@ -4504,7 +4499,7 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Hu, Y., Li, Y., Liu, P., vd. (2025). FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting. arXiv:2502.18834. https://github.com/TongjiFinLab/FinTSB [D — resmi depo README'si okundu]
 - Hu, Z., Liu, W., Bian, J., Liu, X., & Liu, T.-Y. (2018). Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction. Proceedings of WSDM 2018, 261–269. DOI 10.1145/3159652.3159690
 - Huang, A. H., Wang, H. ve Yang, Y. (2023). FinBERT: A Large Language Model for Extracting Information from Financial Text. *Contemporary Accounting Research*, 40(2), 806–841. https://acct.hkust.edu.hk/about-department/news-highlights/congratulations-prof-allen-huang-paper-contemporary-accounting (sayfa aralığı [DOĞRULANAMADI])
-- Huang, A. H., Zang, A. Y. ve Zheng, R. (2014). Evidence on the Information Content of Text in Analyst Reports. *The Accounting Review*, 89(6), 2151–2180. [DOĞRULANAMADI]
+- Huang, A. H., Zang, A. Y. ve Zheng, R. (2014). Evidence on the Information Content of Text in Analyst Reports. *The Accounting Review*, 89(6), 2151–2180. [D-arama]
 - Huang, W., Nakamori, Y. ve Wang, S.-Y. (2005). Forecasting Stock Market Movement Direction with Support Vector Machine. Computers & Operations Research, 32(10), 2513–2522.
 - Hudson & Thames. mlfinlab. https://github.com/hudson-and-thames/mlfinlab (erişim 2026-10-05; ~4,9 bin yıldız; son commit 2021-12-01; LICENSE.txt "Copyright Protection Notice and Licensing Agreement, LAST UPDATED November 2021"; PyPI'da yok)
 - Hüllermeier, E., Waegeman, W. (2021). Aleatoric and epistemic uncertainty in machine learning: an introduction to concepts and methods. Machine Learning, 110, 457–506. https://doi.org/10.1007/s10994-021-05946-3
@@ -4515,22 +4510,22 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Islam, P., Kannappan, A., Kiela, D., Qian, R., Scherrer, N., & Vidgen, B. (2023). FinanceBench: A New Benchmark for Financial Question Answering. arXiv:2311.11944. Kod/veri: https://github.com/patronus-ai/financebench
 - iterative. DVC. https://github.com/iterative/dvc (~15,9 bin yıldız; Apache-2.0); treeverse. lakeFS. https://github.com/treeverse/lakeFS (~5,6 bin yıldız; BUSL-1.1); delta-io. Delta Lake. https://github.com/delta-io/delta (~9,0 bin yıldız; Apache-2.0); apache. Iceberg. https://github.com/apache/iceberg (~9,3 bin yıldız; Apache-2.0) (erişim 2026-10-05)
 - Jacobs, H. ve Müller, S. (2020). Anomalies across the globe: Once public, no longer existent? *Journal of Financial Economics*, 135(1), 213–230. DOI 10.1016/j.jfineco.2019.06.004.
-- Jacobs, R. A., Jordan, M. I., Nowlan, S. J. ve Hinton, G. E. (1991). Adaptive Mixtures of Local Experts. *Neural Computation*, 3(1), 79–87. [DOĞRULANAMADI]
+- Jacobs, R. A., Jordan, M. I., Nowlan, S. J. ve Hinton, G. E. (1991). Adaptive Mixtures of Local Experts. *Neural Computation*, 3(1), 79–87. https://doi.org/10.1162/neco.1991.3.1.79 [D-arama]
 - Jacovi, A., Goldberg, Y. (2020). Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness? Proceedings of ACL 2020. https://aclanthology.org/2020.acl-main.386
 - Jacovi, A. ve Goldberg, Y. (2020). Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness? *ACL 2020*. https://doi.org/10.18653/v1/2020.acl-main.386
 - Jain, S. ve Wallace, B. C. (2019). Attention is not Explanation. *NAACL 2019*. https://doi.org/10.18653/v1/N19-1357
 - Jain, S., Wallace, B. C. (2019). Attention is not Explanation. Proceedings of NAACL-HLT 2019, 3543–3556. arXiv:1902.10186.
 - Jansen, S. zipline-reloaded. https://github.com/stefan-jansen/zipline-reloaded (erişim 2026-10-05; ~2,0 bin yıldız; son commit 2025-11-13; Apache-2.0); pyfolio-reloaded ve alphalens-reloaded (PyPI 2025-06-02)
-- Jegadeesh, N., Kim, J., Krische, S. D. ve Lee, C. M. C. (2004). Analyzing the Analysts: When Do Recommendations Add Value? *Journal of Finance*, 59(3), 1083–1124. [DOĞRULANAMADI]
+- Jegadeesh, N., Kim, J., Krische, S. D. ve Lee, C. M. C. (2004). Analyzing the Analysts: When Do Recommendations Add Value? *Journal of Finance*, 59(3), 1083–1124. [D-arama]
 - Jegadeesh, N. ve Titman, S. (1993). Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency. *Journal of Finance*, 48(1), 65–91. https://doi.org/10.1111/j.1540-6261.1993.tb04702.x
 - Jensen, T. I., Kelly, B., Malamud, S., Pedersen, L. H. (yakında). Machine Learning and the Implementable Efficient Frontier. Review of Financial Studies (kabul edilmiş; ikincil kaynağa göre). SSRN 4187217. [D-ik; dergi bilgisi ikincil]
 - Jensen, T. I., Kelly, B., Malamud, S. ve Pedersen, L. H. (2026). Machine Learning and the Implementable Efficient Frontier. *Review of Financial Studies* (basımda); SSRN 4187217; Swiss Finance Institute Research Paper 22-63. https://papers.ssrn.com/abstract=4187217
 - Jensen, T. I., Kelly, B., Pedersen, L. H. (2023). Is There a Replication Crisis in Finance? Journal of Finance, 78(5), 2465–2518. https://doi.org/10.1111/jofi.13249 ; https://github.com/bkelly-lab/ReplicationCrisis [D-ik]
 - Jensen, T. I., Kelly, B. T. ve Pedersen, L. H. (2023). Is There a Replication Crisis in Finance? *Journal of Finance*, 78(5), 2465–2518. DOI: 10.1111/jofi.13249. NBER WP 28432: https://www.nber.org/papers/w28432 ; veri: JKP Global Factor Data.
 - Jensen, T. I., Kelly, B. ve Pedersen, L. H. (2023). Is There a Replication Crisis in Finance? *Journal of Finance*, 78(5), 2465–2518. https://doi.org/10.1111/jofi.13249
-- Jha, M., Qian, J., Weber, M., & Yang, B. (2024). ChatGPT and Corporate Policies. NBER Working Paper. [DOĞRULANAMADI]
+- Jha, M., Qian, J., Weber, M., & Yang, B. (2024). ChatGPT and Corporate Policies. NBER Working Paper 32161. [D-arama]
 - Jiang, J., Kelly, B. T. ve Xiu, D. (2023). (Re-)Imag(in)ing Price Trends. Journal of Finance, 78(6), 3193–3249.
-- Jiang, W. (2021). Applications of deep learning in stock market prediction: recent progress. Expert Systems with Applications, 184, 115537. [DOĞRULANAMADI]
+- Jiang, W. (2021). Applications of deep learning in stock market prediction: recent progress. Expert Systems with Applications, 184, 115537. arXiv:2003.01859. [D-arama]
 - Jiang, Z., Xu, D. ve Liang, J. (2017). A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem. arXiv:1706.10059. https://arxiv.org/abs/1706.10059 ; depo: https://github.com/ZhengyaoJiang/PGPortfolio
 - Jin, M. vd. (2024). Time-LLM: Time Series Forecasting by Reprogramming Large Language Models. ICLR 2024; arXiv:2310.01728. https://arxiv.org/abs/2310.01728 ; depo: https://github.com/KimMeen/Time-LLM
 - Johansen, S. (1991). Estimation and Hypothesis Testing of Cointegration Vectors in Gaussian Vector Autoregressive Models. *Econometrica*, 59(6), 1551–1580. https://doi.org/10.2307/2938278
@@ -4540,12 +4535,12 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Kahneman, D. ve Tversky, A. (1979). Prospect Theory: An Analysis of Decision under Risk. *Econometrica*, 47(2), 263–291. https://doi.org/10.2307/1914185
 - Kamuyu Aydınlatma Platformu (KAP). https://www.kap.org.tr/ — [DOĞRULANAMADI] (doğrudan erişilemedi).
 - Kang, W., Rouwenhorst, K. G. ve Tang, K. (2020). A Tale of Two Premiums: The Role of Hedgers and Speculators in Commodity Futures Markets. *Journal of Finance*, 75(1), 377–417. https://ideas.repec.org/a/bla/jfinan/v75y2020i1p377-417.html
-- Kapoor, S., Stroebl, B., Siegel, Z. S., Nadgir, N. ve Narayanan, A. (2024). AI Agents That Matter. arXiv:2407.01502. [arXiv kimliği DOĞRULANAMADI]; depo: https://github.com/benediktstroebl/agent-eval
+- Kapoor, S., Stroebl, B., Siegel, Z. S., Nadgir, N. ve Narayanan, A. (2024). AI Agents That Matter. arXiv:2407.01502 (TMLR 2025); depo: https://github.com/benediktstroebl/agent-eval [D-arama]
 - Kapoor, S. ve Narayanan, A. (2023). Leakage and the reproducibility crisis in machine-learning-based science. *Patterns*, 4(9), 100804. arXiv:2207.07048. https://reproducible.cs.princeton.edu/
-- Kaufman, S., Rosset, S., Perlich, C. ve Stitelman, O. (2012). Leakage in data mining: Formulation, detection, and avoidance. *ACM Transactions on Knowledge Discovery from Data*, 6(4), Art. 15. [DOĞRULANAMADI]
+- Kaufman, S., Rosset, S., Perlich, C. ve Stitelman, O. (2012). Leakage in data mining: Formulation, detection, and avoidance. *ACM Transactions on Knowledge Discovery from Data*, 6(4), Art. 15. https://doi.org/10.1145/2382577.2382579 [D-arama]
 - Ke, Z. T., Kelly, B. T., & Xiu, D. (2019). Predicting Returns with Text Data. NBER Working Paper 26186. https://www.nber.org/papers/w26186
-- Ke, Z. T., Kelly, B. T. ve Xiu, D. (2019). Predicting Returns with Text Data. NBER Working Paper 26186. [DOĞRULANAMADI]
-- Kelly, B., Malamud, S. ve Zhou, K. (2024). The Virtue of Complexity in Return Prediction. *Journal of Finance*, 79(1), 459–508. [DOĞRULANAMADI]
+- Ke, Z. T., Kelly, B. T. ve Xiu, D. (2019). Predicting Returns with Text Data. NBER Working Paper 26186. [D-arama]
+- Kelly, B., Malamud, S. ve Zhou, K. (2024). The Virtue of Complexity in Return Prediction. *Journal of Finance*, 79(1), 459–503. [D-arama; düzeltildi: sayfa 459–508 → 459–503]
 - Kelly, B. T., Malamud, S. ve Zhou, K. (2024). The Virtue of Complexity in Return Prediction. *Journal of Finance*, 79(1), 459–503. https://doi.org/10.1111/jofi.13298
 - Kelly, B. T., Malamud, S., Zhou, K. (2024). The Virtue of Complexity in Return Prediction. Journal of Finance, 79(1), 459–503. https://doi.org/10.1111/jofi.13298 [D]
 - Kelly, B. T., Pruitt, S., Su, Y. (2019). Characteristics are covariances: A unified model of risk and return. Journal of Financial Economics, 134(3), 501–524. https://doi.org/10.1016/j.jfineco.2019.05.001 ; https://github.com/bkelly-lab/ipca [D]
@@ -4555,41 +4550,41 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Kendall, A., Gal, Y. (2017). What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? Advances in Neural Information Processing Systems 30 (NeurIPS 2017), 5574–5584.
 - Kensho Technologies. kfinance (Python client for the Kensho LLM-ready API). GitHub. https://github.com/kensho-technologies/kfinance — Doğrulandı (GitHub).
 - Kensho Technologies. Ürün haberleri (Scribe, NERD, Extract). https://kensho.com/news/category/Product — Doğrulandı (arama özeti).
-- Khandani, A. E. ve Lo, A. W. (2011). What happened to the quants in August 2007? Evidence from factors and transactions data. *Journal of Financial Markets*, 14(1), 1–46. [DOĞRULANAMADI]
-- Kilian, L. (2009). Not All Oil Price Shocks Are Alike: Disentangling Demand and Supply Shocks in the Crude Oil Market. *American Economic Review*, 99(3), 1053–1069. [DOĞRULANAMADI]
-- Killick, R., Fearnhead, P. ve Eckley, I. A. (2012). Optimal Detection of Changepoints with a Linear Computational Cost. *Journal of the American Statistical Association*, 107(500), 1590–1598. [DOĞRULANAMADI]
+- Khandani, A. E. ve Lo, A. W. (2011). What happened to the quants in August 2007? Evidence from factors and transactions data. *Journal of Financial Markets*, 14(1), 1–46. [D-arama]
+- Kilian, L. (2009). Not All Oil Price Shocks Are Alike: Disentangling Demand and Supply Shocks in the Crude Oil Market. *American Economic Review*, 99(3), 1053–1069. [D-arama]
+- Killick, R., Fearnhead, P. ve Eckley, I. A. (2012). Optimal Detection of Changepoints with a Linear Computational Cost. *Journal of the American Statistical Association*, 107(500), 1590–1598. arXiv:1101.1438. [D-arama]
 - Kim, A. G., Muhn, M., & Nikolaev, V. V. (2024). Financial Statement Analysis with Large Language Models. arXiv:2407.17866; Chicago Booth / BFI Working Paper 2024-65. Not: arXiv kaydına göre bir ortak yazar replikasyon sırasında veri/analiz tutarsızlıkları tespit etmiş ve çalışma kâğıdı inceleme süresince geçici olarak geri çekilmiştir.
-- Kim, A. G., Muhn, M. ve Nikolaev, V. V. (2023). Bloated Disclosures: Can ChatGPT Help Investors Process Information? arXiv:2306.10224. [DOĞRULANAMADI]
+- Kim, A. G., Muhn, M. ve Nikolaev, V. V. (2023). Bloated Disclosures: Can ChatGPT Help Investors Process Information? arXiv:2306.10224. [D-arama]
 - Kim, A. G., Muhn, M. ve Nikolaev, V. V. (2024). Financial Statement Analysis with Large Language Models. arXiv:2407.17866; Chicago Booth / BFI Working Paper 2024-65. (Web arama özetinde geçici geri çekilme notu görülmüştür; güncel durum birincil kaynaktan doğrulanamadı.)
-- Kim, A., Muhn, M. ve Nikolaev, V. (2024). Financial Statement Analysis with Large Language Models. SSRN 4835311 / Chicago Booth çalışma kâğıdı. [DOĞRULANAMADI]
+- Kim, A., Muhn, M. ve Nikolaev, V. (2024). Financial Statement Analysis with Large Language Models. SSRN 4835311 / Chicago Booth çalışma kâğıdı. arXiv:2407.17866. [D-arama]
 - Kim, B., Wattenberg, M., Gilmer, J., Cai, C., Wexler, J., Viegas, F., Sayres, R. (2018). Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV). Proceedings of ICML 2018, PMLR 80, 2668–2677. arXiv:1711.11279.
 - Kim, K.-J. (2003). Financial Time Series Forecasting Using Support Vector Machines. Neurocomputing, 55(1–2), 307–319.
 - Knight Capital (2012), Zillow Offers (2021), Voleon, Numerai model çürümesi, Kaggle Jane Street shake-up — bu oturumda birincil kaynak erişilemedi. [DOĞRULANAMADI]
 - Koenker, R., Bassett, G. (1978). Regression Quantiles. Econometrica, 46(1), 33–50.
-- Koijen, R. S. J., Moskowitz, T. J., Pedersen, L. H. ve Vrugt, E. B. (2018). Carry. *Journal of Financial Economics*, 127(2), 197–225. [DOĞRULANAMADI]
+- Koijen, R. S. J., Moskowitz, T. J., Pedersen, L. H. ve Vrugt, E. B. (2018). Carry. *Journal of Financial Economics*, 127(2), 197–225. [D-arama]
 - Kolm, P. N., Turiel, J. ve Westray, N. (2023). Deep Order Flow Imbalance: Extracting Alpha at Multiple Horizons from the Limit Order Book. Mathematical Finance, 33(4), 1044–1081.
 - Kothari, S. P. ve Warner, J. B. (2007). Econometrics of Event Studies. B. E. Eckbo (Ed.), *Handbook of Empirical Corporate Finance*, Cilt 1, 3–36. Elsevier/North-Holland.
 - Kozak, S., Nagel, S. ve Santosh, S. (2020). Shrinking the cross-section. *Journal of Financial Economics*, 135(2), 271–292. https://doi.org/10.1016/j.jfineco.2019.06.008
 - Krauss, C., Do, X. A., Huck, N. (2017). Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500. European Journal of Operational Research, 259(2), 689–702. https://doi.org/10.1016/j.ejor.2016.10.031 [D]
 - Krauss, C., Do, X. A. ve Huck, N. (2017). Deep Neural Networks, Gradient-Boosted Trees, Random Forests: Statistical Arbitrage on the S&P 500. European Journal of Operational Research, 259(2), 689–702.
 - Krishna, S., Han, T., Gu, A., Pombra, J., Jabbari, S., Wu, S., Lakkaraju, H. (2022). The Disagreement Problem in Explainable Machine Learning: A Practitioner's Perspective. arXiv:2202.01602. https://arxiv.org/abs/2202.01602
-- Krogh, A. ve Vedelsby, J. (1995). Neural Network Ensembles, Cross Validation, and Active Learning. *Advances in Neural Information Processing Systems* 7, 231–238. [DOĞRULANAMADI]
+- Krogh, A. ve Vedelsby, J. (1995). Neural Network Ensembles, Cross Validation, and Active Learning. *Advances in Neural Information Processing Systems* 7, 231–238. [D-arama]
 - Kumar, I. E., Venkatasubramanian, S., Scheidegger, C., Friedler, S. (2020). Problems with Shapley-value-based explanations as feature importance measures. Proceedings of ICML 2020. arXiv:2002.11097. https://arxiv.org/abs/2002.11097
-- Kumbure, M. M., Lohrmann, C., Luukka, P., & Porras, J. (2022). Machine learning techniques and data for stock market forecasting: A literature review. Expert Systems with Applications, 197, 116659. [DOĞRULANAMADI]
-- Kuncheva, L. I. ve Whitaker, C. J. (2003). Measures of Diversity in Classifier Ensembles and Their Relationship with the Ensemble Accuracy. *Machine Learning*, 51(2), 181–207. [DOĞRULANAMADI]
+- Kumbure, M. M., Lohrmann, C., Luukka, P., & Porras, J. (2022). Machine learning techniques and data for stock market forecasting: A literature review. Expert Systems with Applications, 197, 116659. [D-arama]
+- Kuncheva, L. I. ve Whitaker, C. J. (2003). Measures of Diversity in Classifier Ensembles and Their Relationship with the Ensemble Accuracy. *Machine Learning*, 51(2), 181–207. https://doi.org/10.1023/A:1022859003006 [D-arama]
 - Kupiec, P. H. (1995). Techniques for Verifying the Accuracy of Risk Measurement Models. Journal of Derivatives, 3(2), 73–84.
-- Kuttner, K. N. (2001). Monetary policy surprises and interest rates: Evidence from the Fed funds futures market. *Journal of Monetary Economics*, 47(3), 523–544. [DOĞRULANAMADI]
+- Kuttner, K. N. (2001). Monetary policy surprises and interest rates: Evidence from the Fed funds futures market. *Journal of Monetary Economics*, 47(3), 523–544. [D-arama]
 - Kyle, A. S. (1985). Continuous Auctions and Insider Trading. *Econometrica*, 53(6), 1315–1335. https://doi.org/10.2307/1913210
 - Lachanski, M., & Pav, S. (2017). Shy of the Character Limit: "Twitter Mood Predicts the Stock Market" Revisited. Econ Journal Watch, 14(3), 302–345. https://econjwatch.org/articles/shy-of-the-character-limit-twitter-mood-predicts-the-stock-market-revisited
-- Lachanski, M. ve Pav, S. (2017). Shy of the Character Limit: "Twitter Mood Predicts the Stock Market" Revisited. *Econ Journal Watch*, 14(3), 302–345. [DOĞRULANAMADI]
-- Lakonishok, J. ve Lee, I. (2001). Are Insider Trades Informative? *Review of Financial Studies*, 14(1), 79–111. [DOĞRULANAMADI]
+- Lachanski, M. ve Pav, S. (2017). Shy of the Character Limit: "Twitter Mood Predicts the Stock Market" Revisited. *Econ Journal Watch*, 14(3), 302–345. [D-arama]
+- Lakonishok, J. ve Lee, I. (2001). Are Insider Trades Informative? *Review of Financial Studies*, 14(1), 79–111. [D-arama]
 - Lakshminarayanan, B., Pritzel, A., Blundell, C. (2017). Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles. Advances in Neural Information Processing Systems 30 (NeurIPS 2017). arXiv:1612.01474.
 - Lakshminarayanan, B., Pritzel, A. ve Blundell, C. (2017). Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles. *NeurIPS 2017*. https://arxiv.org/abs/1612.01474
-- Larcker, D. F. ve Zakolyukina, A. A. (2012). Detecting Deceptive Discussions in Conference Calls. *Journal of Accounting Research*, 50(2), 495–540. [DOĞRULANAMADI]
+- Larcker, D. F. ve Zakolyukina, A. A. (2012). Detecting Deceptive Discussions in Conference Calls. *Journal of Accounting Research*, 50(2), 495–540. https://doi.org/10.1111/j.1475-679X.2012.00450.x [D-arama]
 - Lee, J., Stevens, N., Han, S. C., & Song, M. (2024/2025). A Survey of Large Language Models in Finance (FinLLMs). Neural Computing and Applications (2025). arXiv:2402.02315; DOI 10.1007/s00521-024-10495-6. Kaynak listesi: https://github.com/adlnlp/FinLLMs
 - Leippold, M., Wang, Q., Zhou, W. (2022). Machine learning in the Chinese stock market. Journal of Financial Economics, 145(2, Part A), 64–82. https://doi.org/10.1016/j.jfineco.2021.08.017 [D]
 - Leitch, G., Tanner, J. E. (1991). Economic Forecast Evaluation: Profits versus the Conventional Error Measures. American Economic Review, 81(3), 580–590.
-- Lettau, M. ve Van Nieuwerburgh, S. (2008). Reconciling the Return Predictability Evidence. *Review of Financial Studies*, 21(4), 1607–1652. [DOĞRULANAMADI]
+- Lettau, M. ve Van Nieuwerburgh, S. (2008). Reconciling the Return Predictability Evidence. *Review of Financial Studies*, 21(4), 1607–1652. [D-arama]
 - Levy, B. (2024). Caution Ahead: Numerical Reasoning and Look-ahead Bias in AI Models. Chicago Booth, Fama-Miller Center çalışma kâğıdı (Aralık 2024). https://www.chicagobooth.edu/research/fama-miller/finance-research/working-papers/2025/caution-ahead
 - Li, H. vd. (2024). INVESTORBENCH: A Benchmark for Financial Decision-Making Tasks with LLM-based Agent. arXiv:2412.18174. [DOĞRULANAMADI]
 - Li, H. vd. (2024/2025). INVESTORBENCH: A Benchmark for Financial Decision-Making Tasks with LLM-based Agent. ACL 2025 (raporlanan). [DOĞRULANAMADI]
@@ -4600,7 +4595,7 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Lilley, A., Maggiori, M., Neiman, B. ve Schreger, J. (2022). Exchange Rate Reconnect. *Review of Economics and Statistics*, 104(4), 845–855. https://ideas.repec.org/a/tpr/restat/v104y2022i4p845-855.html
 - Lim, B., Arik, S. Ö., Loeff, N. ve Pfister, T. (2021). Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting. International Journal of Forecasting, 37(4), 1748–1764. arXiv:1912.09363. https://arxiv.org/abs/1912.09363
 - Lim, B., Arık, S. Ö., Loeff, N., Pfister, T. (2021). Temporal Fusion Transformers for interpretable multi-horizon time series forecasting. International Journal of Forecasting, 37(4), 1748–1764. https://doi.org/10.1016/j.ijforecast.2021.03.012 [D]
-- Lim, B., Arık, S. Ö., Loeff, N. ve Pfister, T. (2021). Temporal Fusion Transformers for Interpretable Multi-Horizon Time Series Forecasting. *International Journal of Forecasting*, 37(4), 1748–1764. [DOĞRULANAMADI]
+- Lim, B., Arık, S. Ö., Loeff, N. ve Pfister, T. (2021). Temporal Fusion Transformers for Interpretable Multi-Horizon Time Series Forecasting. *International Journal of Forecasting*, 37(4), 1748–1764. [D-arama]
 - LinqAlpha (2025). FinAgentBench: A Benchmark Dataset for Agentic Retrieval in Financial Question Answering. arXiv (raporlanan). [DOĞRULANAMADI]
 - Lintner, J. (1965). Security Prices, Risk, and Maximal Gains from Diversification. *Journal of Finance*, 20(4), 587–615. https://doi.org/10.1111/j.1540-6261.1965.tb02930.x
 - Liu, X.-Y. vd. (2020). FinRL: A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance. NeurIPS 2020 Deep RL Workshop; arXiv:2011.09607. https://arxiv.org/abs/2011.09607 ; depo: https://github.com/AI4Finance-Foundation/FinRL
@@ -4612,7 +4607,7 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Liu, Y. vd. (2025). Sundial: A Family of Highly Capable Time Series Foundation Models. ICML 2025 (Oral); arXiv:2502.00816. https://arxiv.org/abs/2502.00816 ; depo: https://github.com/thuml/Sundial
 - Liu, Z. vd. (2025). Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning. arXiv:2503.16252. (Yazar listesi tam doğrulanamadı.)
 - Ljungqvist, A., Malloy, C., Marston, F. (2009). Rewriting History. Journal of Finance, 64(4), 1935–1960. — [DOĞRULANAMADI].
-- Lo, A. W. (2002). The Statistics of Sharpe Ratios. *Financial Analysts Journal*, 58(4), 36–52. [DOĞRULANAMADI]
+- Lo, A. W. (2002). The Statistics of Sharpe Ratios. *Financial Analysts Journal*, 58(4), 36–52. [D-arama]
 - Lo, A. W. (2004). The Adaptive Markets Hypothesis: Market Efficiency from an Evolutionary Perspective. *Journal of Portfolio Management*, 30(5), 15–29. https://doi.org/10.3905/jpm.2004.442611
 - Lo, A. W. (2017). *Adaptive Markets: Financial Evolution at the Speed of Thought*. Princeton University Press.
 - Lo, A. W. ve MacKinlay, A. C. (1988). Stock Market Prices Do Not Follow Random Walks: Evidence from a Simple Specification Test. *Review of Financial Studies*, 1(1), 41–66. https://doi.org/10.1093/rfs/1.1.41
@@ -4626,24 +4621,24 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - López de Prado, M. (2018). *Advances in Financial Machine Learning*. Wiley. (Bölüm 7: Cross-Validation in Finance; Bölüm 12: Backtesting through Cross-Validation; Bölüm 14: Backtest Statistics.)
 - López de Prado, M. (2018). *Advances in Financial Machine Learning*. Wiley. [DOĞRULANAMADI]
 - López de Prado, M. (2018). Advances in Financial Machine Learning. Wiley. ISBN 9781119482086. [D-ik]
-- López de Prado, M. (2019). Tactical Investment Algorithms. SSRN 3459866. [DOĞRULANAMADI]
+- López de Prado, M. (2019). Tactical Investment Algorithms. SSRN 3459866. [D-arama]
 - López de Prado, M. (2020). Machine Learning for Asset Managers. Cambridge University Press. [DOĞRULANAMADI]
 - Lopez-Lira, A., & Tang, Y. (2023; v6 2024). Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models. arXiv:2304.07619. https://arxiv.org/abs/2304.07619
 - Lopez-Lira, A., Tang, Y. (2023). Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models. arXiv:2304.07619. https://arxiv.org/abs/2304.07619
 - Lopez-Lira, A. ve Tang, Y. (2023). Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models. arXiv:2304.07619.
 - Loughran, T., & McDonald, B. (2011). When Is a Liability Not a Liability? Textual Analysis, Dictionaries, and 10-Ks. Journal of Finance, 66(1), 35–65. DOI 10.1111/j.1540-6261.2010.01625.x
-- Loughran, T. ve McDonald, B. (2011). When Is a Liability Not a Liability? Textual Analysis, Dictionaries, and 10-Ks. *Journal of Finance*, 66(1), 35–65. [DOĞRULANAMADI]
-- Loughran, T. ve McDonald, B. (2016). Textual Analysis in Accounting and Finance: A Survey. *Journal of Accounting Research*, 54(4), 1187–1230. [DOĞRULANAMADI]
-- Loukas, L., Fergadiotis, M., Chalkidis, I., Spyropoulou, E., Malakasiotis, P., Androutsopoulos, I. ve Paliouras, G. (2022). FiNER: Financial Numeric Entity Recognition for XBRL Tagging. *Proceedings of ACL 2022*. [DOĞRULANAMADI]
+- Loughran, T. ve McDonald, B. (2011). When Is a Liability Not a Liability? Textual Analysis, Dictionaries, and 10-Ks. *Journal of Finance*, 66(1), 35–65. [D-arama]
+- Loughran, T. ve McDonald, B. (2016). Textual Analysis in Accounting and Finance: A Survey. *Journal of Accounting Research*, 54(4), 1187–1230. https://doi.org/10.1111/1475-679X.12123 [D-arama]
+- Loukas, L., Fergadiotis, M., Chalkidis, I., Spyropoulou, E., Malakasiotis, P., Androutsopoulos, I. ve Paliouras, G. (2022). FiNER: Financial Numeric Entity Recognition for XBRL Tagging. *Proceedings of ACL 2022*. https://aclanthology.org/2022.acl-long.303 [D-arama]
 - LSEG (2025). From interoperability to agents: powering financial workflows with AI. LSEG Insights. https://www.lseg.com/en/insights/from-interoperability-to-agents-powering-financial-workflows-with-ai — Doğrulandı (arama özeti).
 - LSEG. MarketPsych Analytics — ürün sayfası ve broşür. https://www.lseg.com/en/data-analytics/financial-data/analytics/marketpsych-analytics ; https://www.lseg.com/content/dam/data-analytics/en_us/documents/brochures/lseg-marketpsych-analytics-brochure.pdf — Doğrulandı (arama özeti).
 - LSEG. StarMine MarketPsych Media Sentiment Model. Veri kataloğu. https://www.lseg.com/en/data-catalogue/analytics/quantitative-analytics/starmine-marketpsych-media-sentiment-model — Doğrulandı (arama özeti).
 - Lucchese, L., Pakkanen, M. S. ve Veraart, A. E. D. (2024). The Short-Term Predictability of Returns in Order Book Markets: A Deep Learning Perspective. International Journal of Forecasting, 40(4).
-- Ludvigson, S. C. ve Ng, S. (2009). Macro Factors in Bond Risk Premia. *Review of Financial Studies*, 22(12), 5027–5067. [DOĞRULANAMADI]
+- Ludvigson, S. C. ve Ng, S. (2009). Macro Factors in Bond Risk Premia. *Review of Financial Studies*, 22(12), 5027–5067. [D-arama]
 - Lundberg, S. M., Erion, G., Chen, H., DeGrave, A., Prutkin, J. M., Nair, B., Katz, R., Himmelfarb, J., Bansal, N., Lee, S.-I. (2020). From local explanations to global understanding with explainable AI for trees. Nature Machine Intelligence, 2(1), 56–67. https://doi.org/10.1038/s42256-019-0138-9
 - Lundberg, S. M., Lee, S.-I. (2017). A Unified Approach to Interpreting Model Predictions. Advances in Neural Information Processing Systems 30 (NeurIPS 2017). https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions
 - Lundberg, S. M. vd. (2020). From local explanations to global understanding with explainable AI for trees. *Nature Machine Intelligence*, 2, 56–67. https://doi.org/10.1038/s42256-019-0138-9
-- Lustig, H., Roussanov, N. ve Verdelhan, A. (2011). Common Risk Factors in Currency Markets. *Review of Financial Studies*, 24(11), 3731–3777. [DOĞRULANAMADI]
+- Lustig, H., Roussanov, N. ve Verdelhan, A. (2011). Common Risk Factors in Currency Markets. *Review of Financial Studies*, 24(11), 3731–3777. [D-arama]
 - MacKinlay, A. C. (1997). Event Studies in Economics and Finance. *Journal of Economic Literature*, 35(1), 13–39. (JSTOR; DOI doğrulanamadı.)
 - Makridakis, S., Spiliotis, E., Assimakopoulos, V. (2018). Statistical and Machine Learning forecasting methods: Concerns and ways forward. PLoS ONE, 13(3), e0194889. https://doi.org/10.1371/journal.pone.0194889 [D-ik]
 - Makridakis, S., Spiliotis, E., Assimakopoulos, V. (2020). The M4 Competition: 100,000 time series and 61 forecasting methods. International Journal of Forecasting, 36(1), 54–74. https://doi.org/10.1016/j.ijforecast.2019.04.014 [D-ik]
@@ -4653,23 +4648,23 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Makridakis, S., Spiliotis, E. ve Assimakopoulos, V. (2022). M5 accuracy competition: Results, findings, and conclusions. *International Journal of Forecasting*, 38(4), 1346–1364. https://doi.org/10.1016/j.ijforecast.2021.11.013
 - Malkiel, B. G. (1973). *A Random Walk Down Wall Street*. W. W. Norton. [DOĞRULANAMADI]
 - Malo, P., Sinha, A., Korhonen, P., Wallenius, J., & Takala, P. (2014). Good debt or bad debt: Detecting semantic orientations in economic texts. Journal of the Association for Information Science and Technology, 65(4), 782–796. (Financial PhraseBank)
-- Malo, P., Sinha, A., Korhonen, P., Wallenius, J. ve Takala, P. (2014). Good debt or bad debt: Detecting semantic orientations in economic texts. *Journal of the Association for Information Science and Technology*, 65(4), 782–796. [DOĞRULANAMADI]
+- Malo, P., Sinha, A., Korhonen, P., Wallenius, J. ve Takala, P. (2014). Good debt or bad debt: Detecting semantic orientations in economic texts. *Journal of the Association for Information Science and Technology*, 65(4), 782–796. [D-arama]
 - Man AHL. Who is AHL (ML trading since 2014). https://www.man.com/sites/default/files/uploads/embed/ahl-landing-page-who-is-ahl-1/index.html ; Man Institute. The Rise of Machine Learning. https://www.man.com/maninstitute/the-rise-of-machine-learning — Doğrulandı (arama özeti).
 - Man Group. ArcticDB. GitHub. https://github.com/man-group/ArcticDB — Doğrulandı (GitHub).
 - Mandelbrot, B. (1963). The Variation of Certain Speculative Prices. *Journal of Business*, 36(4), 394–419. https://doi.org/10.1086/294632
-- Manku, G. S., Jain, A. ve Das Sarma, A. (2007). Detecting near-duplicates for web crawling. *Proceedings of WWW 2007*, 141–150. [DOĞRULANAMADI]
+- Manku, G. S., Jain, A. ve Das Sarma, A. (2007). Detecting near-duplicates for web crawling. *Proceedings of WWW 2007*, 141–150. [D-arama]
 - Markets Media (2019). Liquidnet Acquires Prattle. https://articles.marketsmedia.com/liquidnet-acquires-prattle ; The Trade (2019). https://www.thetradenews.com/liquidnet-continues-acquisitions-capture-nlp-analytics-specialist/ — Doğrulandı (arama özeti).
 - Markowitz, H. (1952). Portfolio Selection. *Journal of Finance*, 7(1), 77–91. https://doi.org/10.1111/j.1540-6261.1952.tb01525.x
 - Martin, R. A. PyPortfolioOpt. https://github.com/robertmartin8/PyPortfolioOpt (erişim 2026-10-05; ~6,1 bin yıldız; MIT; PyPI 1.6.0, 2026-02-26)
 - Matsunaga, D., Suzumura, T., & Takahashi, T. (2019). Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis. arXiv. [DOĞRULANAMADI]
-- Mayew, W. J. ve Venkatachalam, M. (2012). The Power of Voice: Managerial Affective States and Future Firm Performance. *Journal of Finance*, 67(1), 1–43. [DOĞRULANAMADI]
+- Mayew, W. J. ve Venkatachalam, M. (2012). The Power of Voice: Managerial Affective States and Future Firm Performance. *Journal of Finance*, 67(1), 1–43. https://doi.org/10.1111/j.1540-6261.2011.01705.x [D-arama]
 - McElfresh, D., vd. (2023). When Do Neural Nets Outperform Boosted Trees on Tabular Data? NeurIPS 2023. [D-ik]
 - McLean, R. D., Pontiff, J. (2016). Does Academic Research Destroy Stock Return Predictability? Journal of Finance, 71(1), 5–32. https://doi.org/10.1111/jofi.12365 [D-ik]
 - McLean, R. D. ve Pontiff, J. (2016). Does Academic Research Destroy Stock Return Predictability? *Journal of Finance*, 71(1), 5–32. https://doi.org/10.1111/jofi.12365
-- Meese, R. A. ve Rogoff, K. (1983). Empirical Exchange Rate Models of the Seventies: Do They Fit Out of Sample? *Journal of International Economics*, 14(1–2), 3–24. [DOĞRULANAMADI]
+- Meese, R. A. ve Rogoff, K. (1983). Empirical Exchange Rate Models of the Seventies: Do They Fit Out of Sample? *Journal of International Economics*, 14(1–2), 3–24. [D-arama]
 - Meinshausen, N. (2006). Quantile Regression Forests. Journal of Machine Learning Research, 7, 983–999.
 - mementum. backtrader. https://github.com/mementum/backtrader (erişim 2026-10-05; ~23,4 bin yıldız; son commit 2023-04-19; GPL-3.0)
-- Menkhoff, L., Sarno, L., Schmeling, M. ve Schrimpf, A. (2012). Carry Trades and Global Foreign Exchange Volatility. *Journal of Finance*, 67(2), 681–718. [DOĞRULANAMADI]
+- Menkhoff, L., Sarno, L., Schmeling, M. ve Schrimpf, A. (2012). Carry Trades and Global Foreign Exchange Volatility. *Journal of Finance*, 67(2), 681–718. https://doi.org/10.1111/j.1540-6261.2012.01728.x [D-arama]
 - Merrill, M. A., Tan, M., Gupta, V., Hartvigsen, T., & Althoff, T. (2024). Language Models Still Struggle to Zero-shot Reason about Time Series. Findings of EMNLP 2024 (raporlanan). Kod: https://github.com/behavioral-data/TSandLanguage [künye DOĞRULANAMADI]
 - Mete, F. evds — TCMB EVDS Python istemcisi (API anahtarı, parametreler). GitHub. https://github.com/fatihmete/evds — Doğrulandı (GitHub).
 - Microsoft (2025). LSEG and Microsoft transform access to AI-ready financial data in customer workflows. Microsoft Source, 12 Ekim 2025. https://news.microsoft.com/source/2025/10/12/lseg-and-microsoft-transform-access-to-ai-ready-financial-data-in-customer-workflows/ — Doğrulandı (arama özeti).
@@ -4677,7 +4672,7 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - MLflow dokümantasyonu: https://mlflow.org/docs/latest/index.html
 - mlflow. MLflow. https://github.com/mlflow/mlflow (~28,3 bin yıldız; Apache-2.0); wandb. https://github.com/wandb/wandb (~11,3 bin yıldız; MIT) (erişim 2026-10-05)
 - ml-stat-Sustech. TorchCP. https://github.com/ml-stat-Sustech/TorchCP (erişim 2026-10-05; ~479 yıldız; LGPL-3.0/GPL-3.0 çift lisans)
-- Molodtsova, T. ve Papell, D. H. (2009). Out-of-Sample Exchange Rate Predictability with Taylor Rule Fundamentals. *Journal of International Economics*, 77(2), 167–180. [DOĞRULANAMADI]
+- Molodtsova, T. ve Papell, D. H. (2009). Out-of-Sample Exchange Rate Predictability with Taylor Rule Fundamentals. *Journal of International Economics*, 77(2), 167–180. [D-arama]
 - Montero-Manso, P., Athanasopoulos, G., Hyndman, R. J. ve Talagala, T. S. (2020). FFORMA: Feature-Based Forecast Model Averaging. *International Journal of Forecasting*, 36(1), 86–92. https://ideas.repec.org/p/msh/ebswps/2018-19.html
 - Moody's (2023). Moody's Launches Moody's Research Assistant, a GenAI Tool to Power Analytic Insights. 5 Aralık 2023. https://ir.moodys.com/press-releases/news-details/2023/Moodys-Launches-Moodys-Research-Assistant-a-GenAI-Tool-to-Power-Analytic-Insights/default.aspx — Doğrulandı (arama özeti). EDF-X yöntem belgeleri [DOĞRULANAMADI].
 - Morissette, P. bt. https://github.com/pmorissette/bt (erişim 2026-10-05; ~3,0 bin yıldız; MIT; PyPI 1.3.0, 2026-10-03)
@@ -4685,23 +4680,23 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Morningstar/PitchBook (2025). Morningstar and PitchBook Bring Trusted Investing Intelligence to Apps in ChatGPT. BusinessWire, 16 Aralık 2025. https://www.businesswire.com/news/home/20251216478652/en/ — Doğrulandı (arama özeti).
 - Mortada, M. fredapi — ALFRED vintage fonksiyonları. GitHub. https://github.com/mortada/fredapi — Doğrulandı (GitHub).
 - Mortada, M. fredapi. https://github.com/mortada/fredapi (erişim 2026-10-05; ~1,7 bin yıldız; Apache-2.0; ALFRED vintage desteği README'de doğrulandı; PyPI 0.5.2, 2024-05-05)
-- Moskowitz, T. J., Ooi, Y. H. ve Pedersen, L. H. (2012). Time Series Momentum. *Journal of Financial Economics*, 104(2), 228–250. [DOĞRULANAMADI]
-- Moskowitz, T. J. ve Grinblatt, M. (1999). Do Industries Explain Momentum? *Journal of Finance*, 54(4), 1249–1290. [DOĞRULANAMADI]
+- Moskowitz, T. J., Ooi, Y. H. ve Pedersen, L. H. (2012). Time Series Momentum. *Journal of Financial Economics*, 104(2), 228–250. [D-arama]
+- Moskowitz, T. J. ve Grinblatt, M. (1999). Do Industries Explain Momentum? *Journal of Finance*, 54(4), 1249–1290. https://doi.org/10.1111/0022-1082.00146 [D-arama]
 - MSCI. Barra Analytics on FactSet (ürün föyü). https://www.msci.com/resources/factsheets/Barra_Analytics_on_FactSet.pdf — Doğrulandı (arama özeti).
 - MSCI. Equity Factor Models (Barra). https://www.msci.com/data-and-analytics/factor-investing/equity-factor-models — Doğrulandı (arama özeti). MSCI AI Portfolio Insights ürün ayrıntıları [DOĞRULANAMADI].
 - Mukherjee, R. vd. (2022). ECTSum: A New Benchmark Dataset for Bullet Point Summarization of Long Earnings Call Transcripts. EMNLP 2022. https://aclanthology.org/2022.emnlp-main.748/ ; https://github.com/rajdeep345/ECTSum — Doğrulandı (GitHub; ACL Anthology sayfası erişilemedi; tam yazar listesi [DOĞRULANAMADI]).
 - Murphy, A. H. (1973). A New Vector Partition of the Probability Score. Journal of Applied Meteorology, 12(4), 595–600.
 - Nagel, S. (2021). *Machine Learning in Asset Pricing*. Princeton University Press (Princeton Lectures in Finance).
 - Nagel, S. (2025). Seemingly Virtuous Complexity in Return Prediction. NBER Working Paper 34104. https://www.nber.org/papers/w34104
-- Nakamura, E. ve Steinsson, J. (2018). High-Frequency Identification of Monetary Non-Neutrality: The Information Effect. *Quarterly Journal of Economics*, 133(3), 1283–1330. [DOĞRULANAMADI]
+- Nakamura, E. ve Steinsson, J. (2018). High-Frequency Identification of Monetary Non-Neutrality: The Information Effect. *Quarterly Journal of Economics*, 133(3), 1283–1330. [D-arama]
 - Nasdaq Data Link. data-link-python. GitHub. https://github.com/nasdaq/data-link-python — Doğrulandı (GitHub). Sharadar SF1 ürün sayfası https://data.nasdaq.com/databases/SF1 — [DOĞRULANAMADI].
 - Nautech Systems. NautilusTrader. https://github.com/nautechsystems/nautilus_trader (erişim 2026-10-05; ~29,6 bin yıldız; son commit 2026-10-05; LGPL-3.0; PyPI 1.231.0)
 - Nelson, D. B. (1991). Conditional Heteroskedasticity in Asset Returns: A New Approach. *Econometrica*, 59(2), 347–370. https://doi.org/10.2307/2938260
 - Newey, W. K., West, K. D. (1987). A Simple, Positive Semi-Definite, Heteroskedasticity and Autocorrelation Consistent Covariance Matrix. Econometrica, 55(3), 703–708. https://doi.org/10.2307/1913610
-- Nie, Y., Kong, Y., Dong, X., Mulvey, J. M., Poor, H. V., Wen, Q., & Zohren, S. (2024). A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges. arXiv. [DOĞRULANAMADI]
+- Nie, Y., Kong, Y., Dong, X., Mulvey, J. M., Poor, H. V., Wen, Q., & Zohren, S. (2024). A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges. arXiv. arXiv:2406.11903. [D-arama]
 - Nie, Y., Nguyen, N. H., Sinthong, P., Kalagnanam, J. (2023). A Time Series is Worth 64 Words: Long-term Forecasting with Transformers. ICLR 2023. arXiv:2211.14730. https://github.com/yuqinie98/PatchTST [D]
 - Nie, Y., Nguyen, N. H., Sinthong, P. ve Kalagnanam, J. (2023). A Time Series is Worth 64 Words: Long-term Forecasting with Transformers (PatchTST). ICLR 2023; arXiv:2211.14730. https://arxiv.org/abs/2211.14730 ; depo: https://github.com/yuqinie98/PatchTST
-- Nie, Y. vd. (2024). A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges. arXiv:2406.11903. [DOĞRULANAMADI]
+- Nie, Y. vd. (2024). A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges. arXiv:2406.11903. [D-arama]
 - Nixtla (2024). Benchmarking foundation models for time series (GitHub deney dizini `experiments/foundation-time-series-arena`). https://github.com/Nixtla/nixtla — şirket kaynaklı karşılaştırma; blog niteliğinde, çıkar çatışması uyarısıyla kullanıldı. [D — README okundu]
 - Nixtla. statsforecast, neuralforecast, mlforecast. https://github.com/Nixtla/statsforecast ; https://github.com/Nixtla/neuralforecast ; https://github.com/Nixtla/mlforecast (erişim 2026-10-05; ~4,9 bin / ~4,3 bin / ~1,3 bin yıldız; Apache-2.0)
 - Noguer i Alonso, M. ve Franklin, R. P. (2026). Pretrained Time-Series Foundation Models for Financial Return Forecasting. arXiv:2606.27100. https://arxiv.org/abs/2606.27100 (yalnızca özet okunabildi)
@@ -4711,31 +4706,32 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Novy-Marx, R., Velikov, M. (2016). A Taxonomy of Anomalies and Their Trading Costs. Review of Financial Studies, 29(1), 104–147. https://doi.org/10.1093/rfs/hhv063 [D-ik]
 - Numerai. Numerai Tournament documentation (FAQ). https://docs.numer.ai/numerai-tournament/faq ; GitHub aynası https://github.com/numerai/docs (15 Temmuz 2026'da arşivlenmiş) — Doğrulandı (GitHub; arama özeti).
 - Numerai (t.y.). Numerai Tournament Documentation: Scoring; Feature Neutral Correlation. https://docs.numer.ai/numerai-tournament/scoring ; https://docs.numer.ai/numerai-tournament/scoring/feature-neutral-correlation ; örnek betikler: https://github.com/numerai/example-scripts
-- Nystrup, P., Hansen, B. W., Madsen, H. ve Lindström, E. (2015). Regime-Based Versus Static Asset Allocation: Letting the Data Speak. *Journal of Portfolio Management*, 42(1), 103–109. [DOĞRULANAMADI]
+- Nystrup, P., Hansen, B. W., Madsen, H. ve Lindström, E. (2015). Regime-Based Versus Static Asset Allocation: Letting the Data Speak. *Journal of Portfolio Management*, 42(1), 103–109. [D-arama]
 - Nystrup, P., Kolm, P. N. ve Lindström, E. (2020). Greedy Online Classification of Persistent Market States Using Realized Intraday Volatility Features. *Journal of Financial Data Science*, 2(3), 25–39. https://orbit.dtu.dk/en/publications/greedy-online-classification-of-persistent-market-states-using-re/
-- Nystrup, P., Kolm, P. N. ve Lindström, E. (2021). Feature Selection in Jump Models. *Expert Systems with Applications*, 184, 115558. [DOĞRULANAMADI]
-- Nystrup, P., Lindström, E. ve Madsen, H. (2020). Learning Hidden Markov Models with Persistent States by Penalizing Jumps. *Expert Systems with Applications*, 150, 113307. [DOĞRULANAMADI]
-- Nystrup, P., Madsen, H. ve Lindström, E. (2017). Long Memory of Financial Time Series and Hidden Markov Models with Time-Varying Parameters. *Journal of Forecasting*, 36(8), 989–1002. [DOĞRULANAMADI]
-- Nystrup, P., Madsen, H. ve Lindström, E. (2018). Dynamic Portfolio Optimization across Hidden Market Regimes. *Quantitative Finance*, 18(1), 83–95. [DOĞRULANAMADI]
+- Nystrup, P., Kolm, P. N. ve Lindström, E. (2021). Feature Selection in Jump Models. *Expert Systems with Applications*, 184, 115558. [D-arama]
+- Nystrup, P., Lindström, E. ve Madsen, H. (2020). Learning Hidden Markov Models with Persistent States by Penalizing Jumps. *Expert Systems with Applications*, 150, 113307. https://doi.org/10.1016/j.eswa.2020.113307 [D-arama]
+- Nystrup, P., Madsen, H. ve Lindström, E. (2017). Long Memory of Financial Time Series and Hidden Markov Models with Time-Varying Parameters. *Journal of Forecasting*, 36(8), 989–1002. [D-arama]
+- Nystrup, P., Madsen, H. ve Lindström, E. (2018). Dynamic Portfolio Optimization across Hidden Market Regimes. *Quantitative Finance*, 18(1), 83–95. [D-arama]
 - O'Connor, F. A., Lucey, B. M., Batten, J. A. ve Baur, D. G. (2015). The Financial Economics of Gold — A Survey. *International Review of Financial Analysis*, 41, 186–205. DOI: 10.1016/j.irfa.2015.07.005.
 - O'Hara, M. (1995). *Market Microstructure Theory*. Blackwell. [DOĞRULANAMADI]
+- Oliva, C. ve Tinjala, S. G. (2025). Modeling Market States with Clustering and State Machines. *arXiv:2510.00953*. [D-arama; düzeltildi: yazarlar eklendi]
 - OpenBB. https://github.com/OpenBB-finance/OpenBB (erişim 2026-10-05; ~73,9 bin yıldız; Apache-2.0 — LICENSE dosyası doğrulandı; PyPI openbb 5.0.0, 2026-09-29)
 - OpenFIGI API: https://www.openfigi.com/api
 - Ovadia, Y., Fertig, E., Ren, J., Nado, Z., Sculley, D., Nowozin, S., Dillon, J. V., Lakshminarayanan, B., Snoek, J. (2019). Can You Trust Your Model's Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift. Advances in Neural Information Processing Systems 32 (NeurIPS 2019).
-- Pascual, L., Romo, J., Ruiz, E. (2006). Bootstrap prediction for returns and volatilities in GARCH models. Computational Statistics & Data Analysis, 50(9), 2293–2312. [DOĞRULANAMADI]
+- Pascual, L., Romo, J., Ruiz, E. (2006). Bootstrap prediction for returns and volatilities in GARCH models. Computational Statistics & Data Analysis, 50(9), 2293–2312. https://doi.org/10.1016/j.csda.2004.12.008 [D-arama]
 - Patton, A. J. (2011). Volatility forecast comparison using imperfect volatility proxies. Journal of Econometrics, 160(1), 246–256.
 - Patton, A. J., Ziegel, J. F., Chen, R. (2019). Dynamic semiparametric models for expected shortfall (and Value-at-Risk). Journal of Econometrics, 211(2), 388–413.
-- Pedersen, L. H. (2022). Game on: Social networks and markets. *Journal of Financial Economics*, 146(3), 1097–1119. [DOĞRULANAMADI]
+- Pedersen, L. H. (2022). Game on: Social networks and markets. *Journal of Financial Economics*, 146(3), 1097–1119. https://doi.org/10.1016/j.jfineco.2022.05.002 [D-arama]
 - Pesaran, M. H., Timmermann, A. (1992). A Simple Nonparametric Test of Predictive Performance. Journal of Business & Economic Statistics, 10(4), 561–565.
 - Pesaran, M. H. ve Timmermann, A. (1995). Predictability of Stock Returns: Robustness and Economic Significance. *Journal of Finance*, 50(4), 1201–1228. https://doi.org/10.1111/j.1540-6261.1995.tb04055.x
-- Pesaran, M. H. ve Timmermann, A. (2007). Selection of estimation window in the presence of breaks. *Journal of Econometrics*, 137(1), 134–161. [DOĞRULANAMADI]
+- Pesaran, M. H. ve Timmermann, A. (2007). Selection of estimation window in the presence of breaks. *Journal of Econometrics*, 137(1), 134–161. [D-arama]
 - Platt, J. (1999). Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods. In: Advances in Large Margin Classifiers, MIT Press, 61–74.
 - Polakow, O. vectorbt. https://github.com/polakowo/vectorbt (erişim 2026-10-05; ~9,3 bin yıldız; son commit 2026-09-26; Apache-2.0 + Commons Clause — LICENSE.md doğrulandı)
 - Politis, D. N., Romano, J. P. (1994). The Stationary Bootstrap. Journal of the American Statistical Association, 89(428), 1303–1313. https://doi.org/10.1080/01621459.1994.10476870
 - Polygon.io (Massive). client-python. GitHub. https://github.com/polygon-io/client-python — Doğrulandı (GitHub). Fiyat sayfası https://polygon.io/pricing — [DOĞRULANAMADI].
 - Poterba, J. M. ve Summers, L. H. (1988). Mean reversion in stock prices: Evidence and Implications. *Journal of Financial Economics*, 22(1), 27–59. https://doi.org/10.1016/0304-405X(88)90021-9
 - Pushshift. api (README). GitHub. https://github.com/pushshift/api — Doğrulandı (GitHub; 2023 kesinti bilgisi README'de yok).
-- Pustejovsky, J., Castaño, J., Ingria, R., Saurí, R., Gaizauskas, R., Setzer, A. ve Katz, G. (2003). TimeML: Robust Specification of Event and Temporal Expressions in Text. *New Directions in Question Answering*, AAAI Spring Symposium. [DOĞRULANAMADI]
+- Pustejovsky, J., Castaño, J., Ingria, R., Saurí, R., Gaizauskas, R., Setzer, A. ve Katz, G. (2003). TimeML: Robust Specification of Event and Temporal Expressions in Text. *New Directions in Question Answering*, AAAI Spring Symposium (SS-03-07). [D-arama]
 - PyPI JSON API (pypi.org/pypi/<paket>/json), erişim 2026-10-05 — tablolardaki "PyPI son sürüm" tarihleri bu kaynaktan alınmıştır.
 - pyro-ppl. NumPyro. https://github.com/pyro-ppl/numpyro (PyPI numpyro 0.22.0, 2026-09-18; Apache-2.0; yıldız doğrulanamadı)
 - Qian, L., Zhou, W., Wang, Y., Peng, X., Huang, J., & Xie, Q. (2025). Fino1: On the Transferability of Reasoning Enhanced LLMs to Finance. arXiv:2502.08127. https://github.com/The-FinAI/Fino1
@@ -4758,16 +4754,17 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - RavenPack. Resmî GitHub kuruluşu (python-api, r-api, Excel-Addin). https://github.com/RavenPack — Doğrulandı (GitHub).
 - RavenPack (t.y.). RavenPack News Analytics — User Guide / Analytics documentation (REL, ESS, ENS tanımları). WRDS üzerinden dağıtılan dokümantasyon: https://wrds-www.wharton.upenn.edu/documents/1395/RavenPack.pdf
 - Reddit (arşiv). API rules (OAuth: 60 istek/dk). GitHub wiki. https://github.com/reddit-archive/reddit/wiki/API — Doğrulandı (GitHub). 2023 API ücretlendirme değişiklikleri — [DOĞRULANAMADI].
-- Reimers, N. ve Gurevych, I. (2019). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. *Proceedings of EMNLP-IJCNLP 2019*, 3982–3992. [DOĞRULANAMADI]
+- Reimers, N. ve Gurevych, I. (2019). Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks. *Proceedings of EMNLP-IJCNLP 2019*, 3982–3992. https://doi.org/10.18653/v1/D19-1410 [D-arama]
+- Remlinger, C., Brière, M., Alasseur, C. ve Mikael, J. (2021). Expert Aggregation for Financial Forecasting. *arXiv:2111.15365*. [D-arama; düzeltildi: yazarlar eklendi]
 - Ribeiro, M. T., Singh, S., Guestrin, C. (2016). "Why Should I Trust You?": Explaining the Predictions of Any Classifier. Proceedings of the 22nd ACM SIGKDD (KDD '16), 1135–1144.
 - Romano, Y., Patterson, E., Candès, E. (2019). Conformalized Quantile Regression. Advances in Neural Information Processing Systems 32 (NeurIPS 2019).
 - Ross, S. A. (1976). The arbitrage theory of capital asset pricing. *Journal of Economic Theory*, 13(3), 341–360. https://doi.org/10.1016/0022-0531(76)90046-6
-- Rossi, B. (2013). Exchange Rate Predictability. *Journal of Economic Literature*, 51(4), 1063–1119. [DOĞRULANAMADI]
+- Rossi, B. (2013). Exchange Rate Predictability. *Journal of Economic Literature*, 51(4), 1063–1119. [D-arama]
 - Rudin, C. (2019). Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead. Nature Machine Intelligence, 1, 206–215.
-- Rydén, T., Teräsvirta, T. ve Åsbrink, S. (1998). Stylized Facts of Daily Return Series and the Hidden Markov Model. *Journal of Applied Econometrics*, 13(3), 217–244. [DOĞRULANAMADI]
+- Rydén, T., Teräsvirta, T. ve Åsbrink, S. (1998). Stylized Facts of Daily Return Series and the Hidden Markov Model. *Journal of Applied Econometrics*, 13(3), 217–244. [D-arama]
 - Sacra. SVP of Technology & Product Strategy at FactSet on why auditability can matter more than accuracy. https://sacra.com/research/svp-technology-product-strategy-factset-auditability-over-accuracy — Doğrulandı (arama özeti; röportaj, ikincil).
 - Sahm, C. (2019). Direct Stimulus Payments to Individuals. İçinde: *Recession Ready: Fiscal Policies to Stabilize the American Economy*, The Hamilton Project / Washington Center for Equitable Growth. [DOĞRULANAMADI]
-- Sainz, O., Campos, J. A., García-Ferrero, I., Etxaniz, J., de Lacalle, O. L. ve Agirre, E. (2023). NLP Evaluation in trouble: On the Need to Measure LLM Data Contamination for each Benchmark. *Findings of EMNLP 2023*. [DOĞRULANAMADI]
+- Sainz, O., Campos, J. A., García-Ferrero, I., Etxaniz, J., de Lacalle, O. L. ve Agirre, E. (2023). NLP Evaluation in trouble: On the Need to Measure LLM Data Contamination for each Benchmark. *Findings of EMNLP 2023*, 10776–10787. arXiv:2310.18018. [D-arama]
 - Salesforce. Merlion. https://github.com/salesforce/Merlion (erişim 2026-10-05; ~4,5 bin yıldız; arşivlendi 2026-03-11; BSD-3)
 - Salinas, D., Flunkert, V., Gasthaus, J., Januschowski, T. (2020). DeepAR: Probabilistic forecasting with autoregressive recurrent networks. International Journal of Forecasting, 36(3), 1181–1191. https://www.sciencedirect.com/science/article/pii/S0169207019301888
 - Sarkar, S. K., & Vafa, K. (2024). Lookahead Bias in Pretrained Language Models. SSRN 4754678 (28 Haziran 2024); ICML 2025.
@@ -4783,17 +4780,17 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Shafer, G., Vovk, V. (2008). A Tutorial on Conformal Prediction. Journal of Machine Learning Research, 9, 371–421.
 - Shah, A., Paturi, S., & Chava, S. (2023). Trillion Dollar Words: A New Financial Dataset, Task & Market Analysis. Proceedings of ACL 2023 (Vol. 1), 6664–6679. DOI 10.18653/v1/2023.acl-long.368; SSRN 4447632. Kod/veri/model: https://github.com/gtfintechlab/fomc-hawkish-dovish
 - Shah, A., Paturi, S. ve Chava, S. (2023). Trillion Dollar Words: A New Financial Dataset, Task & Market Analysis. *Proceedings of ACL 2023*. Veri/kod: Hugging Face ve GitHub (CC BY-NC 4.0).
-- Shah, A., Vithani, R., Gullapalli, A. ve Chava, S. (2023). FiNER: Financial Named Entity Recognition Dataset and Weak-Supervision Model (FiNER-ORD). arXiv:2302.11157. [DOĞRULANAMADI]
+- Shah, A., Vithani, R., Gullapalli, A. ve Chava, S. (2023). FiNER: Financial Named Entity Recognition Dataset and Weak-Supervision Model (FiNER-ORD). arXiv:2302.11157. [D-arama]
 - Shah, R. S., Chawla, K., Eidnani, D., Shah, A., Du, W., Chava, S., Raman, N., Smiley, C., Chen, J., & Yang, D. (2022). When FLUE Meets FLANG: Benchmarks and Large Pretrained Language Model for Financial Domain. Proceedings of EMNLP 2022. arXiv:2211.00083. Kod: https://github.com/SALT-NLP/FLANG
 - Sharpe, W. F. (1964). Capital Asset Prices: A Theory of Market Equilibrium under Conditions of Risk. *Journal of Finance*, 19(3), 425–442. https://doi.org/10.1111/j.1540-6261.1964.tb02865.x
-- Shazeer, N., Mirhoseini, A., Maziarz, K., Davis, A., Le, Q., Hinton, G. ve Dean, J. (2017). Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer. *ICLR 2017*; arXiv:1701.06538. [DOĞRULANAMADI]
+- Shazeer, N., Mirhoseini, A., Maziarz, K., Davis, A., Le, Q., Hinton, G. ve Dean, J. (2017). Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer. *ICLR 2017*; arXiv:1701.06538. [D-arama]
 - Shchur, O. vd. (2025). fev-bench: A Realistic Benchmark for Time Series Forecasting. arXiv:2509.26468. https://arxiv.org/abs/2509.26468 ; depo: https://github.com/autogluon/fev
 - Shen, Z., Xiu, D. (2024). Can Machines Learn Weak Signals? SSRN 4722678 / NBER çalışma kağıdı. [D-ik; içerik doğrulanamadı]
 - Shi, X. vd. (2025). Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts. ICLR 2025 (Spotlight); arXiv:2409.16040. https://arxiv.org/abs/2409.16040 ; depo: https://github.com/Time-MoE/Time-MoE
 - Shi, Y., Fu, Z., Chen, S., Zhao, B., Xu, W., Zhang, C. ve Li, J. (2025). Kronos: A Foundation Model for the Language of Financial Markets. arXiv:2508.02739; AAAI 2026'da kabul edildiği depoda beyan edilmiştir. https://arxiv.org/abs/2508.02739 ; depo: https://github.com/shiyu-coder/Kronos ; model kartı: https://huggingface.co/NeoQuasar/Kronos-base
 - Shiller, R. J. (1981). Do Stock Prices Move Too Much to be Justified by Subsequent Changes in Dividends? *American Economic Review*, 71(3), 421–436. (JSTOR; DOI yok.)
 - Shu, Y., Yu, C. ve Mulvey, J. M. (2024). Downside Risk Reduction Using Regime-Switching Signals: A Statistical Jump Model Approach. *Journal of Asset Management*, 25(5). DOI: 10.1057/s41260-024-00376-x; arXiv:2402.05272. https://arxiv.org/abs/2402.05272
-- Shumway, T. (1997). The Delisting Bias in CRSP Data. Journal of Finance, 52(1), 327–340. — [DOĞRULANAMADI].
+- Shumway, T. (1997). The Delisting Bias in CRSP Data. Journal of Finance, 52(1), 327–340. [D-arama]
 - Shwartz-Ziv, R., Armon, A. (2022). Tabular data: Deep learning is not all you need. Information Fusion, 81, 84–90. https://doi.org/10.1016/j.inffus.2021.11.011 [D-ik]
 - Shwartz-Ziv, R. ve Armon, A. (2022). Tabular Data: Deep Learning Is Not All You Need. Information Fusion, 81, 84–90. https://doi.org/10.1016/j.inffus.2021.11.011
 - Siami-Namini, S., Tavakoli, N. ve Siami Namin, A. (2018). A Comparison of ARIMA and LSTM in Forecasting Time Series. 2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA), 1394–1401. https://doi.org/10.1109/ICMLA.2018.00227
@@ -4801,9 +4798,9 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - skfolio. https://github.com/skfolio/skfolio (erişim 2026-10-05; ~2,5 bin yıldız; BSD-3; PyPI 1.4.11, 2026-10-03; CombinatorialPurgedCV ve WalkForward README'de doğrulandı)
 - sktime. pytorch-forecasting ve sktime. https://github.com/sktime/pytorch-forecasting ; https://github.com/sktime/sktime (erişim 2026-10-05; ~5,0 bin / ~10,1 bin yıldız; MIT / BSD-3)
 - Slack, D., Hilgard, S., Jia, E., Singh, S., Lakkaraju, H. (2020). Fooling LIME and SHAP: Adversarial Attacks on Post hoc Explanation Methods. Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (AIES '20), 180–186.
-- Smit, A., Duckworth, P., Grinsztajn, N., Barrett, T. D. ve Pretorius, A. (2024). Should we be going MAD? A Look at Multi-Agent Debate Strategies for LLMs. arXiv:2311.17371 (ICML 2024'te yayımlandığı bildirilmektedir; [yayın yeri DOĞRULANAMADI]). Depo: https://github.com/instadeepai/DebateLLM
+- Smit, A. P., Grinsztajn, N., Duckworth, P., Barrett, T. D. ve Pretorius, A. (2024). Should we be going MAD? A Look at Multi-Agent Debate Strategies for LLMs. *Proceedings of ICML 2024*, PMLR 235; arXiv:2311.17371. Depo: https://github.com/instadeepai/DebateLLM [D-arama; düzeltildi: yayın yeri ICML 2024/PMLR 235 teyit edildi; yazar sırası PMLR kaydına göre (Grinsztajn, Duckworth'tan önce)]
 - Smith, A. gdelt-doc-api. https://github.com/alex9smith/gdelt-doc-api (erişim 2026-10-05; ~231 yıldız; MIT)
-- Smith, J. ve Wallis, K. F. (2009). A Simple Explanation of the Forecast Combination Puzzle. *Oxford Bulletin of Economics and Statistics*, 71(3), 331–355. [DOĞRULANAMADI]
+- Smith, J. ve Wallis, K. F. (2009). A Simple Explanation of the Forecast Combination Puzzle. *Oxford Bulletin of Economics and Statistics*, 71(3), 331–355. https://doi.org/10.1111/j.1468-0084.2008.00541.x [D-arama]
 - Soros, G. (1987). *The Alchemy of Finance*. Simon & Schuster. [DOĞRULANAMADI]
 - S&P Dow Jones Indices. S&P 500 RavenPack AI Index — broşür. https://spglobal.com/spdji/en/documents/brochure/brochure-sp-500-ravenpack-ai-index.pdf — Doğrulandı (arama özeti).
 - S&P Global (2024). S&P Global Launches Kensho LLM-ready API (beta). Basın bülteni, 13 Kasım 2024. https://press.spglobal.com/2024-11-13-S-P-Global-Launches-Kensho-LLM-ready-API-beta-,-Making-its-Structured-Data-Accessible-for-Generative-AI — Doğrulandı (arama özeti).
@@ -4811,29 +4808,28 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - State Street Global Advisors (2026). Decoding Market Regimes: Machine Learning Insights. https://www.ssga.com/library-content/assets/pdf/global/pc/2026/decoding-market-regimes-machine-learning-insights.pdf (varlık yöneticisi notu, hakemli değil; içeriği bu oturumda okunamadı)
 - Strobl, C., Boulesteix, A.-L., Zeileis, A., Hothorn, T. (2007). Bias in random forest variable importance measures: Illustrations, sources and a solution. BMC Bioinformatics, 8, 25. https://doi.org/10.1186/1471-2105-8-25
 - Suhonen, A., Lennkh, M. ve Perez, F. (2017). Quantifying Backtest Overfitting in Alternative Beta Strategies. *Journal of Portfolio Management*, 43(2), 90–104 (Kış 2017). (Dergi ve yıl doğrulandı; cilt/sayfa [DOĞRULANAMADI])
-- Sullivan, R., Timmermann, A. ve White, H. (1999). Data-Snooping, Technical Trading Rule Performance, and the Bootstrap. *Journal of Finance*, 54(5), 1647–1691. [DOĞRULANAMADI]
-- Sun, W. vd. (2024). MIGA: Mixture-of-Experts with Group Aggregation for Stock Market Prediction. *arXiv:2410.02241*. (varlığı ve başlığı doğrulandı; yazar listesi doğrulanamadı) [DOĞRULANAMADI]
+- Sullivan, R., Timmermann, A. ve White, H. (1999). Data-Snooping, Technical Trading Rule Performance, and the Bootstrap. *Journal of Finance*, 54(5), 1647–1691. [D-arama]
 - Sundararajan, M., Taly, A., Yan, Q. (2017). Axiomatic Attribution for Deep Networks. Proceedings of ICML 2017. arXiv:1703.01365. https://arxiv.org/abs/1703.01365
-- Szymanowska, M., de Roon, F., Nijman, T. ve van den Goorbergh, R. (2014). An Anatomy of Commodity Futures Risk Premia. *Journal of Finance*, 69(1), 453–482. [DOĞRULANAMADI]
+- Szymanowska, M., de Roon, F., Nijman, T. ve van den Goorbergh, R. (2014). An Anatomy of Commodity Futures Risk Premia. *Journal of Finance*, 69(1), 453–482. https://doi.org/10.1111/jofi.12096 [D-arama]
 - Tan, M., Merrill, M. A., Gupta, V., Althoff, T., Hartvigsen, T. (2024). Are Language Models Actually Useful for Time Series Forecasting? NeurIPS 2024. arXiv:2406.16964. [D-ik]
 - Tan, M., Merrill, M. A., Gupta, V., Althoff, T. ve Hartvigsen, T. (2024). Are Language Models Actually Useful for Time Series Forecasting? NeurIPS 2024 (Spotlight); arXiv:2406.16964. https://arxiv.org/abs/2406.16964 ; depo: https://github.com/BennyTMT/LLMsForTimeSeries
 - Tang, Y. ve Yang, Y. (2025). FinMTEB: Finance Massive Text Embedding Benchmark. arXiv:2502.10990; *Proceedings of EMNLP 2025* (main, no. 179).
-- Tang, Y., Yang, Y., Huang, A. H., Tam, A. ve Tang, J. Z. (2023). FinEntity: Entity-level Sentiment Classification for Financial Texts. arXiv:2310.12406; *Proceedings of EMNLP 2023*. (arXiv kimliği doğrulandı; yazar listesi [DOĞRULANAMADI].)
-- Tang, Z. vd. (2025). AlphaAgent: LLM-Driven Alpha Mining with Regularized Exploration to Counteract Alpha Decay. arXiv:2502.16789. [DOĞRULANAMADI]; depo: https://github.com/RndmVariableQ/AlphaAgent (erişim 2026-10-05; ~417 yıldız; README'de makale atfı yok)
+- Tang, Y., Yang, Y., Huang, A. H., Tam, A. ve Tang, J. Z. (2023). FinEntity: Entity-level Sentiment Classification for Financial Texts. arXiv:2310.12406; *Proceedings of EMNLP 2023* (2023.emnlp-main.956). [D-arama]
+- Tang, Z. vd. (2025). AlphaAgent: LLM-Driven Alpha Mining with Regularized Exploration to Counteract Alpha Decay. arXiv:2502.16789. [D-arama]; depo: https://github.com/RndmVariableQ/AlphaAgent (erişim 2026-10-05; ~417 yıldız; README'de makale atfı yok)
 - Tauric Research (2025). Trading-R1 (teknik rapor). arXiv:2509.11420. (Kod henüz yayımlanmamıştır: https://github.com/TauricResearch/Trading-R1)
 - TauricResearch (2026). TradingAgents GitHub deposu. https://github.com/TauricResearch/TradingAgents (erişim 2026-10-05; ~109,8 bin yıldız; son commit 2026-10-03; Apache-2.0)
 - Taylor, S. J. (1986). *Modelling Financial Time Series*. Wiley.
 - TCMB. EVDS Web Servisi Kullanım Kılavuzu. https://evds2.tcmb.gov.tr/ — [DOĞRULANAMADI] (doğrudan erişilemedi).
 - tensortrade-org. TensorTrade. https://github.com/tensortrade-org/tensortrade (erişim 2026-10-05; ~7,2 bin yıldız; son commit 2026-02-09; Apache-2.0)
 - Tetlock, P. C. (2007). Giving Content to Investor Sentiment: The Role of Media in the Stock Market. Journal of Finance, 62(3), 1139–1168. SSRN 685145. (DOI 10.1111/j.1540-6261.2007.01232.x — bu oturumda teyit edilemedi.)
-- Tetlock, P. C. (2011). All the News That's Fit to Reprint: Do Investors React to Stale Information? *Review of Financial Studies*, 24(5), 1481–1512. [DOĞRULANAMADI]
+- Tetlock, P. C. (2011). All the News That's Fit to Reprint: Do Investors React to Stale Information? *Review of Financial Studies*, 24(5), 1481–1512. [D-arama]
 - Tetlock, P. C. (2011). All the News That's Fit to Reprint. *Review of Financial Studies*, 24(5), 1481–1512.
-- Tetlock, P. C., Saar-Tsechansky, M. ve Macskassy, S. (2008). More Than Words: Quantifying Language to Measure Firms' Fundamentals. *Journal of Finance*, 63(3), 1437–1467. [DOĞRULANAMADI]
+- Tetlock, P. C., Saar-Tsechansky, M. ve Macskassy, S. (2008). More Than Words: Quantifying Language to Measure Firms' Fundamentals. *Journal of Finance*, 63(3), 1437–1467. [D-arama]
 - Tiingo. tiingo (Python). PyPI. https://pypi.org/project/tiingo/ — Doğrulandı (PyPI). Fiyat — [DOĞRULANAMADI].
-- Timmermann, A. (2006). Forecast Combinations. İçinde: G. Elliott, C. W. J. Granger ve A. Timmermann (Ed.), *Handbook of Economic Forecasting*, Cilt 1, 135–196. Elsevier. [DOĞRULANAMADI]
+- Timmermann, A. (2006). Forecast Combinations. İçinde: G. Elliott, C. W. J. Granger ve A. Timmermann (Ed.), *Handbook of Economic Forecasting*, Cilt 1, 135–196. Elsevier. [D-arama]
 - Timmermann, A. (2006). Forecast Combinations. İçinde: *Handbook of Economic Forecasting*, Cilt 1, 135–196. Elsevier. https://doi.org/10.1016/S1574-0706(05)01004-9
 - Timmermann, A. (2008). Elusive return predictability. *International Journal of Forecasting*, 24(1), 1–18. https://doi.org/10.1016/j.ijforecast.2007.07.008
-- Tóth, B., Lempérière, Y., Deremble, C., de Lataillade, J., Kockelkoren, J. ve Bouchaud, J.-P. (2011). Anomalous Price Impact and the Critical Nature of Liquidity in Financial Markets. *Physical Review X*, 1, 021006. [DOĞRULANAMADI]
+- Tóth, B., Lempérière, Y., Deremble, C., de Lataillade, J., Kockelkoren, J. ve Bouchaud, J.-P. (2011). Anomalous Price Impact and the Critical Nature of Liquidity in Financial Markets. *Physical Review X*, 1, 021006. https://doi.org/10.1103/PhysRevX.1.021006 [D-arama]
 - Toto (2025–2026). Toto: Time Series Optimized Transformer for Observability (1.0: arXiv:2505.14766; 2.0 Technical Report: arXiv:2605.20119); BOOM benchmark. Datadog. Depo: https://github.com/DataDog/toto
 - TradingAgents — Xiao, Y. vd. (2025). TradingAgents: Multi-Agents LLM Financial Trading Framework. arXiv:2412.20138. Kod: https://github.com/TauricResearch/TradingAgents (README v0.5.x, Eylül 2026, doğrulandı)
 - TSFMAudit (2026). Data Contamination Auditing in Forecasting Time Series Foundation Models. arXiv:2605.26161. https://arxiv.org/abs/2605.26161 (yalnızca başlık düzeyinde görüldü)
@@ -4842,16 +4838,17 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Two Sigma (2021). A Machine Learning Approach to Regime Modeling. Two Sigma Street View. https://www.twosigma.com/articles/a-machine-learning-approach-to-regime-modeling/ (şirket araştırma notu, hakemli değil)
 - U.S. CFTC. Commitments of Traders. https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm — [DOĞRULANAMADI] (içerik cot_reports üzerinden teyit edildi).
 - U.S. SEC. Financial Statement Data Sets. https://www.sec.gov/data-research/financial-statement-data-sets — [DOĞRULANAMADI] (doğrudan erişilemedi).
+- Vallarino, D. (2025). Adaptive Market Intelligence: A Mixture of Experts Framework for Volatility-Sensitive Stock Forecasting. *arXiv:2508.02686*. [D-arama; düzeltildi: yazar eklendi]
 - Vovk, V., Gammerman, A., Shafer, G. (2005; 2. baskı 2022). Algorithmic Learning in a Random World. Springer. https://link.springer.com/book/10.1007/978-3-031-06649-8
 - Wachter, S., Mittelstadt, B., Russell, C. (2017). Counterfactual Explanations Without Opening the Black Box: Automated Decisions and the GDPR. Harvard Journal of Law & Technology, 31(2), 841–887. arXiv:1711.00399.
 - WalnutInvest / GoodFirms (2025–2026). Danelfin / Kavout alternatifleri ve AI stock trading apps karşılaştırmaları. https://walnutinvest.com/resources/danelfin-alternatives ; https://www.goodfirms.co/blog/best-ai-stock-trading-apps-compared — Doğrulandı (arama özeti; üçüncü taraf, resmî ürün sayfaları [DOĞRULANAMADI]).
 - Wang, S., Kong, H., Guo, J., Hua, F., Qi, Y., Zhou, W., Zheng, J., Wang, X., Ni, L. M. ve Guo, J. (2025). QuantBench: Benchmarking AI Methods for Quantitative Investment. arXiv:2504.18600. https://arxiv.org/abs/2504.18600 (yalnızca künye doğrulandı; içerik okunamadı)
-- Wang, S. vd. (2023). Alpha-GPT: Human-AI Interactive Alpha Mining for Quantitative Investment. arXiv:2308.00016. [DOĞRULANAMADI]
-- Wang, S. vd. (2024). QuantAgent: Seeking Holy Grail in Trading by Self-Improving Large Language Model. arXiv:2402.03755. [DOĞRULANAMADI]
+- Wang, S. vd. (2023). Alpha-GPT: Human-AI Interactive Alpha Mining for Quantitative Investment. arXiv:2308.00016. [D-arama]
+- Wang, S. vd. (2024). QuantAgent: Seeking Holy Grail in Trading by Self-Improving Large Language Model. arXiv:2402.03755. [D-arama]
 - Wang, S., Yuan, H., Ni, L. M. ve Guo, J. (2024). QuantAgent: Seeking Holy Grail in Trading by Self-Improving Large Language Model. arXiv:2402.03755.
 - Wang, S., Yuan, H., Zhou, L., Ni, L. M., Shum, H.-Y. ve Guo, J. (2023). Alpha-GPT: Human-AI Interactive Alpha Mining for Quantitative Investment. arXiv:2308.00016; *EMNLP 2025 System Demonstrations*.
-- Wang, W., Kennedy, R., Lazer, D., Ramakrishnan, N. (2016). Growing pains for global monitoring of societal events. Science, 353(6307), 1502–1503. — [DOĞRULANAMADI].
-- Wang, X., Wei, J., Schuurmans, D., Le, Q., Chi, E., Narang, S., Chowdhery, A. ve Zhou, D. (2023). Self-Consistency Improves Chain of Thought Reasoning in Language Models. ICLR 2023. arXiv:2203.11171. [DOĞRULANAMADI]
+- Wang, W., Kennedy, R., Lazer, D., Ramakrishnan, N. (2016). Growing pains for global monitoring of societal events. Science, 353(6307), 1502–1503. [D-arama]
+- Wang, X., Wei, J., Schuurmans, D., Le, Q., Chi, E., Narang, S., Chowdhery, A. ve Zhou, D. (2023). Self-Consistency Improves Chain of Thought Reasoning in Language Models. ICLR 2023. arXiv:2203.11171. [D-arama]
 - Welch, I., Goyal, A. (2008). A Comprehensive Look at the Empirical Performance of Equity Premium Prediction. Review of Financial Studies, 21(4), 1455–1508. https://doi.org/10.1093/rfs/hhm014 [D-ik]
 - Welch, I. ve Goyal, A. (2008). A Comprehensive Look at The Empirical Performance of Equity Premium Prediction. *Review of Financial Studies*, 21(4), 1455–1508. https://doi.org/10.1093/rfs/hhm014
 - Wen, R., Torkkola, K., Narayanaswamy, B., Madeka, D. (2017). A Multi-Horizon Quantile Recurrent Forecaster. arXiv:1711.11053 (NIPS 2017 Time Series Workshop). https://arxiv.org/abs/1711.11053
@@ -4859,8 +4856,8 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - White, H. (2000). A Reality Check for Data Snooping. *Econometrica*, 68(5), 1097–1126. https://doi.org/10.1111/1468-0262.00152
 - Wiegreffe, S., Pinter, Y. (2019). Attention is not not Explanation. Proceedings of EMNLP-IJCNLP 2019, 11–20.
 - Winkler, R. L. (1972). A Decision-Theoretic Approach to Interval Estimation. Journal of the American Statistical Association, 67(337), 187–191.
-- Wolpert, D. H. (1992). Stacked Generalization. *Neural Networks*, 5(2), 241–259. [DOĞRULANAMADI]
-- Womack, K. L. (1996). Do Brokerage Analysts' Recommendations Have Investment Value? *Journal of Finance*, 51(1), 137–167. [DOĞRULANAMADI]
+- Wolpert, D. H. (1992). Stacked Generalization. *Neural Networks*, 5(2), 241–259. [D-arama]
+- Womack, K. L. (1996). Do Brokerage Analysts' Recommendations Have Investment Value? *Journal of Finance*, 51(1), 137–167. [D-arama]
 - Woo, G., Liu, C., Kumar, A., Xiong, C., Savarese, S., Sahoo, D. (2024). Unified Training of Universal Time Series Forecasting Transformers (Moirai). Proceedings of ICML 2024, PMLR 235. arXiv:2402.02592. https://github.com/SalesforceAIResearch/uni2ts [D]
 - Woo, G. vd. (2024). Unified Training of Universal Time Series Forecasting Transformers (Moirai). ICML 2024 (Oral); arXiv:2402.02592. https://arxiv.org/abs/2402.02592 ; depo: https://github.com/SalesforceAIResearch/uni2ts ; Moirai-MoE: arXiv:2410.10469
 - Wood, K., Giegerich, S., Roberts, S., Zohren, S. (2021). Trading with the Momentum Transformer: An Intelligent and Interpretable Architecture. arXiv:2112.08534. Kod: https://github.com/kieranjwood/trading-momentum-transformer — Doğrulandı (GitHub; arXiv sayfası erişilemedi).
@@ -4878,7 +4875,7 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Xiao, Y., Sun, E., Luo, D. ve Wang, W. (2025). TradingAgents: Multi-Agents LLM Financial Trading Framework. arXiv:2412.20138. https://arxiv.org/abs/2412.20138 (künye TauricResearch/TradingAgents README atıf bloğundan doğrulandı; makale içeriğine erişilemedi)
 - Xie, Q., Han, W., Chen, Z., Xiang, R., Zhang, X., He, Y., Xiao, M., Li, D., Dai, Y., Feng, D., ... Huang, J. (2024). FinBen: A Holistic Financial Benchmark for Large Language Models. NeurIPS 2024 (Datasets and Benchmarks). arXiv:2402.12659.
 - Xie, Q., Han, W., Zhang, X., Lai, Y., Peng, M., Lopez-Lira, A., & Huang, J. (2023). PIXIU: A Comprehensive Benchmark, Instruction Dataset and Large Language Model for Finance. Advances in Neural Information Processing Systems 36, Datasets and Benchmarks Track (NeurIPS 2023). arXiv:2306.05443. Kod: https://github.com/The-FinAI/PIXIU
-- Xie, Q., Han, W., Zhang, X., Lai, Y., Peng, M., Lopez-Lira, A. ve Huang, J. (2023). PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance. arXiv:2306.05443; *NeurIPS 2023 Datasets and Benchmarks*. [DOĞRULANAMADI]
+- Xie, Q., Han, W., Zhang, X., Lai, Y., Peng, M., Lopez-Lira, A. ve Huang, J. (2023). PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance. arXiv:2306.05443; *NeurIPS 2023 Datasets and Benchmarks* (NeurIPS sürümünün başlığı: "PIXIU: A Comprehensive Benchmark, Instruction Dataset and Large Language Model for Finance"). [D-arama]
 - Xie, Q. vd. (2023). PIXIU: A Large Language Model, Instruction Data and Evaluation Benchmark for Finance. arXiv:2306.05443; Xie, Q. vd. (2024). The FinBen: An Holistic Financial Benchmark for Large Language Models. arXiv:2402.12659. (PIXIU README atıflarından doğrulandı) https://github.com/The-FinAI/PIXIU (erişim 2026-10-05; ~891 yıldız; son commit 2025-03-04; MIT)
 - Xie, Q. vd. (2024). FinBen: A Holistic Financial Benchmark for Large Language Models. arXiv:2402.12659; *NeurIPS 2024 Datasets and Benchmarks*. https://nips.cc/virtual/2024/poster/97525
 - Xu, C., Xie, Y. (2021). Conformal prediction interval for dynamic time-series. Proceedings of ICML 2021, PMLR 139. arXiv:2010.09107. https://proceedings.mlr.press/v139/xu21h.html
@@ -4886,32 +4883,34 @@ Aşağıdaki liste, tüm bölümlerin kaynakçalarının birleştirilmiş ve tek
 - Xu, Y., & Cohen, S. B. (2018). Stock Movement Prediction from Tweets and Historical Prices. Proceedings of ACL 2018 (Vol. 1), 1970–1979. https://aclanthology.org/P18-1183 (DOI 10.18653/v1/P18-1183 — standart ACL şablonu; bu oturumda teyit edilemedi). Veri: https://github.com/yumoxu/stocknet-dataset
 - Yan, Y., Tang, R., Gao, Z., Jiang, W. ve Lu, Y. (2026). DatedGPT: Preventing Lookahead Bias in Large Language Models with Time-Aware Pretraining. arXiv:2603.11838. https://arxiv.org/abs/2603.11838
 - Yang, H., Liu, X.-Y., & Wang, C. D. (2023). FinGPT: Open-Source Financial Large Language Models. arXiv:2306.06031; FinLLM Workshop @ IJCAI 2023. Kod: https://github.com/AI4Finance-Foundation/FinGPT
-- Yang, H., Liu, X.-Y. ve Wang, C. D. (2023). FinGPT: Open-Source Financial Large Language Models. arXiv:2306.06031. [DOĞRULANAMADI]
+- Yang, H., Liu, X.-Y. ve Wang, C. D. (2023). FinGPT: Open-Source Financial Large Language Models. arXiv:2306.06031. [D-arama]
 - Yang, H. vd. (2024). FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models. arXiv:2405.14767. https://github.com/AI4Finance-Foundation/FinRobot (erişim 2026-10-05; ~8,1 bin yıldız; son commit 2026-09-28; Apache-2.0)
 - Yang, H., Zhang, B., She, Y., Liao, X., & Zhang, X. (2026). FinRL-X: An AI-Native Modular Infrastructure for Quantitative Trading. 2nd International Workshop on Decision Making and Optimization in Financial Technologies (DMO-FinTech) @ PAKDD 2026. arXiv:2603.21330. Kod: https://github.com/AI4Finance-Foundation/FinRL-Trading
 - Yang, H., Zhang, B., Wang, N., Guo, C., Zhang, X., Lin, L., Wang, J., Zhou, T., Guan, M., Zhang, R., & Wang, C. D. (2024). FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models. arXiv:2405.14767. DOI 10.48550/arXiv.2405.14767. Kod: https://github.com/AI4Finance-Foundation/FinRobot
-- Yang, H., Zhang, B., Wang, N., Guo, C., Zhang, X., Lin, L., Wang, J., Zhou, T., Guan, M., Zhang, R. ve Wang, C. D. (2024). FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models. arXiv:2405.14767. https://arxiv.org/abs/2405.14767 (README atfından doğrulandı; yazar listesi README'den alınmamıştır, [yazar listesi DOĞRULANAMADI])
+- Yang, H., Zhang, B., Wang, N., Guo, C., Zhang, X., Lin, L., Wang, J., Zhou, T., Guan, M., Zhang, R. ve Wang, C. D. (2024). FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models. arXiv:2405.14767. https://arxiv.org/abs/2405.14767 [D-arama]
 - Yang, X., Liu, W., Zhou, D., Bian, J., Liu, T.-Y. (2020). Qlib: An AI-oriented Quantitative Investment Platform. arXiv:2009.11189. https://arxiv.org/abs/2009.11189 (IC/ICIR/Rank IC metrikleri için: Qlib dokümantasyonu, https://github.com/microsoft/qlib)
 - Yang, X., Liu, W., Zhou, D., Bian, J. ve Liu, T.-Y. (2020). Qlib: An AI-oriented Quantitative Investment Platform. arXiv:2009.11189. (Qlib README atfından doğrulandı) https://github.com/microsoft/qlib (erişim 2026-10-05; ~49,1 bin yıldız; son commit 2026-09-16; MIT; PIT veritabanı 2022-03-10, PR #343)
 - Yang, X. vd. (2025). R&D-Agent: An LLM-Agent Framework Towards Autonomous Data Science. arXiv:2505.14738. (RD-Agent README atfından doğrulandı) https://github.com/microsoft/RD-Agent
 - Yang, Y., Tang, Y., & Tam, K. Y. (2023). InvestLM: A Large Language Model for Investment using Financial Domain Instruction Tuning. arXiv:2309.13064. https://github.com/AbaciNLP/InvestLM
-- Yang, Y., Tang, Y. ve Tam, K. Y. (2023). InvestLM: A Large Language Model for Investment using Financial Domain Instruction Tuning. arXiv:2309.13064. (Varlığı doğrulandı; arXiv kimliği [DOĞRULANAMADI].)
+- Yang, Y., Tang, Y. ve Tam, K. Y. (2023). InvestLM: A Large Language Model for Investment using Financial Domain Instruction Tuning. arXiv:2309.13064. [D-arama]
 - Yang, Y., Uy, M. C. S., & Huang, A. (2020). FinBERT: A Pretrained Language Model for Financial Communications. arXiv:2006.08097. Model: https://github.com/yya518/FinBERT
-- Yang, Y., Uy, M. C. S. ve Huang, A. (2020). FinBERT: A Pretrained Language Model for Financial Communications. arXiv:2006.08097. [DOĞRULANAMADI]
+- Yang, Y., Uy, M. C. S. ve Huang, A. (2020). FinBERT: A Pretrained Language Model for Financial Communications. arXiv:2006.08097. [D-arama]
 - Yu, Y., Li, H., Chen, Z., Jiang, Y., Li, Y., Zhang, D., Liu, R., Suchow, J. W., & Khashanah, K. (2023). FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design. arXiv:2311.13743 (IEEE Transactions on Big Data 2025 yayını raporlanmıştır). Kod: https://github.com/pipiku915/FinMem-LLM-StockTrading
 - Yu, Y. vd. (2023). FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design. arXiv:2311.13743. https://arxiv.org/abs/2311.13743 (README atıf bloğundan doğrulandı)
 - Yu, Y. vd. (2023). FinMem. arXiv:2311.13743. https://github.com/pipiku915/FinMem-LLM-StockTrading (erişim 2026-10-05; ~962 yıldız; son commit 2024-08-18; MIT)
-- Yu, Y. vd. (2024). FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making. NeurIPS 2024 (raporlanan). [DOĞRULANAMADI]
+- Yu, Y. vd. (2024). FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making. *NeurIPS 2024*; arXiv:2407.06567. [D-arama]
+- Yu, Z., Wu, Y., Wang, G. ve Weng, H. (2024). MIGA: Mixture-of-Experts with Group Aggregation for Stock Market Prediction. *arXiv:2410.02241*. [D-arama; düzeltildi: yazar listesi (Sun, W. vd. → Yu, Z., Wu, Y., Wang, G., Weng, H.)]
 - Zaffran, M., Féron, O., Goude, Y., Josse, J., Dieuleveut, A. (2022). Adaptive Conformal Predictions for Time Series. Proceedings of ICML 2022, PMLR 162. https://proceedings.mlr.press/v162/zaffran22a.html
 - Zeng, A., Chen, M., Zhang, L. ve Xu, Q. (2023). Are Transformers Effective for Time Series Forecasting? Proceedings of the AAAI Conference on Artificial Intelligence, 37(9), 11121–11128. https://doi.org/10.1609/aaai.v37i9.26317 ; depo: https://github.com/cure-lab/LTSF-Linear
 - Zeng, A., Chen, M., Zhang, L., Xu, Q. (2023). Are Transformers Effective for Time Series Forecasting? Proceedings of the AAAI Conference on Artificial Intelligence, 37(9), 11121–11128. https://doi.org/10.1609/aaai.v37i9.26317 ; https://github.com/cure-lab/LTSF-Linear [D]
 - Zhang, C., Liu, X., Zhang, Z., Jin, M., Li, L., Wang, Z., Hua, W., Shu, D., Zhu, S., Jin, X. vd. (2024). When AI Meets Finance (StockAgent): Large Language Model-based Stock Trading in Simulated Real-world Environments. arXiv:2407.18957; ACM Transactions on Intelligent Systems and Technology. https://github.com/MingyuJ666/Stockagent (depo doğrulandı; dergi bilgisi depodan)
-- Zhang, W. vd. (2024). A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist (FinAgent). arXiv:2402.18485. [DOĞRULANAMADI]
+- Zhang, W. vd. (2024). A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist (FinAgent). *Proceedings of KDD '24*; arXiv:2402.18485. [D-arama]
 - Zhang, W. vd. (2024). FinAgent: A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist. arXiv:2402.18485.
-- Zhang, X. ve Yang, Q. (2023). XuanYuan 2.0: A Large Chinese Financial Chat Model with Hundreds of Billions Parameters. arXiv:2305.12002. [DOĞRULANAMADI]
+- Zhang, X., Yang, Q. ve Xu, D. (2023). XuanYuan 2.0: A Large Chinese Financial Chat Model with Hundreds of Billions Parameters. *CIKM 2023*; arXiv:2305.12002. [D-arama; düzeltildi: yazar listesine Xu, D. eklendi; yayın yeri CIKM 2023 eklendi]
 - Zhang, Z., Zohren, S. ve Roberts, S. (2019). DeepLOB: Deep Convolutional Neural Networks for Limit Order Books. IEEE Transactions on Signal Processing, 67(11), 3001–3012. arXiv:1808.03668. https://arxiv.org/abs/1808.03668 ; depo: https://github.com/zcakhaa/DeepLOB-Deep-Convolutional-Neural-Networks-for-Limit-Order-Books
 - Zhang, Z., Zohren, S. ve Roberts, S. (2020). Deep Reinforcement Learning for Trading. Journal of Financial Data Science, 2(2), 25–40. arXiv:1911.10107. https://arxiv.org/abs/1911.10107
-- Zheng, L., Chiang, W.-L., Sheng, Y. vd. (2023). Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena. *NeurIPS 2023*. arXiv:2306.05685. [DOĞRULANAMADI]
+- Zhao, T., Lyu, J., Jones, S., Garber, H., Pasquali, S. ve Mehta, D. (2025). AlphaAgents: Large Language Model based Multi-Agents for Equity Portfolio Constructions. arXiv:2508.11152. [D-arama; düzeltildi: yazarlar ve arXiv kimliği eklendi]
+- Zheng, L., Chiang, W.-L., Sheng, Y. vd. (2023). Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena. *NeurIPS 2023 Datasets and Benchmarks*. arXiv:2306.05685. [D-arama]
 - Zhou, H., Zhang, S., Peng, J., Zhang, S., Li, J., Xiong, H. ve Zhang, W. (2021). Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting. AAAI 2021 (Best Paper); arXiv:2012.07436. https://arxiv.org/abs/2012.07436 ; depo: https://github.com/zhouhaoyi/Informer2020
 - Zhou, H., Zhang, S., Peng, J., Zhang, S., Li, J., Xiong, H., Zhang, W. (2021). Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting. Proceedings of AAAI, 35(12), 11106–11115. https://doi.org/10.1609/aaai.v35i12.17325 [D]
 - Zhou, T., Ma, Z., Wen, Q., Wang, X., Sun, L. ve Jin, R. (2022). FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting. ICML 2022; arXiv:2201.12740. https://arxiv.org/abs/2201.12740 ; depo: https://github.com/MAZiqing/FEDformer
